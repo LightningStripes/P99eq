@@ -1,0 +1,6 @@
+5
+cst,cst
+krk,krk_chr
+spc,frozenshadow_chr
+ena,frozenshadow_chr
+dke,dke

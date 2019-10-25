@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+  <Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+  <Button item="SELW_ActionsToggleButton">
+    <ScreenID>SELW_ActionsToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_InventoryToggleButton">
+    <ScreenID>SELW_InventoryToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_OptionsToggleButton">
+    <ScreenID>SELW_OptionsToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_FriendsToggleButton">
+    <ScreenID>SELW_FriendsToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_HotboxToggleButton">
+    <ScreenID>SELW_HotboxToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_CastSpellToggleButton">
+    <ScreenID>SELW_CastSpellToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_CombatSkillsToggleButton">
+    <ScreenID>SELW_CombatSkillsToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_PetInfoToggleButton">
+    <ScreenID>SELW_PetInfoToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_BuffToggleButton">
+    <ScreenID>SELW_BuffToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_SDBuffToggleButton">
+    <ScreenID>SELW_SDBuffToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_GuildToggleButton">
+    <ScreenID>SELW_GuildToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_MapToggleButton">
+    <ScreenID>SELW_MapToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_StoryToggleButton">
+    <ScreenID>SELW_StoryToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_JournalToggleButton">
+    <ScreenID>SELW_JournalToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_MailToggleButton">
+    <ScreenID>SELW_MailToggleButton</ScreenID>
+  </Button>
+  <Button item="SELW_HelpToggleButton">
+    <ScreenID>SELW_HelpToggleButton</ScreenID>
+  </Button>
+  <Screen item="SelectorWindow">
+    <!--<ScreenID/>-->
+    <RelativePosition>false</RelativePosition>
+    <Location>
+      <X>0</X>
+      <Y>0</Y>
+    </Location>
+    <Size>
+      <CX>0</CX>
+      <CY>0</CY>
+    </Size>
+    <Text>Window Selector</Text>
+    <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+    <Style_Titlebar>false</Style_Titlebar>
+    <Style_Closebox>false</Style_Closebox>
+    <Style_Minimizebox>false</Style_Minimizebox>
+    <Style_Border>true</Style_Border>
+    <Style_Sizable>false</Style_Sizable>
+    <Pieces>SELW_ActionsToggleButton</Pieces>
+    <Pieces>SELW_InventoryToggleButton</Pieces>
+    <Pieces>SELW_OptionsToggleButton</Pieces>
+    <Pieces>SELW_FriendsToggleButton</Pieces>
+    <Pieces>SELW_HotboxToggleButton</Pieces>
+    <Pieces>SELW_CastSpellToggleButton</Pieces>
+    <Pieces>SELW_CombatSkillsToggleButton</Pieces>
+    <Pieces>SELW_PetInfoToggleButton</Pieces>
+    <Pieces>SELW_BuffToggleButton</Pieces>
+    <Pieces>SELW_SDBuffToggleButton</Pieces>
+    <Pieces>SELW_GuildToggleButton</Pieces>
+    <Pieces>SELW_MapToggleButton</Pieces>
+    <Pieces>SELW_StoryToggleButton</Pieces>
+    <Pieces>SELW_JournalToggleButton</Pieces>
+    <Pieces>SELW_MailToggleButton</Pieces>
+    <Pieces>SELW_HelpToggleButton</Pieces>
+  </Screen>
+</XML>

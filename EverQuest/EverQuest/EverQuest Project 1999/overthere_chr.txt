@@ -1,0 +1,5 @@
+4
+pir,qeynos_chr
+shf,ssratemple_chr
+shm,ssratemple_chr
+shn,ssratemple_chr

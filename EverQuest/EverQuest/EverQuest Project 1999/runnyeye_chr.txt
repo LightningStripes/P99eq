@@ -1,0 +1,6 @@
+5
+KGO,LAKEOFILLOMEN_CHR
+rtn,rtn
+MNT,MNT
+EEY,EEY_chr
+CST,CST_chr

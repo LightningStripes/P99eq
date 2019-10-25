@@ -1,0 +1,14 @@
+13
+tar,tar
+dke,dke
+fgh,fgh_chr
+fud,fud_chr
+tzm,tzm_chr
+tzf,tzf_chr
+wil,commons_chr
+fun,unrest_chr
+mos,cazicthule_chr2
+sna,butcher_chr
+zof,innothule_chr
+zom,innothule_chr
+vac,thegrey_chr

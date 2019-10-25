@@ -1,0 +1,16 @@
+Installing Kunark Login Screen
+
+1. Unzip all 6 .tga files.
+2. Place them in your C:/Program Files/Sony/Everquest/uifiles/Default/ directory. 
+	You might want to backup the files you are replacing first!
+
+Or if you use a custom UI, you should make sure you place the .tga files in that directory instead.
+
+ex: C:/Program Files/Sony/Everquest/uifiles/Japino_Classic_UI/EQLS_background_01.tga
+							      EQLS_background_02.tga			
+							      EQLS_background_03.tga
+							      EQLS_background_04.tga
+							      EQLS_background_05.tga
+							      EQLS_background_06.tga
+
+*This installation guide assumes Everquest was installed in the default directory.

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+  <Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+  <Slider item="QTYW_Slider">
+    <ScreenID>QTYW_Slider</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>14</X>
+      <Y>38</Y>
+    </Location>
+    <Size>
+      <CX>101</CX>
+      <CY>20</CY>
+    </Size>
+    <SliderArt>Jib_p99Slider</SliderArt>
+  </Slider>
+  <Editbox item="QTYW_SliderInput">
+    <ScreenID>QTYW_SliderInput</ScreenID>
+    <DrawTemplate>WDT_Inner</DrawTemplate>
+    <RelativePosition>true</RelativePosition>
+    <Style_Border>true</Style_Border>
+    <Location>
+      <X>16</X>
+      <Y>13</Y>
+    </Location>
+    <Size>
+      <CX>34</CX>
+      <CY>20</CY>
+    </Size>
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+  </Editbox>
+  <Button item="QTYW_Accept_Button">
+    <ScreenID>QTYW_Accept_Button</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>65</X>
+      <Y>14</Y>
+    </Location>
+    <Size>
+      <CX>48</CX>
+      <CY>19</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>A_ClassicDoneNormal</Normal>
+      <Pressed>A_ClassicDonePressed</Pressed>
+      <Flyby>A_ClassicDoneNormal</Flyby>
+      <Disabled>A_ClassicDonePressed</Disabled>
+      <PressedFlyby>A_ClassicDonePressed</PressedFlyby>
+    </ButtonDrawTemplate>
+  </Button>
+  <!--Jib: Background texture -->
+  <Ui2DAnimation item="Jib_QuanBGTexture">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds01.tga</Texture>
+      <Location>
+        <X>147</X>
+        <!-- changes texture postion -->
+        <Y>448</Y>
+        <!-- changes texture postion -->
+      </Location>
+      <Size>
+        <CX>127</CX>
+        <!-- changes size of image -->
+        <CY>63</CY>
+        <!-- changes size of image -->
+      </Size>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <!-- this is the end of the pressed button -->
+  <!-- Jibartik Start: This positions a static aniamtion on the ui -->
+  <StaticAnimation item="Jib_QuanfBackgroud">
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>0</X>
+      <!-- changes texture postion -->
+      <Y>0</Y>
+      <!-- changes texture postion -->
+    </Location>
+    <Size>
+      <CX>127</CX>
+      <!-- changes size of image -->
+      <CY>63</CY>
+      <!-- changes size of image -->
+    </Size>
+    <Animation>Jib_QuanBGTexture</Animation>
+  </StaticAnimation>
+  <!-- END: place a static anaitmion -->
+  <Screen item="QuantityWnd">
+    <!--<ScreenID/>-->
+    <!--<Font/>-->
+    <RelativePosition>false</RelativePosition>
+    <Location>
+      <X>300</X>
+      <Y>10</Y>
+    </Location>
+    <Size>
+      <CX>127</CX>
+      <CY>63</CY>
+    </Size>
+    <Text>Quantity</Text>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+    <Style_Titlebar>false</Style_Titlebar>
+    <Style_Closebox>false</Style_Closebox>
+    <Style_Minimizebox>false</Style_Minimizebox>
+    <Style_Border>false</Style_Border>
+    <Style_Sizable>false</Style_Sizable>
+    <Pieces>QTYW_Slider</Pieces>
+    <Pieces>Jib_QuanfBackgroud</Pieces>
+    <Pieces>QTYW_SliderInput</Pieces>
+    <Pieces>QTYW_Accept_Button</Pieces>
+  </Screen>
+</XML>

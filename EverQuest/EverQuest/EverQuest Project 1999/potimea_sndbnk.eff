@@ -1,0 +1,15 @@
+EMIT
+clock_chime
+tinker01
+tinker03
+Torch3d
+earthquake
+dragon_fight_distant
+dragon_roar2_distant
+dragon_wingflap4_distant
+LOOP
+clock_tick_lp
+waterfall_med_lp
+hum_low_lp
+crystal_big_lp
+thunder_distant_lp

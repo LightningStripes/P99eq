@@ -1,0 +1,12 @@
+1^Agree
+2^Battle
+3^Disagree
+4^Follow
+5^Greet
+6^Heal
+7^Help
+8^Laugh
+9^Part
+10^Retreat
+11^Stop
+12^Thanks

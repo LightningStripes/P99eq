@@ -1,0 +1,315 @@
+
+2019-10-25 16:10:01	Starting EverQuest (Build Oct 31 2005 10:33:37)
+2019-10-25 16:10:01	Timezone: UTC-7h00m
+2019-10-25 16:10:01	Loading graphics DLL.
+2019-10-25 16:10:01	Parsing INI file .\eqclient.ini
+2019-10-25 16:10:01	INI file .\eqclient.ini loaded.
+2019-10-25 16:10:03	Initializing timers.
+2019-10-25 16:10:06	Checking critical files.
+2019-10-25 16:10:06	Initializing WinSock.
+2019-10-25 16:10:06	Enumerating 3D devices.
+2019-10-25 16:10:06	Found adapter #0 - Intel(R) UHD Graphics 620 (26.20.100.7107)
+2019-10-25 16:10:06	Adapter #0 - Intel(R) UHD Graphics 620 :
+2019-10-25 16:10:06	32Bit = 1, D32 = 0, D24 = 1, D16 = 1 
+2019-10-25 16:10:06	16Bit(565) = 1, D32 = 0, D24 = 1, D16 = 1 
+2019-10-25 16:10:06	16Bit(1555) = 0, D32 = 0, D24 = 0, D16 = 0 
+2019-10-25 16:10:06	Initializing keypress handler.
+2019-10-25 16:10:06	Parsing INI file .\defaults.ini
+2019-10-25 16:10:06	INI file .\defaults.ini loaded.
+2019-10-25 16:10:06	Loading keyboard tables.
+2019-10-25 16:10:06	Creating window.
+2019-10-25 16:10:06	Checking display driver version.
+2019-10-25 16:10:07	Activating window.
+2019-10-25 16:10:07	Picking a default resolution, desktop is 1920 x 1080, 32 bits
+2019-10-25 16:10:07	Ratio is 1.78
+2019-10-25 16:10:07	Resolution was capped at 1280 x 720
+2019-10-25 16:10:07	Resolution verified 1280 x 720, 32 bits ... diff was 1000 from 0 modes
+2019-10-25 16:10:07	Resolution selected 1280 x 720, 32 bits
+2019-10-25 16:10:07	CRender::InitDevice: Using 32bit mode.
+2019-10-25 16:10:07	CRender::InitDevice: Using vsync 0.
+2019-10-25 16:10:07	CRender::InitDevice: Using 24bit depth buffer with 8 bit stencil.
+2019-10-25 16:10:07	CRender::InitDevice: HardwareTnL Enabled.  
+2019-10-25 16:10:07	Using hardware vertex shaders. 
+2019-10-25 16:10:07	Initializing render system.
+2019-10-25 16:10:07	Trilinear Mipmapping available.
+2019-10-25 16:10:07	Vertex Shader Version: 3.0 
+2019-10-25 16:10:07	Pixel Shader Version: 3.0 
+2019-10-25 16:10:07	Initializing engine internals.
+2019-10-25 16:10:07	CRender::InitDevice completed successfully.
+2019-10-25 16:10:07	Parsing INI file ./eqlsUIConfig.ini
+2019-10-25 16:10:07	INI file ./eqlsUIConfig.ini loaded.
+2019-10-25 16:10:26	Server selected 144.121.19.168 (6037448).
+2019-10-25 16:10:26	Initializing DirectInput.
+2019-10-25 16:10:26	Initializing Keyboard.
+2019-10-25 16:10:26	Initializing Mouse.
+2019-10-25 16:10:26	Creating font list.
+2019-10-25 16:10:27	Creating game object.
+2019-10-25 16:10:27	Deleting obsolete files.
+2019-10-25 16:10:27	Loading string tables.
+2019-10-25 16:10:27	Initializing client variables.
+2019-10-25 16:10:27	Loading spell effects.
+2019-10-25 16:10:27	Initializing display structures.
+2019-10-25 16:10:27	Sound Manager loaded 2134 filenames from soundassets.txt.
+2019-10-25 16:10:28	Voice Manager loaded 12 macros from VoiceData.txt.
+2019-10-25 16:10:28	Networking: using port [52277].
+2019-10-25 16:10:28	Networking: Connection Established [1]
+2019-10-25 16:10:28	WorldAuthenticate: Initiating Login.
+2019-10-25 16:10:28	WorldAuthenticate.  I got a message of type 0xfa6 (4006).
+2019-10-25 16:10:28	WorldRPServer message: server name P1999Green
+2019-10-25 16:10:28	
+2019-10-25 16:10:28	WorldAuthenticate.  I got a message of type 0x4ec (1260).
+2019-10-25 16:10:28	WorldAuthenticate.  I got a message of type 0x3c25 (15397).
+2019-10-25 16:10:31	WorldAuthenticate.  I got a message of type 0x6957 (26967).
+2019-10-25 16:10:31	WorldAuthenticate.  I got a message of type 0x4513 (17683).
+2019-10-25 16:10:31	Check 1sa. 0xd46a738f
+2019-10-25 16:10:31	
+2019-10-25 16:10:31	Check 1x. 0x9e15bc94
+2019-10-25 16:10:31	
+2019-10-25 16:10:31	WorldAuthenticate.  I got a message of type 0x7cba (31930).
+2019-10-25 16:10:31	WorldAuthenticate.  I got a message of type 0x52a4 (21156).
+2019-10-25 16:10:31	WorldAuthenticate.  Access granted.
+2019-10-25 16:10:31	
+2019-10-25 16:10:31	Race Manager loaded 475 races from racedata.txt.
+2019-10-25 16:10:31	Player Animations loaded 9 specific sounds from file AnimationSounds.txt.
+2019-10-25 16:10:31	Initializing display.
+2019-10-25 16:10:31	Initializing Particle System.
+2019-10-25 16:10:31	Setting display options.
+2019-10-25 16:10:31	CRender::InitDevice: Using 32bit mode.
+2019-10-25 16:10:31	CRender::InitDevice: Using vsync 0.
+2019-10-25 16:10:31	CRender::InitDevice: Using 24bit depth buffer with 8 bit stencil.
+2019-10-25 16:10:31	CRender::InitDevice: HardwareTnL Enabled.  
+2019-10-25 16:10:31	Using hardware vertex shaders. 
+2019-10-25 16:10:31	Initializing render system.
+2019-10-25 16:10:31	Trilinear Mipmapping available.
+2019-10-25 16:10:31	Vertex Shader Version: 3.0 
+2019-10-25 16:10:31	Pixel Shader Version: 3.0 
+2019-10-25 16:10:31	RenderEffects\SPL/Lit.fxo is using Technique: Lit_DX6_FF_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionOldDetailSingle.fxo is using Technique: DetailSingle_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionOldDetailPalette.fxo is using Technique: DetailPalette_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionC1.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCG1.fxo is using Technique: RegionCG1_DX6_VS1_PS0_1Pass 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCE1.fxo is using Technique: RegionCE1_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCB1.fxo is using Technique: RegionCB1_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCBS1.fxo is using Technique: RegionCBS1_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCBSG1.fxo is using Technique: RegionCBSG1_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCBSGE1.fxo is using Technique: RegionCBSGE1_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionC1_2UV.fxo is using Technique: RegionC1_2UV_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCB1_2UV.fxo is using Technique: RegionCB1_2UV_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionCBSG1_2UV.fxo is using Technique: RegionCBSG1_2UV_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionTerrain.fxo is using Technique: RegionTerrain_DX8_VS1_PS11 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionLava.fxo is using Technique: RegionLava_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionLava2.fxo is using Technique: RegionLava2_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelC1.fxo is using Technique: SModelC1Prelit_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCG1.fxo is using Technique: SModelCG1Prelit_DX6_VS1_PS0_1Pass 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCE1.fxo is using Technique: SModelCE1Prelit_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCB1.fxo is using Technique: SModelCB1Prelit_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCBS1.fxo is using Technique: SModelCBS1Prelit_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCBSG1.fxo is using Technique: SModelCBSG1Prelit_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCBSGE1.fxo is using Technique: SModelCBSGE1Prelit_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelC1_2UV.fxo is using Technique: SModelC1_2UVPrelit_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCB1_2UV.fxo is using Technique: SModelCB1_2UVPrelit_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelCBSG1_2UV.fxo is using Technique: SModelCBSG1_2UVPrelit_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelLava.fxo is using Technique: SModelLavaPrelit_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/SModelLava2.fxo is using Technique: SModelLava2Prelit_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshC1.fxo is using Technique: SkinMeshC1_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshCG1.fxo is using Technique: SkinMeshCG1_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshCE1.fxo is using Technique: SkinMeshCE1_DX9_VS2_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshCB1.fxo is using Technique: SkinMeshCB1_DX8_VS1_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshCBS1.fxo is using Technique: SkinMeshCBS1_DX9_VS2_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshCBSG1.fxo is using Technique: SkinMeshCBSG1_DX9_VS2_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshCBSGE1.fxo is using Technique: SkinMeshCBSGE1_DX9_VS2_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshLava.fxo is using Technique: SkinMeshLava_DX9_VS2_PS14 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshLava2.fxo is using Technique: SkinMeshLava2_DX9_VS2_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshOld.fxo is using Technique: SkinMeshOld_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshLuclin.fxo is using Technique: SkinMeshLuclin_DX8_VS1_PS11 
+2019-10-25 16:10:31	RenderEffects\SPL/SkinMeshLuclinT1.fxo is using Technique: SkinMeshLuclinT1_DX6_VS1_PS0_1Pass 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionOldA.fxo is using Technique: RegionOldA_DX6_VS1_PS0 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionWater.fxo is using Technique: RegionWater_DX9_VS1_PS20 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionWaterFall.fxo is using Technique: RegionWaterFall_DX8_VS1_PS11 
+2019-10-25 16:10:31	RenderEffects\SPL/RegionLavaH.fxo is using Technique: RegionLava_DX9_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\SPL/SModelWater.fxo is using Technique: SModelWater_DX9_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\SPL/SkinMeshWater.fxo is using Technique: SkinMeshCBSGE1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_Basic.fxo is using Technique: RegionBasic_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_Blend.fxo is using Technique: RegionBlnd_DX8_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_BlendNoBump.fxo is using Technique: RegionBlndNoBump_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_Full.fxo is using Technique: RegionFull_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_Full_2UV.fxo is using Technique: RegionFull2UV_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_Bump.fxo is using Technique: RegionBump_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_Bump_2UV.fxo is using Technique: RegionBump2UV_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_SB.fxo is using Technique: RegionSB_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_SB_2UV.fxo is using Technique: RegionSB2UV_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_GB.fxo is using Technique: RegionGB_DX8_VS1_PS11_NoGlow 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_GB_2UV.fxo is using Technique: RegionGB2UV_DX8_VS1_PS11_NoGlow 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_RB.fxo is using Technique: RegionRB_DX8_VS1_PS14 
+2019-10-25 16:10:32	RenderEffects\SPL/Region_RB_2UV.fxo is using Technique: RegionRB2UV_DX8_VS1_PS14 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_Basic.fxo is using Technique: SModelBasic_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_Blend.fxo is using Technique: SModelBlnd_DX8_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_BlendNoBump.fxo is using Technique: SModelBlndNoBump_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_Full.fxo is using Technique: SModelFull_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_Full_2UV.fxo is using Technique: SModelFull2UV_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_Bump.fxo is using Technique: SModelBump_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_Bump_2UV.fxo is using Technique: SModelBump2UV_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_SB.fxo is using Technique: SModelSB_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_SB_2UV.fxo is using Technique: SModelSB2UV_DX8_VS1_PS14_Norm_Pow 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_GB.fxo is using Technique: SModelGB_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_GB_2UV.fxo is using Technique: SModelGB2UV_DX8_VS1_PS11_NoGlow 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_RB.fxo is using Technique: SModelRB_DX8_VS1_PS14 
+2019-10-25 16:10:32	RenderEffects\SPL/SModel_RB_2UV.fxo is using Technique: SModelRB2UV_DX8_VS1_PS14 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_Bump3Detail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_3Detail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_Bump2Detail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_2Detail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_Bump1Detail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_1Detail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\SPL/Terrain_NoDetail.fxo is using Technique: RegionC1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_Base.fxo is using Technique: TerrainBase_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_LightB3SVS1.fxo is using Technique: TerrainLightB3SVS1_DX9_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_LightB2SVS1.fxo is using Technique: TerrainLightB2SVS1_DX9_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_LightB1SVS1.fxo is using Technique: TerrainLightB1SVS1_DX9_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_LightVS1.fxo is using Technique: TerrainLightVS1_DX9_VS1_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_TextureD3SC1T.fxo is using Technique: TerrainTextureD3SC1T_DX8_VS1_PS14 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_TextureD2SC1T.fxo is using Technique: TerrainTextureD2SC1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_TextureD1SC1T.fxo is using Technique: TerrainTextureD1SC1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/Terrain_TextureC1T.fxo is using Technique: TerrainTextureC1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_Base.fxo is using Technique: RegionBase_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_BaseB.fxo is using Technique: RegionBaseB_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_BaseG.fxo is using Technique: RegionBaseG_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_BaseGA.fxo is using Technique: RegionBaseGA_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_BaseGB.fxo is using Technique: RegionBaseGB_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_Light1.fxo is using Technique: RegionLight1_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_LightB1.fxo is using Technique: RegionLightB1_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_LightBS1.fxo is using Technique: RegionLightBS1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_LightBSF1.fxo is using Technique: RegionLightBSF1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_LightBVS1.fxo is using Technique: RegionLightBVS1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_LightB2VS1.fxo is using Technique: RegionLightB2VS1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1.fxo is using Technique: RegionTextureD1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1T.fxo is using Technique: RegionTextureD1T_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1C1.fxo is using Technique: RegionTextureD1C1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1C1T.fxo is using Technique: RegionTextureD1C1T_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1C1ST.fxo is using Technique: RegionTextureD1C1ST_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1R1.fxo is using Technique: RegionTextureD1R1_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1C1R1T.fxo is using Technique: RegionTextureD1C1R1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD1C1SR1T.fxo is using Technique: RegionTextureD1C1SR1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/Region_TextureD2C1ST.fxo is using Technique: RegionTextureD2C1ST_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_Base.fxo is using Technique: SModelBase_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_BaseB.fxo is using Technique: SModelBaseB_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_BaseG.fxo is using Technique: SModelBaseG_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_BaseGA.fxo is using Technique: SModelBaseGA_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_BaseGB.fxo is using Technique: SModelBaseGB_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_Light1.fxo is using Technique: SModelLight1_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_LightB1.fxo is using Technique: SModelLightB1_DX8_VS1_PS11_Norm 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_LightBS1.fxo is using Technique: SModelLightBS1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_LightBSF1.fxo is using Technique: SModelLightBSF1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_LightBVS1.fxo is using Technique: SModelLightBVS1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_LightB2VS1.fxo is using Technique: SModelLightB2VS1_DX9_VS2_PS20 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1.fxo is using Technique: SModelTextureD1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1T.fxo is using Technique: SModelTextureD1T_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1C1.fxo is using Technique: SModelTextureD1C1_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1C1T.fxo is using Technique: SModelTextureD1C1T_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1C1ST.fxo is using Technique: SModelTextureD1C1ST_DX6_VS1_PS0 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1R1.fxo is using Technique: SModelTextureD1R1_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1C1R1T.fxo is using Technique: SModelTextureD1C1R1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD1C1SR1T.fxo is using Technique: SModelTextureD1C1SR1T_DX8_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/SModel_TextureD2C1ST.fxo is using Technique: SModelTextureD2C1ST_DX6_VS1_PS11 
+2019-10-25 16:10:32	RenderEffects\MPL/FinalBlend.fxo is using Technique: Final_DX8_VS1_PS11 
+2019-10-25 16:10:32	Initializing engine internals.
+2019-10-25 16:10:32	CRender::InitDevice completed successfully.
+2019-10-25 16:10:32	Display options set, return code 1.
+2019-10-25 16:10:32	AutoMipMapping set to 1.
+2019-10-25 16:10:32	Camera created.
+2019-10-25 16:10:32	Storing display options.
+2019-10-25 16:10:32	Initializing fonts.
+2019-10-25 16:10:32	Loading string tables.
+2019-10-25 16:10:32	Initializing UI.
+2019-10-25 16:10:32	Initializing UI manager.
+2019-10-25 16:10:32	Initializing fonts.
+2019-10-25 16:10:32	Parsing UI XML.
+2019-10-25 16:10:33	Loading default UI resources.
+2019-10-25 16:10:33	Initializing Music.
+2019-10-25 16:10:33	Activating Load Screen.
+2019-10-25 16:10:34	Display initialized.
+2019-10-25 16:10:34	Initializing global data.
+2019-10-25 16:10:34	Loading GlobalFroglok_chr
+2019-10-25 16:10:34	Loading GlobalPCFroglok_chr
+2019-10-25 16:10:34	Failed to open C:\EverQuest\EverQuest Project 1999\GlobalPCFroglok_chr.s3d.
+2019-10-25 16:10:34	
+2019-10-25 16:10:34	Loading frogequip
+2019-10-25 16:10:34	Failed to open C:\EverQuest\EverQuest Project 1999\frogequip.s3d.
+2019-10-25 16:10:34	
+2019-10-25 16:10:34	Loading GlobalSKE_chr2
+2019-10-25 16:10:34	Loading GlobalDRK_chr
+2019-10-25 16:10:34	Failed to open C:\EverQuest\EverQuest Project 1999\GlobalDRK_chr.s3d.
+2019-10-25 16:10:34	
+2019-10-25 16:10:34	Loading Global_obj
+2019-10-25 16:10:34	Loading GEquip
+2019-10-25 16:10:34	Loading GEquip8
+2019-10-25 16:10:34	Loading GEquip2
+2019-10-25 16:10:34	Loading grass
+2019-10-25 16:10:34	Loading GEquip4
+2019-10-25 16:10:34	Loading GEquip3
+2019-10-25 16:10:34	Loading loyequip
+2019-10-25 16:10:34	Failed to open C:\EverQuest\EverQuest Project 1999\loyequip.s3d.
+2019-10-25 16:10:34	
+2019-10-25 16:10:34	Loading ldonequip
+2019-10-25 16:10:34	Failed to open C:\EverQuest\EverQuest Project 1999\ldonequip.s3d.
+2019-10-25 16:10:34	
+2019-10-25 16:10:34	Loading gatesequip
+2019-10-25 16:10:34	Failed to open C:\EverQuest\EverQuest Project 1999\gatesequip.s3d.
+2019-10-25 16:10:34	
+2019-10-25 16:10:34	Loading GEquip6
+2019-10-25 16:10:34	Loading Global7_chr
+2019-10-25 16:10:35	Loading rap_chr
+2019-10-25 16:10:35	Loading skt_chr
+2019-10-25 16:10:35	Loading Global4_chr
+2019-10-25 16:10:35	Loading Global_chr
+2019-10-25 16:10:36	Loading Global17_amr
+2019-10-25 16:10:36	Loading Global18_amr
+2019-10-25 16:10:36	Loading Global19_amr
+2019-10-25 16:10:36	Loading Global20_amr
+2019-10-25 16:10:36	Loading Global21_amr
+2019-10-25 16:10:36	Loading Global22_amr
+2019-10-25 16:10:37	Loading Global23_amr
+2019-10-25 16:10:37	Loading Global2_chr
+2019-10-25 16:10:37	Loading Global3_chr
+2019-10-25 16:10:37	Loading GEquip5
+2019-10-25 16:10:37	Loading growthplane_chr
+2019-10-25 16:10:37	Loading karnor_chr
+2019-10-25 16:10:37	Initializing sky system.
+2019-10-25 16:10:37	Global data initialized.
+2019-10-25 16:10:37	Starting process game.
+2019-10-25 16:10:37	Starting network game.
+2019-10-25 16:10:37	
+2019-10-25 16:10:37	Check 1sa. 0xd46a738f
+2019-10-25 16:10:37	
+2019-10-25 16:10:37	Check 1x. 0x9e15bc94
+2019-10-25 16:10:37	
+2019-10-25 16:10:37	Starting load.
+2019-10-25 16:10:37	
+2019-10-25 16:10:37	Attempting to load load.EQG.
+2019-10-25 16:10:37	Verifying world files.
+2019-10-25 16:10:37	Loading zone specific files.
+2019-10-25 16:10:37	Loading load_obj2
+2019-10-25 16:10:37	Loading load_obj
+2019-10-25 16:10:37	Loading load_chr2
+2019-10-25 16:10:37	Loading load_chr
+2019-10-25 16:10:37	Loading load
+2019-10-25 16:10:38	Loading objects
+2019-10-25 16:10:38	Loading lights
+2019-10-25 16:10:38	Initializing cameras.
+2019-10-25 16:10:38	Initializing lights.
+2019-10-25 16:10:38	Initializing visual effects.
+2019-10-25 16:10:38	Initializing target indicator.
+2019-10-25 16:10:38	Initializing player path.
+2019-10-25 16:10:38	Performing post-load operations.
+2019-10-25 16:10:38	Initializing precipitation system.
+2019-10-25 16:10:38	World initialized: load
+2019-10-25 16:10:38	load done.
+2019-10-25 16:10:38	
+2019-10-25 16:10:38	Starting char select.
+2019-10-25 16:10:38	
+2019-10-25 16:10:38	Clearing display buffers.
+2019-10-25 16:10:38	
+2019-10-25 16:10:38	Display buffers cleared.
+2019-10-25 16:10:38	
+2019-10-25 16:10:38	Initializing character select UI.
+2019-10-25 16:10:38	Resetting game UI.

@@ -1,0 +1,2101 @@
+[Fri Sep 20 21:59:12 2019] Welcome to EverQuest!
+[Fri Sep 20 21:59:12 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Fri Sep 20 21:59:12 2019] You have entered North Qeynos.
+[Fri Sep 20 21:59:12 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Fri Sep 20 22:00:15 2019] Priest of Discord begins to cast a spell.
+[Fri Sep 20 22:00:18 2019] Priest of Discord looks resolute.
+[Fri Sep 20 22:00:28 2019] Umvera Dekash begins to cast a spell.
+[Fri Sep 20 22:00:55 2019] Priest of Order begins to cast a spell.
+[Fri Sep 20 22:02:51 2019] You can't reach that, get closer.
+[Fri Sep 20 22:02:53 2019] Lashun Novashine shouts, 'Cease this endless conflict and seek salvation in the Temple of Life! The glory of Rodcet Nife awaits you!'
+[Fri Sep 20 22:03:03 2019] Consider whom?
+[Fri Sep 20 22:03:03 2019] Consider whom?
+[Fri Sep 20 22:03:47 2019] Umvera Dekash begins to cast a spell.
+[Fri Sep 20 22:03:54 2019] Fippy Darkpaw shouts, '<BBBBBAAAARRRKKKK!!!!!> You humans will pay for ruining our homeland!! GRRRRRRRR!!!! Family Darkpaw of the Sabertooth Clan will slay you all!! <BARK!>'
+[Fri Sep 20 22:04:05 2019] Shenro Kazpur says 'Greetings, Barou. You look like you could use a Rusty Long Sword.'
+[Fri Sep 20 22:04:19 2019] Shenro Kazpur tells you, 'That'll be 2 gold 9 copper for the Blue Training Robe*.'
+[Fri Sep 20 22:04:38 2019] You say, 'Hail, Seta Bakindo'
+[Fri Sep 20 22:04:38 2019] Seta Bakindo says, 'Ah... Welcome friend. I am Master Seta, of the Silent Fist Clan. We know that true strength lies inside your soul. Once you have found and mastered it, your fists will be deadlier than any blade.'
+[Fri Sep 20 22:04:45 2019] Seta Bakindo says 'Nice to see you working on your skills Barou.'
+[Fri Sep 20 22:04:45 2019] Seta Bakindo kindly considers you -- what would you like your tombstone to say?
+[Fri Sep 20 22:04:47 2019] Seta Bakindo says 'See you soon Barou.'
+[Fri Sep 20 22:06:15 2019] LuSun says 'Welcome Barou, let's get to work!'
+[Fri Sep 20 22:06:15 2019] LuSun kindly considers you -- what would you like your tombstone to say?
+[Fri Sep 20 22:06:17 2019] LuSun says 'Use your skills wisely Barou.'
+[Fri Sep 20 22:06:24 2019] LuSun says, 'Greetings, and welcome to the Silent Fist Clan. Don our guild tunic, purge your mind and soul, and begin your lifelong devotion to the Clan. Brother Esrinap will introduce you to our lifestyle and begin your training. Be sound, allow your spirit to open up and guide you.'
+[Fri Sep 20 22:06:24 2019] Your faction standing with AshenOrder got better.
+[Fri Sep 20 22:06:24 2019] Your faction standing with KnightsofTruth got better.
+[Fri Sep 20 22:06:24 2019] Your faction standing with SilentFistClan got better.
+[Fri Sep 20 22:06:24 2019] You gain experience!!
+[Fri Sep 20 22:06:29 2019] You no longer have a target.
+[Fri Sep 20 22:06:42 2019] You say, 'Hail, LuSun'
+[Fri Sep 20 22:06:42 2019] LuSun says, 'Ah.. Greetings.. I am LuSun, Guild Master of the Silent Fist Clan. Here, our goal is to train our body, mind, and soul to the peak of perfection.'
+[Fri Sep 20 22:07:02 2019] Togahn Sorast says 'Nice to see you working on your skills Barou.'
+[Fri Sep 20 22:07:02 2019] Togahn Sorast kindly considers you -- what would you like your tombstone to say?
+[Fri Sep 20 22:07:03 2019] You say, 'Hail, Togahn Sorast'
+[Fri Sep 20 22:07:04 2019] Togahn Sorast says, 'Greetings.. I am Second Master Togahn Sorast. I am here to teach the ways of our guild. For our more advanced members, I will give out [headbands] as a reward for their contribution to the clan.'
+[Fri Sep 20 22:07:13 2019] You say, 'what headbands'
+[Fri Sep 20 22:07:13 2019] Togahn Sorast says, 'The Silent Fist Clan gives out colored Headbands for various deeds completed by our students. [Phin] gives out the [White, Yellow, and Orange Headbands].. and I give out the [Red, Purple, and Blue Headbands].'
+[Fri Sep 20 22:07:23 2019] You say, 'Hail, Phin Esrinap'
+[Fri Sep 20 22:07:23 2019] Phin Esrinap says, 'Hello, my name is Phin. Practice, practice, practice.. That's my motto. It is my responsibility to train our members, and help them to advance their skills and abilities. I also reward our members with colored [Headbands] for completing certain tasks.'
+[Fri Sep 20 22:07:29 2019] You say, 'what headbands'
+[Fri Sep 20 22:07:30 2019] Phin Esrinap says, 'Yes, I give the [White, Yellow, and Orange Headbands] to our newer members, and Togahn gives out [Red, Purple, and Blue Headbands] to our elder members.'
+[Fri Sep 20 22:07:35 2019] You say, 'what white headband'
+[Fri Sep 20 22:07:35 2019] Phin Esrinap says, 'That is our training headband.. Beginning students can earn this by slaying four [gnoll] pups, and bringing their scalps back to me.'
+[Fri Sep 20 22:07:44 2019] You say, 'what gnoll pups'
+[Fri Sep 20 22:07:45 2019] Phin Esrinap says, 'Those vile creatures are constantly attacking our city.. and often killing innocent citizens. It is our duty to help defend Qeynos from their vicious raids.'
+[Fri Sep 20 22:07:55 2019] Togahn Sorast says 'Use your skills wisely Barou.'
+[Fri Sep 20 22:08:25 2019] Umvera Dekash begins to cast a spell.
+[Fri Sep 20 22:08:35 2019] Priest of Order regards you indifferently -- what would you like your tombstone to say?
+[Fri Sep 20 22:08:49 2019] a Klicnik  Drone glowers at you dubiously -- looks like quite a gamble.
+[Fri Sep 20 22:08:52 2019] a fire beetle glowers at you dubiously -- looks like quite a gamble.
+[Fri Sep 20 22:08:53 2019] Lashun Novashine shouts, 'Cease this endless conflict and seek salvation in the Temple of Life! The glory of Rodcet Nife awaits you!'
+[Fri Sep 20 22:08:55 2019] a bat glowers at you dubiously -- looks like an even fight.
+[Fri Sep 20 22:08:56 2019] Auto attack is on.
+[Fri Sep 20 22:08:56 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:08:56 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:08:58 2019] A bat bites YOU for 4 points of damage.
+[Fri Sep 20 22:09:01 2019] A bat bites YOU for 3 points of damage.
+[Fri Sep 20 22:09:03 2019] You punch a bat for 8 points of damage.
+[Fri Sep 20 22:09:04 2019] A bat bites YOU for 3 points of damage.
+[Fri Sep 20 22:09:07 2019] A bat bites YOU for 2 points of damage.
+[Fri Sep 20 22:09:10 2019] A bat bites YOU for 1 point of damage.
+[Fri Sep 20 22:09:10 2019] You punch a bat for 8 points of damage.
+[Fri Sep 20 22:09:14 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:09:14 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:09:18 2019] You punch a bat for 1 point of damage.
+[Fri Sep 20 22:09:18 2019] You have become better at Dual Wield! (6)
+[Fri Sep 20 22:09:21 2019] You punch a bat for 3 points of damage.
+[Fri Sep 20 22:09:21 2019] You have slain a bat!
+[Fri Sep 20 22:09:21 2019] You gain experience!!
+[Fri Sep 20 22:09:42 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:09:45 2019] Auto attack is on.
+[Fri Sep 20 22:09:45 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:09:45 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:09:48 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Sep 20 22:09:49 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:09:52 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:09:54 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Sep 20 22:09:55 2019] You have become better at Kick! (1)
+[Fri Sep 20 22:09:56 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:09:56 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:09:57 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:09:59 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:00 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Sep 20 22:10:00 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:10:02 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:03 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:10:06 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:07 2019] You have become better at Offense! (1)
+[Fri Sep 20 22:10:09 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:09 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:10:12 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Sep 20 22:10:13 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:14 2019] You punch a decaying skeleton for 5 points of damage.
+[Fri Sep 20 22:10:15 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:10:16 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:18 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:10:18 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:10:19 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:21 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Sep 20 22:10:22 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:24 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:10:25 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Sep 20 22:10:25 2019] You have slain a decaying skeleton!
+[Fri Sep 20 22:10:25 2019] You gain experience!!
+[Fri Sep 20 22:10:26 2019] You receive 1 silver and 2 copper from the corpse.
+[Fri Sep 20 22:10:27 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:28 2019] --You have looted a Bone Chips.--
+[Fri Sep 20 22:10:29 2019] --You have looted a Bone Chips.--
+[Fri Sep 20 22:10:29 2019] --You have looted a Loaf of Bread.--
+[Fri Sep 20 22:10:30 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:33 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:37 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:37 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:38 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:10:38 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:10:39 2019] Molf feels better.
+[Fri Sep 20 22:10:40 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:40 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:43 2019] Molf feels better.
+[Fri Sep 20 22:10:43 2019] You say, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:10:43 2019] Lashun Novashine says, 'Well met, Barou. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:10:45 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:45 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:47 2019] Molf feels better.
+[Fri Sep 20 22:10:48 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:48 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:49 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:10:49 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:10:50 2019] Molf feels better.
+[Fri Sep 20 22:10:51 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:51 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:53 2019] Molf feels better.
+[Fri Sep 20 22:10:54 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:54 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:55 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:10:55 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:10:56 2019] Molf feels better.
+[Fri Sep 20 22:10:57 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:10:57 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:10:58 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:10:58 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:10:59 2019] Lashun Novashine looks courageous.
+[Fri Sep 20 22:11:01 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:01 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:01 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:01 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:03 2019] Molf feels better.
+[Fri Sep 20 22:11:04 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:04 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:05 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:05 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:06 2019] Molf feels better.
+[Fri Sep 20 22:11:07 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:07 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:08 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:08 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:09 2019] Molf feels better.
+[Fri Sep 20 22:11:10 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:10 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:11 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:11 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:11 2019] Fippy Darkpaw shouts, '<BBBBBAAAARRRKKKK!!!!!> You humans will pay for ruining our homeland!! GRRRRRRRR!!!! Family Darkpaw of the Sabertooth Clan will slay you all!! <BARK!>'
+[Fri Sep 20 22:11:12 2019] Molf feels better.
+[Fri Sep 20 22:11:14 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:14 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:14 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:14 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:16 2019] Molf feels better.
+[Fri Sep 20 22:11:17 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:17 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:18 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:18 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:19 2019] Molf feels better.
+[Fri Sep 20 22:11:21 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:21 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:22 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:22 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:23 2019] Molf feels better.
+[Fri Sep 20 22:11:25 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:25 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:25 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:25 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:27 2019] Molf feels better.
+[Fri Sep 20 22:11:28 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:28 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:28 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:28 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:30 2019] Molf feels better.
+[Fri Sep 20 22:11:32 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:32 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:33 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:33 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:34 2019] Molf feels better.
+[Fri Sep 20 22:11:36 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:36 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:36 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:36 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:38 2019] Molf feels better.
+[Fri Sep 20 22:11:40 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:40 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:42 2019] Molf feels better.
+[Fri Sep 20 22:11:43 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:43 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:43 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:43 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:45 2019] Molf feels better.
+[Fri Sep 20 22:11:46 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:46 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:48 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:48 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:48 2019] Molf feels better.
+[Fri Sep 20 22:11:53 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:53 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:11:56 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:11:56 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:11:58 2019] Molf feels better.
+[Fri Sep 20 22:11:59 2019] Molf says, 'Hail, Lashun Novashine'
+[Fri Sep 20 22:11:59 2019] Lashun Novashine says 'Well met, Molf. My name is Lashun Novashine and I am a humble priest of Rodcet Nife, the Prime Healer. I wish to spread His word to every corner of Norrath. My job gets more difficult each day with so many so willing to take lives rather than preserve them.'
+[Fri Sep 20 22:12:00 2019] Lashun Novashine says 'Thank you for the donation to the Temple of Life. May Rodcet Nife cleanse your body of all ills.'
+[Fri Sep 20 22:12:00 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:04 2019] Auto attack is on.
+[Fri Sep 20 22:12:04 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:12:04 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:12:05 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:05 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Sep 20 22:12:08 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:08 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:12:08 2019] You have become better at Hand to Hand! (6)
+[Fri Sep 20 22:12:08 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:12:11 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:12:12 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:12:14 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:12:17 2019] You have become better at Dodge! (6)
+[Fri Sep 20 22:12:18 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:20 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:12:23 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:12:26 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:12:29 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:29 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:12:32 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Sep 20 22:12:33 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Sep 20 22:12:34 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:35 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:12:37 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Sep 20 22:12:38 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:12:41 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Sep 20 22:12:41 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:12:44 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:12:45 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:47 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:12:48 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Sep 20 22:12:49 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:51 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:12:53 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:12:57 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:12:59 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:12:59 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:12:59 2019] You have become better at Kick! (2)
+[Fri Sep 20 22:13:00 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:13:00 2019] You have been knocked unconscious!
+[Fri Sep 20 22:13:02 2019] You are conscious again!
+[Fri Sep 20 22:13:02 2019] You have been knocked unconscious!
+[Fri Sep 20 22:13:02 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:13:03 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:13:06 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:13:07 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:13:09 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:13:10 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:13:12 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:13:14 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:13:14 2019] You are bleeding to death!
+[Fri Sep 20 22:13:15 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:13:17 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:13:18 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:13:20 2019] You are bleeding to death!
+[Fri Sep 20 22:13:21 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:13:24 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:13:26 2019] You are bleeding to death!
+[Fri Sep 20 22:13:27 2019] Lashun Novashine begins to cast a spell.
+[Fri Sep 20 22:13:27 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:13:27 2019] You have been slain by a decaying skeleton!
+[Fri Sep 20 22:13:31 2019] Returning to North Qeynos, please wait...
+[Fri Sep 20 22:13:31 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:13:37 2019] You have entered North Qeynos.
+[Fri Sep 20 22:13:44 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Sep 20 22:13:48 2019] It will take about 25 more seconds to prepare your camp.
+[Fri Sep 20 22:13:53 2019] It will take about 20 more seconds to prepare your camp.
+[Fri Sep 20 22:13:58 2019] It will take about 15 more seconds to prepare your camp.
+[Fri Sep 20 22:14:03 2019] It will take about 10 more seconds to prepare your camp.
+[Fri Sep 20 22:14:08 2019] It will take about 5 more seconds to prepare your camp.
+[Fri Sep 20 22:18:06 2019] Welcome to EverQuest!
+[Fri Sep 20 22:18:06 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Fri Sep 20 22:18:06 2019] You have entered East Freeport.
+[Fri Sep 20 22:18:06 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Fri Sep 20 22:19:43 2019] Jheron Felkis begins to cast a spell.
+[Fri Sep 20 22:19:57 2019] Nexvok Thirod begins to cast a spell.
+[Fri Sep 20 22:20:07 2019] Thuzin Kaver begins to cast a spell.
+[Fri Sep 20 22:20:10 2019] You say, 'Hail, Rin Distlemor'
+[Fri Sep 20 22:20:12 2019] You say, 'Hail, Rin Distlemor'
+[Fri Sep 20 22:21:50 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:22:02 2019] You have entered West Freeport.
+[Fri Sep 20 22:22:04 2019] It begins to rain.
+[Fri Sep 20 22:23:38 2019] Puab Closk says, 'Welcome to the house of the Ashen Order. We are a small guild of monks who have devoted our lives to refining our minds, souls, and physical beings to their maximum potential.'
+[Fri Sep 20 22:23:38 2019] Your faction standing with AshenOrder got better.
+[Fri Sep 20 22:23:38 2019] Your faction standing with KnightsofTruth got better.
+[Fri Sep 20 22:23:38 2019] Your faction standing with SilentFistClan got better.
+[Fri Sep 20 22:23:38 2019] You gain experience!!
+[Fri Sep 20 22:23:53 2019] You say, 'Hail, Velan Torresk'
+[Fri Sep 20 22:23:54 2019] You say, 'Hail, Velan Torresk'
+[Fri Sep 20 22:23:55 2019] Velan Torresk says, 'Greetings, Barou !  I am Velan Torresk of the Ashen Order.  I am in charge of training the newest members of our clan, and helping them advance their skills and rank.  When members perform certain tasks on behalf of the Order, they advance to a higher rank in our clan, and are awarded a special [sash].'
+[Fri Sep 20 22:23:55 2019] Velan Torresk says 'Welcome Barou, let's get to work!'
+[Fri Sep 20 22:23:55 2019] Velan Torresk kindly considers you -- what would you like your tombstone to say?
+[Fri Sep 20 22:23:58 2019] Velan Torresk says 'Use your skills wisely Barou.'
+[Fri Sep 20 22:23:59 2019] You say, 'Hail, Puab Closk'
+[Fri Sep 20 22:23:59 2019] Puab Closk says, 'Greetings, I am Puab Closk, Master of the Ashen Order.  Our home is your home, friend. Feel free to stay as long as you like.  Learn our ways as many have done in the past.  To fight like the tiger and strike like the cobra are your goals. Cough- [treant fist] -Cough!'
+[Fri Sep 20 22:24:12 2019] You say, 'what is a treant fist'
+[Fri Sep 20 22:24:13 2019] Puab Closk says, 'I have these items, and will gift them to any [monk of great skill]'
+[Fri Sep 20 22:24:33 2019] Asnod Marnoc tells you, 'That'll be 3 gold 5 silver 6 copper for the Cloth Pants.'
+[Fri Sep 20 22:24:37 2019] Asnod Marnoc tells you, 'I'll give you absolutely nothing for the Tome of Order and Discord.'
+[Fri Sep 20 22:26:24 2019] Jyle Windshot begins to cast a spell.
+[Fri Sep 20 22:26:49 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:26:55 2019] You have entered North Freeport.
+[Fri Sep 20 22:29:41 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:29:54 2019] You have entered West Freeport.
+[Fri Sep 20 22:29:56 2019] It begins to rain.
+[Fri Sep 20 22:30:11 2019] Nusk Treton begins to cast a spell.
+[Fri Sep 20 22:30:17 2019] Jyle Windshot begins to cast a spell.
+[Fri Sep 20 22:30:48 2019] Auto attack is on.
+[Fri Sep 20 22:30:48 2019] You punch a bat for 4 points of damage.
+[Fri Sep 20 22:30:48 2019] A bat bites YOU for 3 points of damage.
+[Fri Sep 20 22:30:49 2019] You try to kick a bat, but miss!
+[Fri Sep 20 22:30:51 2019] A bat bites YOU for 4 points of damage.
+[Fri Sep 20 22:30:51 2019] You try to punch a bat, but miss!
+[Fri Sep 20 22:30:54 2019] A bat bites YOU for 2 points of damage.
+[Fri Sep 20 22:30:55 2019] You try to punch a bat, but miss!
+[Fri Sep 20 22:30:57 2019] A bat bites YOU for 1 point of damage.
+[Fri Sep 20 22:30:59 2019] You punch a bat for 4 points of damage.
+[Fri Sep 20 22:30:59 2019] You try to kick a bat, but miss!
+[Fri Sep 20 22:30:59 2019] You have become better at Kick! (1)
+[Fri Sep 20 22:31:00 2019] A bat bites YOU for 2 points of damage.
+[Fri Sep 20 22:31:02 2019] You punch a bat for 3 points of damage.
+[Fri Sep 20 22:31:03 2019] A bat tries to bite YOU, but misses!
+[Fri Sep 20 22:31:06 2019] You punch a bat for 2 points of damage.
+[Fri Sep 20 22:31:06 2019] You have become better at Hand to Hand! (6)
+[Fri Sep 20 22:31:06 2019] A bat bites YOU for 1 point of damage.
+[Fri Sep 20 22:31:08 2019] You try to kick a bat, but miss!
+[Fri Sep 20 22:31:09 2019] A bat bites YOU for 3 points of damage.
+[Fri Sep 20 22:31:09 2019] You punch a bat for 2 points of damage.
+[Fri Sep 20 22:31:09 2019] You have become better at Dual Wield! (6)
+[Fri Sep 20 22:31:12 2019] A bat bites YOU for 1 point of damage.
+[Fri Sep 20 22:31:13 2019] You punch a bat for 6 points of damage.
+[Fri Sep 20 22:31:13 2019] You have slain a bat!
+[Fri Sep 20 22:31:13 2019] You gain experience!!
+[Fri Sep 20 22:31:13 2019] You have become better at Hand to Hand! (7)
+[Fri Sep 20 22:31:21 2019] Auto attack is on.
+[Fri Sep 20 22:31:21 2019] a snake hisses and strikes!
+[Fri Sep 20 22:31:21 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:31:21 2019] A snake bites YOU for 4 points of damage.
+[Fri Sep 20 22:31:21 2019] You have become better at Defense! (1)
+[Fri Sep 20 22:31:24 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:31:24 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:31:25 2019] You punch a snake for 8 points of damage.
+[Fri Sep 20 22:31:27 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:31:28 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:31:30 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:31:32 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:31:32 2019] You kick a snake for 1 point of damage.
+[Fri Sep 20 22:31:33 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:31:36 2019] You have become better at Offense! (1)
+[Fri Sep 20 22:31:36 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:31:36 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:31:39 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:31:39 2019] A snake bites YOU for 4 points of damage.
+[Fri Sep 20 22:31:42 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:31:42 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:31:43 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:31:45 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:31:46 2019] You punch a snake for 1 point of damage.
+[Fri Sep 20 22:31:46 2019] You have become better at Dual Wield! (7)
+[Fri Sep 20 22:31:48 2019] A snake bites YOU for 4 points of damage.
+[Fri Sep 20 22:31:48 2019] You have been knocked unconscious!
+[Fri Sep 20 22:31:49 2019] You are conscious again!
+[Fri Sep 20 22:31:50 2019] You have been knocked unconscious!
+[Fri Sep 20 22:31:51 2019] A snake bites YOU for 4 points of damage.
+[Fri Sep 20 22:31:54 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:31:54 2019] You have become better at Defense! (2)
+[Fri Sep 20 22:31:55 2019] You are bleeding to death!
+[Fri Sep 20 22:31:57 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:31:59 2019] Biddor kicks a snake for 1 point of damage.
+[Fri Sep 20 22:32:00 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:32:00 2019] You have been slain by a snake!
+[Fri Sep 20 22:32:04 2019] Returning to West Freeport, please wait...
+[Fri Sep 20 22:32:05 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:32:17 2019] You have entered West Freeport.
+[Fri Sep 20 22:32:19 2019] It begins to rain.
+[Fri Sep 20 22:32:45 2019] Deathfist Pawn scowls at you, ready to attack -- looks like quite a gamble.
+[Fri Sep 20 22:32:50 2019] a decaying skeleton regards you indifferently -- looks like an even fight.
+[Fri Sep 20 22:32:52 2019] Auto attack is on.
+[Fri Sep 20 22:32:55 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Sep 20 22:32:55 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:32:56 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:32:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Sep 20 22:32:59 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Sep 20 22:33:01 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Sep 20 22:33:02 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:33:04 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Sep 20 22:33:05 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Sep 20 22:33:06 2019] You try to punch a decaying skeleton, but miss!
+[Fri Sep 20 22:33:06 2019] You have become better at Hand to Hand! (8)
+[Fri Sep 20 22:33:07 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:33:10 2019] You try to punch a decaying skeleton, but miss!
+[Fri Sep 20 22:33:10 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:33:13 2019] You try to punch a decaying skeleton, but miss!
+[Fri Sep 20 22:33:13 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:33:16 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Sep 20 22:33:17 2019] You try to punch a decaying skeleton, but miss!
+[Fri Sep 20 22:33:18 2019] You try to kick a decaying skeleton, but miss!
+[Fri Sep 20 22:33:19 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Sep 20 22:33:21 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Sep 20 22:33:21 2019] You have become better at Hand to Hand! (9)
+[Fri Sep 20 22:33:22 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Sep 20 22:33:24 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Sep 20 22:33:24 2019] You have slain a decaying skeleton!
+[Fri Sep 20 22:33:24 2019] You gain experience!!
+[Fri Sep 20 22:33:29 2019] You receive 1 silver from the corpse.
+[Fri Sep 20 22:33:31 2019] --You have looted a Bone Chips.--
+[Fri Sep 20 22:33:39 2019] You are out of food and drink.
+[Fri Sep 20 22:33:39 2019] a snake hisses and strikes!
+[Fri Sep 20 22:34:48 2019] Solsares auctions, 'WTS Spine Chill Spear, Platinum Jasper Ring, Nathsar Vambraces, Blockcutter Gloves, Forest Loop, Ivory Imbued Collar, Reed Belt'
+[Fri Sep 20 22:35:11 2019] You are out of food and drink.
+[Fri Sep 20 22:36:10 2019] Kodajai begins to cast a spell.
+[Fri Sep 20 22:36:13 2019] Kodajai's skin turns hard as wood.
+[Fri Sep 20 22:36:17 2019] Kodajai's spell fizzles!
+[Fri Sep 20 22:36:17 2019] Kodajai begins to cast a spell.
+[Fri Sep 20 22:36:22 2019] Kodajai looks more agile.
+[Fri Sep 20 22:36:34 2019] Guard Jacsen says 'Die, dog!!'
+[Fri Sep 20 22:36:36 2019] Guard Munden says 'Let your death be a warning to all who dare oppose the Freeport Militia!'
+[Fri Sep 20 22:36:36 2019] Guard Jacsen says 'Die, dog!!'
+[Fri Sep 20 22:36:43 2019] You are out of food and drink.
+[Fri Sep 20 22:37:49 2019] Auto attack is on.
+[Fri Sep 20 22:37:50 2019] a snake hisses and strikes!
+[Fri Sep 20 22:37:50 2019] You punch a snake for 7 points of damage.
+[Fri Sep 20 22:37:50 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:37:50 2019] You have become better at Defense! (3)
+[Fri Sep 20 22:37:50 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:37:53 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:37:53 2019] You punch a snake for 2 points of damage.
+[Fri Sep 20 22:37:55 2019] You no longer have a target.
+[Fri Sep 20 22:37:56 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:37:56 2019] You no longer have a target.
+[Fri Sep 20 22:37:56 2019] You must first click on the being you wish to attack!
+[Fri Sep 20 22:37:56 2019] You must first click on the being you wish to attack!
+[Fri Sep 20 22:37:58 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:37:59 2019] You have become better at Dodge! (6)
+[Fri Sep 20 22:37:59 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:38:01 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:38:01 2019] You have become better at Hand to Hand! (10)
+[Fri Sep 20 22:38:02 2019] A snake bites YOU for 4 points of damage.
+[Fri Sep 20 22:38:02 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:38:02 2019] You have become better at Kick! (2)
+[Fri Sep 20 22:38:05 2019] You have become better at Dodge! (7)
+[Fri Sep 20 22:38:05 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:38:05 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:38:08 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:38:09 2019] You punch a snake for 1 point of damage.
+[Fri Sep 20 22:38:11 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:38:12 2019] You punch a snake for 4 points of damage.
+[Fri Sep 20 22:38:13 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:38:14 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:38:15 2019] You are out of food and drink.
+[Fri Sep 20 22:38:16 2019] You punch a snake for 2 points of damage.
+[Fri Sep 20 22:38:17 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:38:19 2019] You punch a snake for 3 points of damage.
+[Fri Sep 20 22:38:23 2019] You punch a snake for 5 points of damage.
+[Fri Sep 20 22:38:23 2019] You have slain a snake!
+[Fri Sep 20 22:38:23 2019] You gain experience!!
+[Fri Sep 20 22:39:34 2019] Biddor punches a bat for 5 points of damage.
+[Fri Sep 20 22:39:34 2019] A bat bites Biddor for 3 points of damage.
+[Fri Sep 20 22:39:47 2019] You are out of food and drink.
+[Fri Sep 20 22:39:49 2019] Auto attack is on.
+[Fri Sep 20 22:39:49 2019] a snake hisses and strikes!
+[Fri Sep 20 22:39:49 2019] You punch a snake for 1 point of damage.
+[Fri Sep 20 22:39:49 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:39:50 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:39:52 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:39:53 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:39:55 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:39:56 2019] You punch a snake for 6 points of damage.
+[Fri Sep 20 22:39:58 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:40:00 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:01 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:40:01 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:40:03 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:04 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 22:40:07 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:07 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:40:10 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:40:10 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:40:11 2019] You punch a snake for 1 point of damage.
+[Fri Sep 20 22:40:13 2019] A snake bites YOU for 2 points of damage.
+[Fri Sep 20 22:40:14 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:16 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:40:18 2019] You punch a snake for 1 point of damage.
+[Fri Sep 20 22:40:18 2019] You punch a snake for 6 points of damage.
+[Fri Sep 20 22:40:18 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:40:19 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:40:21 2019] You punch a snake for 1 point of damage.
+[Fri Sep 20 22:40:22 2019] A snake bites YOU for 1 point of damage.
+[Fri Sep 20 22:40:25 2019] You punch a snake for 5 points of damage.
+[Fri Sep 20 22:40:27 2019] You cannot see your target.
+[Fri Sep 20 22:40:27 2019] You cannot see your target.
+[Fri Sep 20 22:40:27 2019] You cannot see your target.
+[Fri Sep 20 22:40:29 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:40:29 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:40:32 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:36 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:37 2019] You kick a snake for 1 point of damage.
+[Fri Sep 20 22:40:39 2019] You have become better at Offense! (2)
+[Fri Sep 20 22:40:39 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:43 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:40:43 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:40:46 2019] You try to kick a snake, but miss!
+[Fri Sep 20 22:40:46 2019] You have become better at Kick! (3)
+[Fri Sep 20 22:40:47 2019] You try to punch a snake, but miss!
+[Fri Sep 20 22:40:48 2019] A snake tries to bite YOU, but misses!
+[Fri Sep 20 22:40:50 2019] You punch a snake for 4 points of damage.
+[Fri Sep 20 22:40:50 2019] You have slain a snake!
+[Fri Sep 20 22:40:50 2019] You gain experience!!
+[Fri Sep 20 22:40:56 2019] --You have looted a Snake Egg.--
+[Fri Sep 20 22:40:56 2019] You take a bite out of a Snake Egg.
+[Fri Sep 20 22:40:56 2019] Ahhh. That was tasty.
+[Fri Sep 20 22:41:09 2019] Biddor regards you indifferently -- looks like an even fight.
+[Fri Sep 20 22:41:13 2019] That is not an object you can inspect.
+[Fri Sep 20 22:41:19 2019] You are out of food and drink.
+[Fri Sep 20 22:41:20 2019] That is not an object you can inspect.
+[Fri Sep 20 22:41:22 2019] Biddor regards you indifferently -- looks like an even fight.
+[Fri Sep 20 22:41:23 2019] Biddor regards you indifferently -- looks like an even fight.
+[Fri Sep 20 22:41:32 2019] That is not an object you can inspect.
+[Fri Sep 20 22:41:35 2019] Guard Jacsen looks your way apprehensively -- what would you like your tombstone to say?
+[Fri Sep 20 22:41:38 2019] You no longer have a target.
+[Fri Sep 20 22:42:02 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Fri Sep 20 22:42:03 2019] Auto attack is on.
+[Fri Sep 20 22:42:03 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:42:03 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:42:07 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:42:07 2019] A large rat tries to bite YOU, but misses!
+[Fri Sep 20 22:42:10 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:42:11 2019] You punch a large rat for 5 points of damage.
+[Fri Sep 20 22:42:13 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:42:14 2019] You punch a large rat for 5 points of damage.
+[Fri Sep 20 22:42:15 2019] You try to kick a large rat, but miss!
+[Fri Sep 20 22:42:16 2019] A large rat tries to bite YOU, but misses!
+[Fri Sep 20 22:42:18 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:42:19 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:42:22 2019] You punch a large rat for 8 points of damage.
+[Fri Sep 20 22:42:22 2019] You have slain a large rat!
+[Fri Sep 20 22:42:22 2019] You gain experience!!
+[Fri Sep 20 22:42:27 2019] Deathfist Pawn says, 'Centurions!! Attack!!'
+[Fri Sep 20 22:42:28 2019] Deathfist Pawn slashes YOU for 3 points of damage.
+[Fri Sep 20 22:42:31 2019] Deathfist Pawn slashes YOU for 2 points of damage.
+[Fri Sep 20 22:42:35 2019] Deathfist Pawn slashes YOU for 3 points of damage.
+[Fri Sep 20 22:42:38 2019] Deathfist Pawn tries to slash YOU, but misses!
+[Fri Sep 20 22:42:41 2019] Deathfist Pawn slashes YOU for 6 points of damage.
+[Fri Sep 20 22:42:44 2019] Deathfist Pawn slashes YOU for 6 points of damage.
+[Fri Sep 20 22:42:47 2019] Deathfist Pawn slashes YOU for 4 points of damage.
+[Fri Sep 20 22:42:47 2019] You have become better at Defense! (4)
+[Fri Sep 20 22:42:50 2019] Deathfist Pawn slashes YOU for 2 points of damage.
+[Fri Sep 20 22:42:51 2019] You are out of food and drink.
+[Fri Sep 20 22:42:53 2019] Deathfist Pawn slashes YOU for 6 points of damage.
+[Fri Sep 20 22:42:53 2019] You have been knocked unconscious!
+[Fri Sep 20 22:42:56 2019] Deathfist Pawn slashes YOU for 2 points of damage.
+[Fri Sep 20 22:42:56 2019] You are conscious again!
+[Fri Sep 20 22:42:58 2019] You have been knocked unconscious!
+[Fri Sep 20 22:42:59 2019] Deathfist Pawn slashes YOU for 6 points of damage.
+[Fri Sep 20 22:43:02 2019] Deathfist Pawn tries to slash YOU, but misses!
+[Fri Sep 20 22:43:02 2019] You are bleeding to death!
+[Fri Sep 20 22:43:05 2019] Deathfist Pawn slashes YOU for 4 points of damage.
+[Fri Sep 20 22:43:05 2019] You have been slain by Deathfist Pawn!
+[Fri Sep 20 22:43:09 2019] Returning to West Freeport, please wait...
+[Fri Sep 20 22:43:09 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:43:21 2019] You have entered West Freeport.
+[Fri Sep 20 22:43:23 2019] It begins to rain.
+[Fri Sep 20 22:43:24 2019] You must be sitting to prepare to camp.
+[Fri Sep 20 22:43:26 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Sep 20 22:43:30 2019] It will take about 25 more seconds to prepare your camp.
+[Fri Sep 20 22:43:35 2019] It will take about 20 more seconds to prepare your camp.
+[Fri Sep 20 22:43:40 2019] It will take about 15 more seconds to prepare your camp.
+[Fri Sep 20 22:43:45 2019] It will take about 10 more seconds to prepare your camp.
+[Fri Sep 20 22:43:50 2019] It will take about 5 more seconds to prepare your camp.
+[Sat Sep 21 22:23:31 2019] Welcome to EverQuest!
+[Sat Sep 21 22:23:31 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Sat Sep 21 22:23:31 2019] You have entered Grobb.
+[Sat Sep 21 22:23:31 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Sat Sep 21 22:23:34 2019] It begins to rain.
+[Sat Sep 21 22:24:07 2019] Try attacking someone other than yourself, it's more productive.
+[Sat Sep 21 22:25:38 2019] You are not a member of the Shaman class guild.  Begone.
+[Sat Sep 21 22:25:38 2019] Bregna judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:25:55 2019] Chamt judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:25:57 2019] Chamt says 'Welcome to my shop, Barou.'
+[Sat Sep 21 22:26:50 2019] Brawg regards you indifferently -- what would you like your tombstone to say?
+[Sat Sep 21 22:26:51 2019] Brawg regards you indifferently -- what would you like your tombstone to say?
+[Sat Sep 21 22:27:25 2019] Basher Uvgin begins to cast a spell.
+[Sat Sep 21 22:27:31 2019] Basher Uvgin begins to cast a spell.
+[Sat Sep 21 22:27:48 2019] Basher Uvgin begins to cast a spell.
+[Sat Sep 21 22:28:02 2019] Hukulk says 'Welcome Barou, let's get to work!'
+[Sat Sep 21 22:28:02 2019] Hukulk judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:28:02 2019] Hukulk begins to cast a spell.
+[Sat Sep 21 22:28:05 2019] Hukulk's hands begin to glow.
+[Sat Sep 21 22:28:05 2019] Hukulk says 'See you soon Barou.'
+[Sat Sep 21 22:28:09 2019] Treskar begins to cast a spell.
+[Sat Sep 21 22:28:12 2019] Hukulk says, 'Haaah!! Bow to Hukulk!! Hukulk make you feared.. make you powered! Dark power flow through you! Hate and Fear in your blood! Go to Treskar. He give you first lesson in pain.'
+[Sat Sep 21 22:28:12 2019] Your faction standing with ShadowknightsofNightKeep got better.
+[Sat Sep 21 22:28:12 2019] Your faction standing with GreenBloodKnights got worse.
+[Sat Sep 21 22:28:12 2019] Your faction standing with BrokenSkullClan got worse.
+[Sat Sep 21 22:28:12 2019] Your faction standing with DaBashers got better.
+[Sat Sep 21 22:28:12 2019] You gain experience!!
+[Sat Sep 21 22:28:14 2019] Treskar is surrounded by a shrieking aura.
+[Sat Sep 21 22:28:16 2019] You no longer have a target.
+[Sat Sep 21 22:28:17 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:19 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:20 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:20 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:21 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:21 2019] Hukulk says, 'What you want!!  You make fun of [helm of Hukulk]?!!  Me smash you!!  Maybe you come learn ways of Hate and Fear!  You be dark power.  You be Pain. You [want join Nightkeep]?'
+[Sat Sep 21 22:28:21 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:21 2019] You say, 'Hail, Hukulk'
+[Sat Sep 21 22:28:21 2019] Hukulk says, 'What you want!!  You make fun of [helm of Hukulk]?!!  Me smash you!!  Maybe you come learn ways of Hate and Fear!  You be dark power.  You be Pain. You [want join Nightkeep]?'
+[Sat Sep 21 22:28:26 2019] You say, 'join nightkeep'
+[Sat Sep 21 22:28:26 2019] Hukulk says, 'Good.  Hate and Pain.  Innoruuk teach power. I teach power.  Me make you power.  You do what me say.  You no mess up. I no kill you.  We no like dead creature we no own.  Go. kill dem.  Bring four bone chips.  I make you power.'
+[Sat Sep 21 22:28:56 2019] Rohga begins to cast a spell.
+[Sat Sep 21 22:29:40 2019] You poke Dreegi.
+[Sat Sep 21 22:29:53 2019] LOADING, PLEASE WAIT...
+[Sat Sep 21 22:29:59 2019] You have entered Innothule Swamp.
+[Sat Sep 21 22:30:48 2019] a young water moccasin looks your way apprehensively -- looks like an even fight.
+[Sat Sep 21 22:30:51 2019] Auto attack is on.
+[Sat Sep 21 22:30:51 2019] a young water moccasin hisses and strikes!
+[Sat Sep 21 22:30:51 2019] You slash a young water moccasin for 8 points of damage.
+[Sat Sep 21 22:30:51 2019] You have become better at 1H Slashing! (6)
+[Sat Sep 21 22:30:51 2019] A young water moccasin tries to bite YOU, but misses!
+[Sat Sep 21 22:30:52 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:30:54 2019] You slash a young water moccasin for 8 points of damage.
+[Sat Sep 21 22:30:54 2019] A young water moccasin tries to bite YOU, but misses!
+[Sat Sep 21 22:30:56 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:30:57 2019] You slash a young water moccasin for 6 points of damage.
+[Sat Sep 21 22:30:57 2019] You have slain a young water moccasin!
+[Sat Sep 21 22:30:57 2019] You gain experience!!
+[Sat Sep 21 22:30:57 2019] You have become better at 1H Slashing! (7)
+[Sat Sep 21 22:31:00 2019] --You have looted a Snake Scales.--
+[Sat Sep 21 22:31:09 2019] a young water moccasin looks your way apprehensively -- looks like an even fight.
+[Sat Sep 21 22:31:14 2019] Auto attack is on.
+[Sat Sep 21 22:31:14 2019] a young water moccasin hisses and strikes!
+[Sat Sep 21 22:31:14 2019] You slash a young water moccasin for 4 points of damage.
+[Sat Sep 21 22:31:14 2019] A young water moccasin bites YOU for 3 points of damage.
+[Sat Sep 21 22:31:15 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:31:16 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:31:17 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:31:17 2019] A young water moccasin bites YOU for 2 points of damage.
+[Sat Sep 21 22:31:20 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:31:20 2019] A young water moccasin bites YOU for 2 points of damage.
+[Sat Sep 21 22:31:22 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:31:23 2019] You slash a young water moccasin for 8 points of damage.
+[Sat Sep 21 22:31:23 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:31:24 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:31:26 2019] You slash a young water moccasin for 8 points of damage.
+[Sat Sep 21 22:31:26 2019] You have slain a young water moccasin!
+[Sat Sep 21 22:31:26 2019] You gain experience!!
+[Sat Sep 21 22:31:30 2019] --You have looted a Snake Fang.--
+[Sat Sep 21 22:31:50 2019] a froglok scowls at you, ready to attack -- looks like quite a gamble.
+[Sat Sep 21 22:31:51 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Sat Sep 21 22:32:02 2019] Gumzal crushes a young water moccasin for 10 points of damage.
+[Sat Sep 21 22:32:02 2019] a young water moccasin has been slain by Gumzal!
+[Sat Sep 21 22:32:04 2019] a lesser kobold scowls at you, ready to attack -- looks like quite a gamble.
+[Sat Sep 21 22:32:12 2019] a lesser kobold scowls at you, ready to attack -- looks like quite a gamble.
+[Sat Sep 21 22:32:13 2019] a lesser kobold scowls at you, ready to attack -- looks like quite a gamble.
+[Sat Sep 21 22:32:13 2019] a snake looks your way apprehensively -- looks like an even fight.
+[Sat Sep 21 22:32:17 2019] Auto attack is on.
+[Sat Sep 21 22:32:17 2019] a snake hisses and strikes!
+[Sat Sep 21 22:32:17 2019] You slash a snake for 8 points of damage.
+[Sat Sep 21 22:32:17 2019] A snake bites YOU for 1 point of damage.
+[Sat Sep 21 22:32:19 2019] You try to bash a snake, but miss!
+[Sat Sep 21 22:32:20 2019] You taunt a snake to ignore others and attack you!
+[Sat Sep 21 22:32:20 2019] You try to slash a snake, but miss!
+[Sat Sep 21 22:32:20 2019] A snake bites YOU for 2 points of damage.
+[Sat Sep 21 22:32:23 2019] You slash a snake for 3 points of damage.
+[Sat Sep 21 22:32:23 2019] A snake bites YOU for 2 points of damage.
+[Sat Sep 21 22:32:26 2019] You try to slash a snake, but miss!
+[Sat Sep 21 22:32:26 2019] A snake bites YOU for 1 point of damage.
+[Sat Sep 21 22:32:27 2019] You taunt a snake to ignore others and attack you!
+[Sat Sep 21 22:32:28 2019] You have become better at Taunt! (1)
+[Sat Sep 21 22:32:28 2019] You try to bash a snake, but miss!
+[Sat Sep 21 22:32:29 2019] You slash a snake for 6 points of damage.
+[Sat Sep 21 22:32:29 2019] A snake bites YOU for 3 points of damage.
+[Sat Sep 21 22:32:32 2019] You try to slash a snake, but miss!
+[Sat Sep 21 22:32:32 2019] A snake bites YOU for 4 points of damage.
+[Sat Sep 21 22:32:34 2019] You taunt a snake to ignore others and attack you!
+[Sat Sep 21 22:32:34 2019] You have become better at Taunt! (2)
+[Sat Sep 21 22:32:35 2019] You have become better at Offense! (1)
+[Sat Sep 21 22:32:35 2019] You try to slash a snake, but miss!
+[Sat Sep 21 22:32:35 2019] A snake bites YOU for 1 point of damage.
+[Sat Sep 21 22:32:37 2019] You try to bash a snake, but miss!
+[Sat Sep 21 22:32:38 2019] You try to slash a snake, but miss!
+[Sat Sep 21 22:32:38 2019] A snake bites YOU for 3 points of damage.
+[Sat Sep 21 22:32:40 2019] Your target is too far away, get closer!
+[Sat Sep 21 22:32:41 2019] A snake bites YOU for 1 point of damage.
+[Sat Sep 21 22:32:43 2019] You taunt a snake to ignore others and attack you!
+[Sat Sep 21 22:32:43 2019] You slash a snake for 8 points of damage.
+[Sat Sep 21 22:32:43 2019] You have slain a snake!
+[Sat Sep 21 22:32:43 2019] You gain experience!!
+[Sat Sep 21 22:32:59 2019] Auto attack is on.
+[Sat Sep 21 22:32:59 2019] You slash a decaying skeleton for 8 points of damage.
+[Sat Sep 21 22:32:59 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Sep 21 22:33:00 2019] You bash a decaying skeleton for 1 point of damage.
+[Sat Sep 21 22:33:00 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Sat Sep 21 22:33:02 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:33:02 2019] A decaying skeleton pierces YOU for 2 points of damage.
+[Sat Sep 21 22:33:05 2019] You slash a decaying skeleton for 6 points of damage.
+[Sat Sep 21 22:33:05 2019] A decaying skeleton pierces YOU for 3 points of damage.
+[Sat Sep 21 22:33:08 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:33:08 2019] You bash a decaying skeleton for 1 point of damage.
+[Sat Sep 21 22:33:08 2019] A decaying skeleton pierces YOU for 2 points of damage.
+[Sat Sep 21 22:33:09 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Sat Sep 21 22:33:11 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:33:11 2019] A decaying skeleton pierces YOU for 1 point of damage.
+[Sat Sep 21 22:33:14 2019] You slash a decaying skeleton for 8 points of damage.
+[Sat Sep 21 22:33:14 2019] You have slain a decaying skeleton!
+[Sat Sep 21 22:33:14 2019] You gain experience!!
+[Sat Sep 21 22:33:17 2019] You receive 17 copper from the corpse.
+[Sat Sep 21 22:33:19 2019] --You have looted a Bone Chips.--
+[Sat Sep 21 22:33:19 2019] --You have looted a Bone Chips.--
+[Sat Sep 21 22:33:20 2019] --You have looted a Rusty Rapier.--
+[Sat Sep 21 22:33:37 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Sat Sep 21 22:33:40 2019] Auto attack is on.
+[Sat Sep 21 22:33:40 2019] You slash a large rat for 7 points of damage.
+[Sat Sep 21 22:33:40 2019] You have become better at 1H Slashing! (8)
+[Sat Sep 21 22:33:40 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:33:43 2019] You slash a large rat for 3 points of damage.
+[Sat Sep 21 22:33:43 2019] A large rat bites YOU for 3 points of damage.
+[Sat Sep 21 22:33:43 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:33:46 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:33:46 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:33:46 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:33:49 2019] You slash a large rat for 8 points of damage.
+[Sat Sep 21 22:33:49 2019] You have slain a large rat!
+[Sat Sep 21 22:33:49 2019] You gain experience!!
+[Sat Sep 21 22:33:57 2019] Dark Deathsinger scowls at you, ready to attack -- what would you like your tombstone to say?
+[Sat Sep 21 22:34:00 2019] You no longer have a target.
+[Sat Sep 21 22:34:04 2019] a froglok tad scowls at you, ready to attack -- looks like an even fight.
+[Sat Sep 21 22:34:11 2019] Auto attack is on.
+[Sat Sep 21 22:34:11 2019] You slash a froglok tad for 8 points of damage.
+[Sat Sep 21 22:34:11 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:34:12 2019] You try to bash a froglok tad, but miss!
+[Sat Sep 21 22:34:12 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:34:13 2019] Gumzal begins to cast a spell.
+[Sat Sep 21 22:34:14 2019] You slash a froglok tad for 3 points of damage.
+[Sat Sep 21 22:34:14 2019] A froglok tad bites YOU for 2 points of damage.
+[Sat Sep 21 22:34:17 2019] You slash a froglok tad for 3 points of damage.
+[Sat Sep 21 22:34:17 2019] A froglok tad bites YOU for 3 points of damage.
+[Sat Sep 21 22:34:18 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:34:20 2019] You slash a froglok tad for 8 points of damage.
+[Sat Sep 21 22:34:20 2019] You have slain a froglok tad!
+[Sat Sep 21 22:34:20 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Sat Sep 21 22:34:20 2019] You gain experience!!
+[Sat Sep 21 22:34:20 2019] You must first click on the being you wish to attack!
+[Sat Sep 21 22:34:23 2019] You receive 9 copper from the corpse.
+[Sat Sep 21 22:34:25 2019] --You have looted a Froglok Tadpole Flesh.--
+[Sat Sep 21 22:34:39 2019] Auto attack is on.
+[Sat Sep 21 22:34:39 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:34:39 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:34:39 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:34:40 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:34:40 2019] You have become better at Taunt! (3)
+[Sat Sep 21 22:34:42 2019] You slash a large rat for 6 points of damage.
+[Sat Sep 21 22:34:42 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:34:42 2019] You cannot see your target.
+[Sat Sep 21 22:34:45 2019] You cannot see your target.
+[Sat Sep 21 22:34:45 2019] Your target is too far away, get closer!
+[Sat Sep 21 22:34:45 2019] A froglok hits YOU for 4 points of damage.
+[Sat Sep 21 22:34:45 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:34:46 2019] You cannot see your target.
+[Sat Sep 21 22:34:47 2019] You cannot see your target.
+[Sat Sep 21 22:34:48 2019] A froglok hits YOU for 10 points of damage.
+[Sat Sep 21 22:34:48 2019] You have become better at Defense! (1)
+[Sat Sep 21 22:34:48 2019] A large rat bites YOU for 4 points of damage.
+[Sat Sep 21 22:34:49 2019] You cannot see your target.
+[Sat Sep 21 22:34:50 2019] You cannot see your target.
+[Sat Sep 21 22:34:51 2019] A froglok hits YOU for 7 points of damage.
+[Sat Sep 21 22:34:51 2019] Auto attack is off.
+[Sat Sep 21 22:34:51 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:34:54 2019] A froglok hits YOU for 10 points of damage.
+[Sat Sep 21 22:34:54 2019] You have been knocked unconscious!
+[Sat Sep 21 22:34:55 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:34:56 2019] You are conscious again!
+[Sat Sep 21 22:34:57 2019] You have been knocked unconscious!
+[Sat Sep 21 22:34:57 2019] A froglok hits YOU for 10 points of damage.
+[Sat Sep 21 22:34:57 2019] You have been slain by a froglok!
+[Sat Sep 21 22:35:01 2019] Returning to Innothule Swamp, please wait...
+[Sat Sep 21 22:35:01 2019] LOADING, PLEASE WAIT...
+[Sat Sep 21 22:35:07 2019] You have entered Innothule Swamp.
+[Sat Sep 21 22:35:16 2019] A froglok hits YOU for 10 points of damage.
+[Sat Sep 21 22:35:16 2019] Auto attack is on.
+[Sat Sep 21 22:35:17 2019] You punch a froglok for 1 point of damage.
+[Sat Sep 21 22:35:18 2019] You try to bash a froglok, but miss!
+[Sat Sep 21 22:35:18 2019] You taunt a froglok to ignore others and attack you!
+[Sat Sep 21 22:35:18 2019] You have become better at Taunt! (4)
+[Sat Sep 21 22:35:19 2019] A froglok hits YOU for 9 points of damage.
+[Sat Sep 21 22:35:20 2019] You try to punch a froglok, but miss!
+[Sat Sep 21 22:35:22 2019] A froglok tries to hit YOU, but misses!
+[Sat Sep 21 22:35:24 2019] You try to punch a froglok, but miss!
+[Sat Sep 21 22:35:25 2019] You taunt a froglok to ignore others and attack you!
+[Sat Sep 21 22:35:25 2019] You have become better at Taunt! (5)
+[Sat Sep 21 22:35:25 2019] A froglok hits YOU for 8 points of damage.
+[Sat Sep 21 22:35:27 2019] a froglok was hit by non-melee for 11 points of damage.
+[Sat Sep 21 22:35:27 2019] A froglok writhes in the grip of agony.
+[Sat Sep 21 22:35:28 2019] You try to punch a froglok, but miss!
+[Sat Sep 21 22:35:28 2019] A froglok hits YOU for 10 points of damage.
+[Sat Sep 21 22:35:28 2019] You try to bash a froglok, but miss!
+[Sat Sep 21 22:35:31 2019] A froglok hits YOU for 3 points of damage.
+[Sat Sep 21 22:35:31 2019] You have been knocked unconscious!
+[Sat Sep 21 22:35:33 2019] You are conscious again!
+[Sat Sep 21 22:35:33 2019] You try to punch a froglok, but miss!
+[Sat Sep 21 22:35:34 2019] A froglok hits YOU for 5 points of damage.
+[Sat Sep 21 22:35:34 2019] You have been knocked unconscious!
+[Sat Sep 21 22:35:37 2019] A froglok hits YOU for 3 points of damage.
+[Sat Sep 21 22:35:40 2019] A froglok hits YOU for 8 points of damage.
+[Sat Sep 21 22:35:40 2019] You have been slain by a froglok!
+[Sat Sep 21 22:35:44 2019] Returning to Innothule Swamp, please wait...
+[Sat Sep 21 22:35:44 2019] LOADING, PLEASE WAIT...
+[Sat Sep 21 22:35:50 2019] You have entered Innothule Swamp.
+[Sat Sep 21 22:36:19 2019] Summoning Barou's corpse...
+[Sat Sep 21 22:36:22 2019] You receive 26 copper from the corpse.
+[Sat Sep 21 22:36:44 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Sat Sep 21 22:36:45 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Sat Sep 21 22:36:47 2019] Auto attack is on.
+[Sat Sep 21 22:36:48 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:36:48 2019] You have become better at 1H Slashing! (9)
+[Sat Sep 21 22:36:48 2019] A large rat bites YOU for 4 points of damage.
+[Sat Sep 21 22:36:48 2019] You bash a large rat for 1 point of damage.
+[Sat Sep 21 22:36:48 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:36:51 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:36:51 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:36:53 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:36:54 2019] A large rat bites YOU for 3 points of damage.
+[Sat Sep 21 22:36:56 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:36:57 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:36:57 2019] You bash a large rat for 1 point of damage.
+[Sat Sep 21 22:36:58 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:36:59 2019] You slash a large rat for 8 points of damage.
+[Sat Sep 21 22:37:00 2019] A large rat bites YOU for 3 points of damage.
+[Sat Sep 21 22:37:02 2019] You slash a large rat for 2 points of damage.
+[Sat Sep 21 22:37:03 2019] A large rat bites YOU for 3 points of damage.
+[Sat Sep 21 22:37:04 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:37:04 2019] You have become better at Taunt! (6)
+[Sat Sep 21 22:37:05 2019] You slash a large rat for 8 points of damage.
+[Sat Sep 21 22:37:05 2019] You have slain a large rat!
+[Sat Sep 21 22:37:05 2019] You gain experience!!
+[Sat Sep 21 22:37:05 2019] You must first click on the being you wish to attack!
+[Sat Sep 21 22:37:08 2019] --You have looted a Rat Ears.--
+[Sat Sep 21 22:37:17 2019] Lynuga judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:37:19 2019] You no longer have a target.
+[Sat Sep 21 22:37:24 2019] Auto attack is on.
+[Sat Sep 21 22:37:24 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:37:24 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Sep 21 22:37:25 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Sat Sep 21 22:37:25 2019] You try to bash a decaying skeleton, but miss!
+[Sat Sep 21 22:37:27 2019] You slash a decaying skeleton for 6 points of damage.
+[Sat Sep 21 22:37:27 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Sep 21 22:37:30 2019] You slash a decaying skeleton for 8 points of damage.
+[Sat Sep 21 22:37:30 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Sep 21 22:37:31 2019] a decaying skeleton was hit by non-melee for 11 points of damage.
+[Sat Sep 21 22:37:31 2019] A decaying skeleton writhes in the grip of agony.
+[Sat Sep 21 22:37:31 2019] You have slain a decaying skeleton!
+[Sat Sep 21 22:37:31 2019] You gain experience!!
+[Sat Sep 21 22:37:33 2019] You receive 12 copper from the corpse.
+[Sat Sep 21 22:37:36 2019] --You have looted a Bone Chips.--
+[Sat Sep 21 22:37:37 2019] --You have looted a Bone Chips.--
+[Sat Sep 21 22:37:38 2019] --You have looted a Short Beer.--
+[Sat Sep 21 22:37:43 2019] Glug, glug, glug...  You take a swig of Short Beer.
+[Sat Sep 21 22:37:43 2019] Ahhh. That was refreshing.
+[Sat Sep 21 22:38:19 2019] LOADING, PLEASE WAIT...
+[Sat Sep 21 22:38:24 2019] You have entered Grobb.
+[Sat Sep 21 22:38:27 2019] It begins to rain.
+[Sat Sep 21 22:39:25 2019] Hukulk says 'Nice to see you working on your skills Barou.'
+[Sat Sep 21 22:39:25 2019] Hukulk judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:39:43 2019] Hukulk says 'Good Journey to you Barou.'
+[Sat Sep 21 22:39:58 2019] Hukulk says, 'You good. Take dis. Make much pain and hurt. Make tings bleeds. Kill, hurt all. Innoruuk and me say do, now go. You do much, come bak. Teach you how more hurt and pain make. Go.'
+[Sat Sep 21 22:39:58 2019] Your faction standing with ShadowknightsofNightKeep got better.
+[Sat Sep 21 22:39:58 2019] Your faction standing with GreenBloodKnights got worse.
+[Sat Sep 21 22:39:58 2019] Your faction standing with BrokenSkullClan got worse.
+[Sat Sep 21 22:39:58 2019] Your faction standing with DaBashers got better.
+[Sat Sep 21 22:39:58 2019] You gain experience!!
+[Sat Sep 21 22:40:20 2019] Hukulk says 'Greetings Barou nice to see you.'
+[Sat Sep 21 22:40:20 2019] Hukulk judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:40:22 2019] Hukulk says, 'Interested in training in 2H Slashing ?'
+[Sat Sep 21 22:40:25 2019] You have become better at 2H Slashing! (1)
+[Sat Sep 21 22:40:25 2019] You have become better at 2H Slashing! (2)
+[Sat Sep 21 22:40:25 2019] You have become better at 2H Slashing! (3)
+[Sat Sep 21 22:40:26 2019] You have become better at 2H Slashing! (4)
+[Sat Sep 21 22:40:27 2019] You have become better at 2H Slashing! (5)
+[Sat Sep 21 22:40:28 2019] Hukulk says 'Good Journey to you Barou.'
+[Sat Sep 21 22:40:42 2019] Rohga says 'Up for some training Barou?'
+[Sat Sep 21 22:40:42 2019] Rohga judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:40:44 2019] Rohga says 'Bring pride upon our name Barou.'
+[Sat Sep 21 22:40:53 2019] Okun says 'Welcome to my shop, Barou.'
+[Sat Sep 21 22:40:57 2019] Okun tells you, 'I'll give you 4 silver 7 copper for the Rusty Rapier.'
+[Sat Sep 21 22:40:58 2019] You receive 4 silver 7 copper from Okun for the Rusty Rapier(s).
+[Sat Sep 21 22:40:59 2019] Okun tells you, 'I'll give you 2 copper per Froglok Tadpole Flesh'
+[Sat Sep 21 22:41:00 2019] You receive 2 copper from Okun for the Froglok Tadpole Flesh(s).
+[Sat Sep 21 22:41:01 2019] Okun tells you, 'I'll give you 9 copper per Rat Ears'
+[Sat Sep 21 22:41:03 2019] You receive 9 copper from Okun for the Rat Ears(s).
+[Sat Sep 21 22:41:03 2019] Okun tells you, 'I'll give you 3 copper per Snake Fang'
+[Sat Sep 21 22:41:05 2019] You receive 3 copper from Okun for the Snake Fang(s).
+[Sat Sep 21 22:41:05 2019] Okun tells you, 'I'll give you 9 copper per Snake Scales'
+[Sat Sep 21 22:41:07 2019] You receive 9 copper from Okun for the Snake Scales(s).
+[Sat Sep 21 22:42:08 2019] LOADING, PLEASE WAIT...
+[Sat Sep 21 22:42:14 2019] You have entered Innothule Swamp.
+[Sat Sep 21 22:42:48 2019] Auto attack is on.
+[Sat Sep 21 22:42:48 2019] a young water moccasin hisses and strikes!
+[Sat Sep 21 22:42:48 2019] You slash a young water moccasin for 2 points of damage.
+[Sat Sep 21 22:42:48 2019] A young water moccasin bites YOU for 2 points of damage.
+[Sat Sep 21 22:42:49 2019] You bash a young water moccasin for 1 point of damage.
+[Sat Sep 21 22:42:50 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:42:51 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:42:53 2019] You slash a young water moccasin for 7 points of damage.
+[Sat Sep 21 22:42:54 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:42:57 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:42:57 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:42:58 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:42:58 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:43:00 2019] A young water moccasin tries to bite YOU, but misses!
+[Sat Sep 21 22:43:03 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:43:03 2019] A young water moccasin tries to bite YOU, but misses!
+[Sat Sep 21 22:43:04 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:43:06 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:43:07 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:43:08 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:43:09 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:43:11 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:43:12 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:43:13 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:43:15 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:43:15 2019] You bash a young water moccasin for 1 point of damage.
+[Sat Sep 21 22:43:18 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:43:18 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:43:18 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:43:21 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:43:23 2019] You slash a young water moccasin for 9 points of damage.
+[Sat Sep 21 22:43:28 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:43:29 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:43:30 2019] You have become better at Taunt! (7)
+[Sat Sep 21 22:43:30 2019] You cannot see your target.
+[Sat Sep 21 22:43:31 2019] A young water moccasin bites YOU for 3 points of damage.
+[Sat Sep 21 22:43:33 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:43:33 2019] You slash a young water moccasin for 13 points of damage.
+[Sat Sep 21 22:43:33 2019] You have slain a young water moccasin!
+[Sat Sep 21 22:43:33 2019] You gain experience!!
+[Sat Sep 21 22:43:36 2019] --You have looted a Snake Fang.--
+[Sat Sep 21 22:44:03 2019] Auto attack is on.
+[Sat Sep 21 22:44:03 2019] You slash a large rat for 8 points of damage.
+[Sat Sep 21 22:44:03 2019] You have become better at 2H Slashing! (6)
+[Sat Sep 21 22:44:03 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:44:05 2019] You bash a large rat for 1 point of damage.
+[Sat Sep 21 22:44:05 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:44:06 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:44:08 2019] You slash a large rat for 18 points of damage.
+[Sat Sep 21 22:44:08 2019] You have slain a large rat!
+[Sat Sep 21 22:44:08 2019] You gain experience!!
+[Sat Sep 21 22:44:15 2019] Auto attack is on.
+[Sat Sep 21 22:44:15 2019] You slash a large rat for 4 points of damage.
+[Sat Sep 21 22:44:15 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:44:16 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:44:16 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:44:16 2019] You have become better at Taunt! (8)
+[Sat Sep 21 22:44:18 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:44:20 2019] You slash a large rat for 18 points of damage.
+[Sat Sep 21 22:44:20 2019] You have slain a large rat!
+[Sat Sep 21 22:44:20 2019] You gain experience!!
+[Sat Sep 21 22:44:31 2019] Auto attack is on.
+[Sat Sep 21 22:44:31 2019] a young water moccasin hisses and strikes!
+[Sat Sep 21 22:44:31 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:44:31 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:44:31 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:44:32 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:44:34 2019] A young water moccasin bites YOU for 2 points of damage.
+[Sat Sep 21 22:44:36 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:44:37 2019] A young water moccasin bites YOU for 1 point of damage.
+[Sat Sep 21 22:44:39 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:44:40 2019] A young water moccasin bites YOU for 2 points of damage.
+[Sat Sep 21 22:44:40 2019] You have become better at Defense! (2)
+[Sat Sep 21 22:44:40 2019] You bash a young water moccasin for 1 point of damage.
+[Sat Sep 21 22:44:41 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:44:43 2019] A young water moccasin tries to bite YOU, but misses!
+[Sat Sep 21 22:44:46 2019] You slash a young water moccasin for 18 points of damage.
+[Sat Sep 21 22:44:46 2019] You have slain a young water moccasin!
+[Sat Sep 21 22:44:46 2019] You gain experience!!
+[Sat Sep 21 22:44:46 2019] Gumzal begins to cast a spell.
+[Sat Sep 21 22:44:48 2019] Gumzal regains concentration and continues casting.
+[Sat Sep 21 22:44:51 2019] Auto attack is on.
+[Sat Sep 21 22:44:51 2019] A fungus spore hits YOU for 2 points of damage.
+[Sat Sep 21 22:44:51 2019] You slash a large rat for 6 points of damage.
+[Sat Sep 21 22:44:51 2019] A large rat bites YOU for 3 points of damage.
+[Sat Sep 21 22:44:53 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:44:53 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:44:54 2019] A fungus spore hits YOU for 3 points of damage.
+[Sat Sep 21 22:44:54 2019] A large rat bites YOU for 4 points of damage.
+[Sat Sep 21 22:44:54 2019] You have become better at Defense! (3)
+[Sat Sep 21 22:44:56 2019] You slash a large rat for 18 points of damage.
+[Sat Sep 21 22:44:56 2019] You have slain a large rat!
+[Sat Sep 21 22:44:56 2019] You gain experience!!
+[Sat Sep 21 22:44:57 2019] A fungus spore hits YOU for 1 point of damage.
+[Sat Sep 21 22:44:59 2019] a fungus spore scowls at you, ready to attack -- looks like an even fight.
+[Sat Sep 21 22:44:59 2019] Auto attack is on.
+[Sat Sep 21 22:45:00 2019] A fungus spore hits YOU for 2 points of damage.
+[Sat Sep 21 22:45:01 2019] You slash a fungus spore for 5 points of damage.
+[Sat Sep 21 22:45:02 2019] You try to bash a fungus spore, but miss!
+[Sat Sep 21 22:45:02 2019] You taunt a fungus spore to ignore others and attack you!
+[Sat Sep 21 22:45:03 2019] A fungus spore hits YOU for 2 points of damage.
+[Sat Sep 21 22:45:06 2019] You slash a fungus spore for 18 points of damage.
+[Sat Sep 21 22:45:06 2019] You have slain a fungus spore!
+[Sat Sep 21 22:45:06 2019] Your faction standing with FungusMan got worse.
+[Sat Sep 21 22:45:06 2019] You gain experience!!
+[Sat Sep 21 22:45:09 2019] You receive 11 copper from the corpse.
+[Sat Sep 21 22:45:16 2019] Auto attack is on.
+[Sat Sep 21 22:45:16 2019] You slash a large rat for 18 points of damage.
+[Sat Sep 21 22:45:16 2019] You have slain a large rat!
+[Sat Sep 21 22:45:16 2019] You gain experience!!
+[Sat Sep 21 22:45:16 2019] You have gained a level! Welcome to level 2!
+[Sat Sep 21 22:45:16 2019] You have become better at 2H Slashing! (7)
+[Sat Sep 21 22:45:29 2019] You have become better at Swimming! (1)
+[Sat Sep 21 22:47:05 2019] Auto attack is on.
+[Sat Sep 21 22:47:05 2019] You cannot see your target.
+[Sat Sep 21 22:47:05 2019] You cannot see your target.
+[Sat Sep 21 22:47:08 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:47:08 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:47:09 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:47:11 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:47:11 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:47:14 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:47:15 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:47:16 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:47:17 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:47:19 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:47:20 2019] A large rat bites YOU for 2 points of damage.
+[Sat Sep 21 22:47:20 2019] You have become better at Defense! (4)
+[Sat Sep 21 22:47:21 2019] You slash a large rat for 18 points of damage.
+[Sat Sep 21 22:47:21 2019] You have slain a large rat!
+[Sat Sep 21 22:47:21 2019] You gain experience!!
+[Sat Sep 21 22:47:33 2019] You may not loot this corpse at this time.
+[Sat Sep 21 22:47:35 2019] Gumzal begins to cast a spell.
+[Sat Sep 21 22:47:54 2019] Gumzal begins to cast a spell.
+[Sat Sep 21 22:48:54 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:48:55 2019] Auto attack is on.
+[Sat Sep 21 22:48:55 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:48:55 2019] You bash a froglok tad for 1 point of damage.
+[Sat Sep 21 22:48:56 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:48:57 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:49:00 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:49:00 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:49:03 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:49:05 2019] You try to bash a froglok tad, but miss!
+[Sat Sep 21 22:49:05 2019] You slash a froglok tad for 18 points of damage.
+[Sat Sep 21 22:49:05 2019] You have slain a froglok tad!
+[Sat Sep 21 22:49:05 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Sat Sep 21 22:49:05 2019] You gain experience!!
+[Sat Sep 21 22:49:05 2019] You must target an NPC to taunt first.
+[Sat Sep 21 22:49:08 2019] You receive 10 copper from the corpse.
+[Sat Sep 21 22:49:09 2019] --You have looted a Froglok Tadpole Flesh.--
+[Sat Sep 21 22:50:05 2019] Auto attack is on.
+[Sat Sep 21 22:50:05 2019] You slash a froglok tad for 13 points of damage.
+[Sat Sep 21 22:50:05 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:50:06 2019] You bash a froglok tad for 1 point of damage.
+[Sat Sep 21 22:50:08 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:50:08 2019] You have become better at Taunt! (9)
+[Sat Sep 21 22:50:10 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:50:12 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:50:12 2019] You cannot see your target.
+[Sat Sep 21 22:50:15 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:50:15 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:50:15 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:50:16 2019] You try to bash a froglok tad, but miss!
+[Sat Sep 21 22:50:17 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Sat Sep 21 22:50:18 2019] A lesser kobold slashes YOU for 6 points of damage.
+[Sat Sep 21 22:50:18 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:50:20 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:50:21 2019] A lesser kobold slashes YOU for 5 points of damage.
+[Sat Sep 21 22:50:21 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:50:22 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:50:24 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:50:24 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:50:25 2019] You try to bash a froglok tad, but miss!
+[Sat Sep 21 22:50:25 2019] You slash a froglok tad for 18 points of damage.
+[Sat Sep 21 22:50:25 2019] You have slain a froglok tad!
+[Sat Sep 21 22:50:25 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Sat Sep 21 22:50:25 2019] You gain experience!!
+[Sat Sep 21 22:50:27 2019] A lesser kobold slashes YOU for 4 points of damage.
+[Sat Sep 21 22:50:27 2019] Auto attack is on.
+[Sat Sep 21 22:50:29 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:50:30 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:50:30 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:50:33 2019] A lesser kobold slashes YOU for 5 points of damage.
+[Sat Sep 21 22:50:34 2019] You have become better at Offense! (2)
+[Sat Sep 21 22:50:34 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:50:35 2019] You slash a lesser kobold for 18 points of damage.
+[Sat Sep 21 22:50:36 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:50:37 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:50:39 2019] A lesser kobold slashes YOU for 4 points of damage.
+[Sat Sep 21 22:50:40 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:50:42 2019] A lesser kobold slashes YOU for 4 points of damage.
+[Sat Sep 21 22:50:42 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:50:45 2019] A lesser kobold slashes YOU for 4 points of damage.
+[Sat Sep 21 22:50:45 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:50:45 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:50:48 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:50:50 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:50:51 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:50:51 2019] A lesser kobold tries to slash YOU, but misses!
+[Sat Sep 21 22:50:54 2019] A lesser kobold slashes YOU for 5 points of damage.
+[Sat Sep 21 22:50:55 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:50:56 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:50:57 2019] A lesser kobold slashes YOU for 6 points of damage.
+[Sat Sep 21 22:51:00 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:51:00 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:51:02 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:51:03 2019] a lesser kobold scowls at you, ready to attack -- looks like an even fight.
+[Sat Sep 21 22:51:03 2019] A lesser kobold slashes YOU for 2 points of damage.
+[Sat Sep 21 22:51:04 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:51:05 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:51:05 2019] You have become better at 2H Slashing! (8)
+[Sat Sep 21 22:51:06 2019] A lesser kobold slashes YOU for 2 points of damage.
+[Sat Sep 21 22:51:06 2019] You have become better at Defense! (5)
+[Sat Sep 21 22:51:09 2019] A lesser kobold slashes YOU for 6 points of damage.
+[Sat Sep 21 22:51:10 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:51:10 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:51:11 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:51:12 2019] A lesser kobold slashes YOU for 3 points of damage.
+[Sat Sep 21 22:51:15 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:51:15 2019] You have become better at Defense! (6)
+[Sat Sep 21 22:51:15 2019] You slash a lesser kobold for 13 points of damage.
+[Sat Sep 21 22:51:18 2019] A lesser kobold slashes YOU for 5 points of damage.
+[Sat Sep 21 22:51:18 2019] You have become better at Defense! (7)
+[Sat Sep 21 22:51:18 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:51:19 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:51:20 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:51:21 2019] A lesser kobold slashes YOU for 4 points of damage.
+[Sat Sep 21 22:51:24 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Sat Sep 21 22:51:25 2019] You slash a lesser kobold for 3 points of damage.
+[Sat Sep 21 22:51:26 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:51:27 2019] You bash a lesser kobold for 1 point of damage.
+[Sat Sep 21 22:51:29 2019] A lesser kobold slashes YOU for 2 points of damage.
+[Sat Sep 21 22:51:30 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:51:32 2019] A lesser kobold slashes YOU for 6 points of damage.
+[Sat Sep 21 22:51:34 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:51:35 2019] A lesser kobold slashes YOU for 2 points of damage.
+[Sat Sep 21 22:51:35 2019] You slash a lesser kobold for 5 points of damage.
+[Sat Sep 21 22:51:36 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:51:38 2019] A lesser kobold slashes YOU for 5 points of damage.
+[Sat Sep 21 22:51:41 2019] You slash a lesser kobold for 18 points of damage.
+[Sat Sep 21 22:51:41 2019] You have slain a lesser kobold!
+[Sat Sep 21 22:51:41 2019] You gain experience!!
+[Sat Sep 21 22:51:43 2019] You receive 4 silver and 17 copper from the corpse.
+[Sat Sep 21 22:51:47 2019] --You have looted a Small Bag.--
+[Sat Sep 21 22:51:48 2019] --You have looted a Rusty Scimitar.--
+[Sat Sep 21 22:51:50 2019] You receive 9 copper from the corpse.
+[Sat Sep 21 22:51:51 2019] --You have looted a Froglok Tadpole Eye.--
+[Sat Sep 21 22:52:03 2019] Auto attack is on.
+[Sat Sep 21 22:52:03 2019] You cannot see your target.
+[Sat Sep 21 22:52:03 2019] You cannot see your target.
+[Sat Sep 21 22:52:08 2019] You slash a decaying skeleton for 9 points of damage.
+[Sat Sep 21 22:52:08 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Sep 21 22:52:10 2019] You bash a decaying skeleton for 1 point of damage.
+[Sat Sep 21 22:52:10 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Sat Sep 21 22:52:12 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Sep 21 22:52:13 2019] You slash a decaying skeleton for 8 points of damage.
+[Sat Sep 21 22:52:13 2019] You have slain a decaying skeleton!
+[Sat Sep 21 22:52:13 2019] You gain experience!!
+[Sat Sep 21 22:52:18 2019] You receive 7 copper from the corpse.
+[Sat Sep 21 22:52:19 2019] --You have looted a Cloth Shawl.--
+[Sat Sep 21 22:54:04 2019] Barou regards you indifferently -- looks like an even fight.
+[Sat Sep 21 22:54:04 2019] Zimbittle judges you amiably -- what would you like your tombstone to say?
+[Sat Sep 21 22:54:08 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:09 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:10 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:10 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:10 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:10 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:11 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:11 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:11 2019] You say, 'Hail, Zimbittle'
+[Sat Sep 21 22:54:13 2019] Zimbittle says 'I shall pluck you limb from limb!!'
+[Sat Sep 21 22:54:14 2019] a lesser kobold says 'Grrrrr. Bark. Bark. Grrrrr.'
+[Sat Sep 21 22:54:14 2019] Zimbittle says 'Those who play with da Basher always gets bashed good!!'
+[Sat Sep 21 22:54:18 2019] Auto attack is on.
+[Sat Sep 21 22:54:19 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:54:19 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:54:20 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:54:21 2019] You try to bash a froglok tad, but miss!
+[Sat Sep 21 22:54:22 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:54:24 2019] You slash a froglok tad for 1 point of damage.
+[Sat Sep 21 22:54:25 2019] A froglok tad bites YOU for 2 points of damage.
+[Sat Sep 21 22:54:27 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:54:27 2019] You have become better at Taunt! (10)
+[Sat Sep 21 22:54:28 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:54:29 2019] You try to slash a froglok tad, but miss!
+[Sat Sep 21 22:54:30 2019] You try to bash a froglok tad, but miss!
+[Sat Sep 21 22:54:31 2019] A froglok tad tries to bite YOU, but misses!
+[Sat Sep 21 22:54:34 2019] You taunt a froglok tad to ignore others and attack you!
+[Sat Sep 21 22:54:34 2019] You slash a froglok tad for 18 points of damage.
+[Sat Sep 21 22:54:34 2019] You have slain a froglok tad!
+[Sat Sep 21 22:54:34 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Sat Sep 21 22:54:34 2019] You gain experience!!
+[Sat Sep 21 22:54:36 2019] You receive 11 copper from the corpse.
+[Sat Sep 21 22:54:40 2019] --You have looted a Netted Cape.--
+[Sat Sep 21 22:54:42 2019] --You have looted a Froglok Tadpole Eye.--
+[Sat Sep 21 22:55:00 2019] Auto attack is on.
+[Sat Sep 21 22:55:00 2019] You slash a decaying skeleton for 18 points of damage.
+[Sat Sep 21 22:55:00 2019] You have slain a decaying skeleton!
+[Sat Sep 21 22:55:00 2019] You gain experience!!
+[Sat Sep 21 22:55:02 2019] You receive 6 copper from the corpse.
+[Sat Sep 21 22:55:06 2019] Auto attack is on.
+[Sat Sep 21 22:55:06 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:55:06 2019] A decaying skeleton pierces YOU for 1 point of damage.
+[Sat Sep 21 22:55:07 2019] You try to bash a decaying skeleton, but miss!
+[Sat Sep 21 22:55:07 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Sat Sep 21 22:55:09 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Sep 21 22:55:11 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:55:12 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Sep 21 22:55:14 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Sat Sep 21 22:55:15 2019] You have become better at Taunt! (11)
+[Sat Sep 21 22:55:15 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Sep 21 22:55:16 2019] You try to bash a decaying skeleton, but miss!
+[Sat Sep 21 22:55:16 2019] You try to slash a decaying skeleton, but miss!
+[Sat Sep 21 22:55:18 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Sep 21 22:55:21 2019] You slash a decaying skeleton for 18 points of damage.
+[Sat Sep 21 22:55:21 2019] You have slain a decaying skeleton!
+[Sat Sep 21 22:55:21 2019] You gain experience!!
+[Sat Sep 21 22:55:22 2019] You must target an NPC to taunt first.
+[Sat Sep 21 22:55:24 2019] You receive 1 silver and 3 copper from the corpse.
+[Sat Sep 21 22:55:26 2019] --You have looted a Ale.--
+[Sat Sep 21 22:55:26 2019] --You have looted a Rusty Spear.--
+[Sat Sep 21 22:55:33 2019] Glug, glug, glug...  You take a swig of Ale.
+[Sat Sep 21 22:55:33 2019] Ahhh. That was refreshing.
+[Sat Sep 21 22:55:40 2019] fungus man tracker scowls at you, ready to attack -- what would you like your tombstone to say?
+[Sat Sep 21 22:55:42 2019] Fungus man tracker hits YOU for 12 points of damage.
+[Sat Sep 21 22:56:09 2019] Fungus man tracker hits YOU for 6 points of damage.
+[Sat Sep 21 22:56:13 2019] Fungus man tracker hits YOU for 12 points of damage.
+[Sat Sep 21 22:56:13 2019] Basher Sklama says 'I shall pluck you limb from limb!!'
+[Sat Sep 21 22:56:13 2019] Basher Sklama bashes fungus man tracker for 29 points of damage.
+[Sat Sep 21 22:56:13 2019] Basher Sklama slashes fungus man tracker for 174 points of damage.
+[Sat Sep 21 22:56:13 2019] fungus man tracker has been slain by Basher Sklama!
+[Sat Sep 21 22:56:13 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Sat Sep 21 22:56:37 2019] Auto attack is on.
+[Sat Sep 21 22:56:37 2019] You try to slash a fungus spore, but miss!
+[Sat Sep 21 22:56:37 2019] A fungus spore tries to hit YOU, but misses!
+[Sat Sep 21 22:56:38 2019] You taunt a fungus spore to ignore others and attack you!
+[Sat Sep 21 22:56:38 2019] You try to bash a fungus spore, but miss!
+[Sat Sep 21 22:56:40 2019] A fungus spore hits YOU for 1 point of damage.
+[Sat Sep 21 22:56:42 2019] Your target is too far away, get closer!
+[Sat Sep 21 22:56:42 2019] Your target is too far away, get closer!
+[Sat Sep 21 22:56:43 2019] A fungus spore tries to hit YOU, but misses!
+[Sat Sep 21 22:56:45 2019] You taunt a fungus spore to ignore others and attack you!
+[Sat Sep 21 22:56:46 2019] A fungus spore tries to hit YOU, but misses!
+[Sat Sep 21 22:56:47 2019] You try to slash a fungus spore, but miss!
+[Sat Sep 21 22:56:48 2019] You try to bash a fungus spore, but miss!
+[Sat Sep 21 22:56:49 2019] A fungus spore tries to hit YOU, but misses!
+[Sat Sep 21 22:56:52 2019] You have become better at Offense! (3)
+[Sat Sep 21 22:56:52 2019] You slash a fungus spore for 18 points of damage.
+[Sat Sep 21 22:56:52 2019] You have slain a fungus spore!
+[Sat Sep 21 22:56:52 2019] Your faction standing with FungusMan got worse.
+[Sat Sep 21 22:56:52 2019] You gain experience!!
+[Sat Sep 21 22:56:59 2019] Auto attack is on.
+[Sat Sep 21 22:56:59 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Sat Sep 21 22:56:59 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:56:59 2019] You have become better at 2H Slashing! (9)
+[Sat Sep 21 22:56:59 2019] A lesser kobold hits YOU for 5 points of damage.
+[Sat Sep 21 22:57:00 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:57:01 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:57:02 2019] A lesser kobold hits YOU for 5 points of damage.
+[Sat Sep 21 22:57:04 2019] You slash a lesser kobold for 18 points of damage.
+[Sat Sep 21 22:57:05 2019] A lesser kobold hits YOU for 1 point of damage.
+[Sat Sep 21 22:57:07 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:57:08 2019] A lesser kobold hits YOU for 1 point of damage.
+[Sat Sep 21 22:57:09 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:57:10 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:57:11 2019] A lesser kobold hits YOU for 2 points of damage.
+[Sat Sep 21 22:57:14 2019] You slash a lesser kobold for 11 points of damage.
+[Sat Sep 21 22:57:14 2019] You have become better at 2H Slashing! (10)
+[Sat Sep 21 22:57:14 2019] A lesser kobold hits YOU for 6 points of damage.
+[Sat Sep 21 22:57:15 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:57:17 2019] A lesser kobold hits YOU for 5 points of damage.
+[Sat Sep 21 22:57:18 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:57:19 2019] You slash a lesser kobold for 9 points of damage.
+[Sat Sep 21 22:57:19 2019] You have slain a lesser kobold!
+[Sat Sep 21 22:57:19 2019] You gain experience!!
+[Sat Sep 21 22:57:21 2019] You receive 1 copper from the corpse.
+[Sat Sep 21 22:57:32 2019] Auto attack is on.
+[Sat Sep 21 22:57:33 2019] a young water moccasin hisses and strikes!
+[Sat Sep 21 22:57:33 2019] You try to slash a young water moccasin, but miss!
+[Sat Sep 21 22:57:33 2019] A young water moccasin tries to bite YOU, but misses!
+[Sat Sep 21 22:57:33 2019] You taunt a young water moccasin to ignore others and attack you!
+[Sat Sep 21 22:57:33 2019] You try to bash a young water moccasin, but miss!
+[Sat Sep 21 22:57:34 2019] You have become better at Taunt! (12)
+[Sat Sep 21 22:57:36 2019] A young water moccasin bites YOU for 2 points of damage.
+[Sat Sep 21 22:57:38 2019] You slash a young water moccasin for 18 points of damage.
+[Sat Sep 21 22:57:38 2019] You have slain a young water moccasin!
+[Sat Sep 21 22:57:38 2019] You gain experience!!
+[Sat Sep 21 22:57:46 2019] Auto attack is on.
+[Sat Sep 21 22:57:46 2019] You slash a large rat for 12 points of damage.
+[Sat Sep 21 22:57:46 2019] A large rat bites YOU for 1 point of damage.
+[Sat Sep 21 22:57:47 2019] You try to bash a large rat, but miss!
+[Sat Sep 21 22:57:47 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:57:49 2019] A large rat tries to bite YOU, but misses!
+[Sat Sep 21 22:57:51 2019] You slash a large rat for 14 points of damage.
+[Sat Sep 21 22:57:51 2019] You have slain a large rat!
+[Sat Sep 21 22:57:51 2019] You gain experience!!
+[Sat Sep 21 22:57:55 2019] a lesser kobold scowls at you, ready to attack -- looks like an even fight.
+[Sat Sep 21 22:57:57 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Sat Sep 21 22:57:57 2019] Auto attack is on.
+[Sat Sep 21 22:57:57 2019] A lesser kobold tries to crush YOU, but misses!
+[Sat Sep 21 22:57:58 2019] You try to slash a lesser kobold, but miss!
+[Sat Sep 21 22:57:58 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:57:59 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:58:00 2019] A lesser kobold tries to crush YOU, but misses!
+[Sat Sep 21 22:58:03 2019] You slash a lesser kobold for 18 points of damage.
+[Sat Sep 21 22:58:03 2019] A lesser kobold crushes YOU for 1 point of damage.
+[Sat Sep 21 22:58:05 2019] You taunt a lesser kobold to ignore others and attack you!
+[Sat Sep 21 22:58:05 2019] You have become better at Taunt! (13)
+[Sat Sep 21 22:58:06 2019] A lesser kobold crushes YOU for 1 point of damage.
+[Sat Sep 21 22:58:07 2019] You try to bash a lesser kobold, but miss!
+[Sat Sep 21 22:58:08 2019] You slash a lesser kobold for 18 points of damage.
+[Sat Sep 21 22:58:08 2019] You have slain a lesser kobold!
+[Sat Sep 21 22:58:08 2019] You gain experience!!
+[Sat Sep 21 22:58:10 2019] You receive 1 silver and 17 copper from the corpse.
+[Sat Sep 21 22:58:13 2019] --You have looted a Worn Great Staff.--
+[Sat Sep 21 22:58:26 2019] Auto attack is on.
+[Sat Sep 21 22:58:26 2019] You try to slash a large rat, but miss!
+[Sat Sep 21 22:58:26 2019] A large rat bites YOU for 3 points of damage.
+[Sat Sep 21 22:58:27 2019] You cannot see your target.
+[Sat Sep 21 22:58:28 2019] You taunt a large rat to ignore others and attack you!
+[Sat Sep 21 22:58:29 2019] A large rat tries to bite YOU, but misses!
+[Sat Sep 21 22:58:31 2019] You slash a large rat for 16 points of damage.
+[Sat Sep 21 22:58:31 2019] You have slain a large rat!
+[Sat Sep 21 22:58:31 2019] You gain experience!!
+[Sat Sep 21 22:58:41 2019] Auto attack is on.
+[Sat Sep 21 22:58:41 2019] a young water moccasin hisses and strikes!
+[Sat Sep 21 22:58:41 2019] You slash a young water moccasin for 18 points of damage.
+[Sat Sep 21 22:58:41 2019] You have slain a young water moccasin!
+[Sat Sep 21 22:58:41 2019] You gain experience!!
+[Sat Sep 21 22:58:50 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Sat Sep 21 22:58:53 2019] Basher Sklama says 'I shall pluck you limb from limb!!'
+[Sat Sep 21 22:58:54 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Sat Sep 21 22:58:59 2019] Basher Sklama says 'I shall pluck you limb from limb!!'
+[Sat Sep 21 22:59:04 2019] A froglok tad bites YOU for 1 point of damage.
+[Sat Sep 21 22:59:05 2019] Auto attack is on.
+[Sat Sep 21 22:59:05 2019] You slash a froglok tad for 18 points of damage.
+[Sat Sep 21 22:59:05 2019] You have slain a froglok tad!
+[Sat Sep 21 22:59:05 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Sat Sep 21 22:59:05 2019] You gain experience!!
+[Sat Sep 21 22:59:07 2019] You receive 1 copper from the corpse.
+[Sat Sep 21 22:59:08 2019] --You have looted a Froglok Tadpole Flesh.--
+[Sat Sep 21 22:59:12 2019] Auto attack is on.
+[Sat Sep 21 22:59:12 2019] a snake hisses and strikes!
+[Sat Sep 21 22:59:12 2019] You slash a snake for 18 points of damage.
+[Sat Sep 21 22:59:12 2019] You have slain a snake!
+[Sat Sep 21 22:59:12 2019] You gain experience!!
+[Sat Sep 21 22:59:18 2019] a lesser kobold says 'Grrrrr. Bark. Bark. Grrrrr.'
+[Sat Sep 21 22:59:18 2019] Basher Sklama kicks a lesser kobold for 22 points of damage.
+[Sat Sep 21 22:59:18 2019] Basher Sklama slashes a lesser kobold for 174 points of damage.
+[Sat Sep 21 22:59:18 2019] a lesser kobold has been slain by Basher Sklama!
+[Sat Sep 21 22:59:18 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Sat Sep 21 22:59:18 2019] a lesser kobold says 'Grrrrr. Bark. Bark. Grrrrr.'
+[Sat Sep 21 22:59:20 2019] You have become better at Swimming! (2)
+[Sat Sep 21 23:00:23 2019] LOADING, PLEASE WAIT...
+[Sat Sep 21 23:00:28 2019] You have entered Grobb.
+[Sat Sep 21 23:00:31 2019] It begins to rain.
+[Sat Sep 21 23:00:34 2019] Basher Razbaz slashes Kobekab for 81 points of damage.
+[Sat Sep 21 23:00:34 2019] Kobekab bashes Basher Razbaz for 18 points of damage.
+[Sat Sep 21 23:00:34 2019] Kobekab hits Basher Razbaz for 52 points of damage.
+[Sat Sep 21 23:00:34 2019] Kobekab hits Basher Razbaz for 22 points of damage.
+[Sat Sep 21 23:00:34 2019] Kobekab hits Basher Razbaz for 24 points of damage.
+[Sat Sep 21 23:00:37 2019] Kobekab hits Basher Razbaz for 52 points of damage.
+[Sat Sep 21 23:00:37 2019] Kobekab hits Basher Razbaz for 14 points of damage.
+[Sat Sep 21 23:00:44 2019] Players on EverQuest:
+[Sat Sep 21 23:00:44 2019] ---------------------------
+[Sat Sep 21 23:00:44 2019] [49 Necromancer] Dreegi (Skeleton)
+[Sat Sep 21 23:00:44 2019] [1 Warrior] Zelux (Troll)
+[Sat Sep 21 23:00:44 2019] [2 Shadow Knight] Barou (Troll)
+[Sat Sep 21 23:00:44 2019] There are 3 players in Grobb.
+[Sat Sep 21 23:01:12 2019] It will take you about 30 seconds to prepare your camp.
+[Sat Sep 21 23:01:16 2019] It will take about 25 more seconds to prepare your camp.
+[Sat Sep 21 23:01:21 2019] It will take about 20 more seconds to prepare your camp.
+[Sat Sep 21 23:01:26 2019] It will take about 15 more seconds to prepare your camp.
+[Sat Sep 21 23:01:31 2019] It will take about 10 more seconds to prepare your camp.
+[Sat Sep 21 23:01:36 2019] It will take about 5 more seconds to prepare your camp.
+[Mon Sep 23 19:07:27 2019] Welcome to EverQuest!
+[Mon Sep 23 19:07:27 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Mon Sep 23 19:07:27 2019] You have entered Grobb.
+[Mon Sep 23 19:07:27 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Sep 23 19:08:59 2019] Rezslog tells you, 'I'll give you 1 gold 8 silver 7 copper for the Worn Great Staff.'
+[Mon Sep 23 19:09:01 2019] You receive 1 gold 8 silver 7 copper from Rezslog for the Worn Great Staff(s).
+[Mon Sep 23 19:09:01 2019] Rezslog tells you, 'I'll give you 1 gold 8 silver 7 copper for the Rusty Spear.'
+[Mon Sep 23 19:09:02 2019] You receive 1 gold 8 silver 7 copper from Rezslog for the Rusty Spear(s).
+[Mon Sep 23 19:09:03 2019] Rezslog tells you, 'I'll give you 1 gold 7 silver 7 copper for the Rusty Scimitar.'
+[Mon Sep 23 19:09:04 2019] You receive 1 gold 7 silver 7 copper from Rezslog for the Rusty Scimitar(s).
+[Mon Sep 23 19:09:06 2019] It begins to rain.
+[Mon Sep 23 19:18:19 2019] Ootok tells you, 'I'll give you 9 copper per Froglok Tadpole Eye'
+[Mon Sep 23 19:18:23 2019] You receive 1 silver 8 copper from Ootok for the Froglok Tadpole Eye(s).
+[Mon Sep 23 19:18:24 2019] Ootok tells you, 'I'll give you 3 copper per Snake Fang'
+[Mon Sep 23 19:18:25 2019] You receive 3 copper from Ootok for the Snake Fang(s).
+[Mon Sep 23 19:19:03 2019] LOADING, PLEASE WAIT...
+[Mon Sep 23 19:19:08 2019] You have entered Innothule Swamp.
+[Mon Sep 23 19:19:37 2019] a lesser kobold scowls at you, ready to attack -- looks like an even fight.
+[Mon Sep 23 19:19:39 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:19:39 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:19:40 2019] Auto attack is on.
+[Mon Sep 23 19:19:40 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:19:41 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:19:41 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:19:41 2019] You have become better at Taunt! (14)
+[Mon Sep 23 19:19:42 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:19:45 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:19:45 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:19:45 2019] You gain experience!!
+[Mon Sep 23 19:19:47 2019] You receive 4 silver and 14 copper from the corpse.
+[Mon Sep 23 19:19:51 2019] Auto attack is on.
+[Mon Sep 23 19:19:51 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:19:51 2019] You have slain a froglok tad!
+[Mon Sep 23 19:19:51 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:19:51 2019] You gain experience!!
+[Mon Sep 23 19:19:52 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:19:53 2019] You receive 1 silver and 2 copper from the corpse.
+[Mon Sep 23 19:19:59 2019] Auto attack is on.
+[Mon Sep 23 19:19:59 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:19:59 2019] You have slain a large rat!
+[Mon Sep 23 19:19:59 2019] You gain experience!!
+[Mon Sep 23 19:20:02 2019] --You have looted a Rat Whiskers.--
+[Mon Sep 23 19:20:06 2019] Auto attack is on.
+[Mon Sep 23 19:20:06 2019] You slash a large rat for 6 points of damage.
+[Mon Sep 23 19:20:06 2019] A large rat bites YOU for 1 point of damage.
+[Mon Sep 23 19:20:07 2019] You try to bash a large rat, but miss!
+[Mon Sep 23 19:20:08 2019] You taunt a large rat to ignore others and attack you!
+[Mon Sep 23 19:20:08 2019] You have become better at Taunt! (15)
+[Mon Sep 23 19:20:09 2019] A large rat tries to bite YOU, but misses!
+[Mon Sep 23 19:20:11 2019] You slash a large rat for 12 points of damage.
+[Mon Sep 23 19:20:11 2019] You have slain a large rat!
+[Mon Sep 23 19:20:11 2019] You gain experience!!
+[Mon Sep 23 19:20:18 2019] a young water moccasin looks your way apprehensively -- looks like you would have the upper hand.
+[Mon Sep 23 19:20:22 2019] a froglok tad scowls at you, ready to attack -- looks like you would have the upper hand.
+[Mon Sep 23 19:20:23 2019] A froglok tad bites YOU for 1 point of damage.
+[Mon Sep 23 19:20:23 2019] Auto attack is on.
+[Mon Sep 23 19:20:24 2019] You slash a froglok tad for 3 points of damage.
+[Mon Sep 23 19:20:26 2019] You try to bash a froglok tad, but miss!
+[Mon Sep 23 19:20:26 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:20:28 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:20:29 2019] You slash a froglok tad for 14 points of damage.
+[Mon Sep 23 19:20:29 2019] You have slain a froglok tad!
+[Mon Sep 23 19:20:29 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:20:29 2019] You gain experience!!
+[Mon Sep 23 19:20:32 2019] You receive 1 silver and 4 copper from the corpse.
+[Mon Sep 23 19:20:35 2019] --You have looted a Froglok Tadpole Flesh.--
+[Mon Sep 23 19:20:35 2019] --You have looted a Netted Cape.--
+[Mon Sep 23 19:20:39 2019] Auto attack is on.
+[Mon Sep 23 19:20:39 2019] You slash a decaying skeleton for 9 points of damage.
+[Mon Sep 23 19:20:39 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Mon Sep 23 19:20:41 2019] You try to bash a decaying skeleton, but miss!
+[Mon Sep 23 19:20:42 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Mon Sep 23 19:20:44 2019] You slash a decaying skeleton for 18 points of damage.
+[Mon Sep 23 19:20:44 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:20:44 2019] You gain experience!!
+[Mon Sep 23 19:20:46 2019] You receive 2 copper from the corpse.
+[Mon Sep 23 19:20:49 2019] Auto attack is on.
+[Mon Sep 23 19:20:49 2019] You slash a decaying skeleton for 18 points of damage.
+[Mon Sep 23 19:20:49 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:20:49 2019] You gain experience!!
+[Mon Sep 23 19:20:50 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:20:50 2019] You receive 14 copper from the corpse.
+[Mon Sep 23 19:20:55 2019] Auto attack is on.
+[Mon Sep 23 19:20:55 2019] a snake hisses and strikes!
+[Mon Sep 23 19:20:55 2019] You slash a snake for 4 points of damage.
+[Mon Sep 23 19:20:55 2019] A snake tries to bite YOU, but misses!
+[Mon Sep 23 19:20:58 2019] A snake bites YOU for 3 points of damage.
+[Mon Sep 23 19:20:58 2019] You have become better at Defense! (8)
+[Mon Sep 23 19:20:59 2019] You try to bash a snake, but miss!
+[Mon Sep 23 19:21:00 2019] You slash a snake for 18 points of damage.
+[Mon Sep 23 19:21:00 2019] You have slain a snake!
+[Mon Sep 23 19:21:00 2019] You gain experience!!
+[Mon Sep 23 19:21:05 2019] A froglok tad bites YOU for 2 points of damage.
+[Mon Sep 23 19:21:05 2019] Auto attack is on.
+[Mon Sep 23 19:21:05 2019] You try to slash a froglok tad, but miss!
+[Mon Sep 23 19:21:07 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:21:08 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:21:09 2019] You bash a froglok tad for 1 point of damage.
+[Mon Sep 23 19:21:10 2019] You slash a froglok tad for 6 points of damage.
+[Mon Sep 23 19:21:11 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:21:14 2019] A froglok tad bites YOU for 1 point of damage.
+[Mon Sep 23 19:21:16 2019] You try to slash a froglok tad, but miss!
+[Mon Sep 23 19:21:17 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:21:17 2019] You bash a froglok tad for 1 point of damage.
+[Mon Sep 23 19:21:20 2019] A froglok tad bites YOU for 3 points of damage.
+[Mon Sep 23 19:21:21 2019] You slash a froglok tad for 8 points of damage.
+[Mon Sep 23 19:21:21 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:21:26 2019] You have become better at Offense! (4)
+[Mon Sep 23 19:21:26 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:21:26 2019] You have slain a froglok tad!
+[Mon Sep 23 19:21:26 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:21:26 2019] You gain experience!!
+[Mon Sep 23 19:21:28 2019] You receive 17 copper from the corpse.
+[Mon Sep 23 19:21:33 2019] It will take you about 30 seconds to prepare your camp.
+[Mon Sep 23 19:21:37 2019] It will take about 25 more seconds to prepare your camp.
+[Mon Sep 23 19:21:42 2019] It will take about 20 more seconds to prepare your camp.
+[Mon Sep 23 19:21:47 2019] It will take about 15 more seconds to prepare your camp.
+[Mon Sep 23 19:21:52 2019] It will take about 10 more seconds to prepare your camp.
+[Mon Sep 23 19:21:57 2019] It will take about 5 more seconds to prepare your camp.
+[Mon Sep 23 19:24:11 2019] Welcome to EverQuest!
+[Mon Sep 23 19:24:11 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Mon Sep 23 19:24:11 2019] You have entered Innothule Swamp.
+[Mon Sep 23 19:24:11 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Mon Sep 23 19:24:27 2019] Auto attack is on.
+[Mon Sep 23 19:24:27 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:24:27 2019] You have slain a froglok tad!
+[Mon Sep 23 19:24:27 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:24:27 2019] You gain experience!!
+[Mon Sep 23 19:24:29 2019] You receive 1 silver and 5 copper from the corpse.
+[Mon Sep 23 19:24:40 2019] Auto attack is on.
+[Mon Sep 23 19:24:40 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:24:40 2019] You have slain a large rat!
+[Mon Sep 23 19:24:40 2019] You gain experience!!
+[Mon Sep 23 19:24:44 2019] --You have looted a Rat Whiskers.--
+[Mon Sep 23 19:24:54 2019] Auto attack is on.
+[Mon Sep 23 19:24:54 2019] You slash a froglok tad for 14 points of damage.
+[Mon Sep 23 19:24:54 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:24:55 2019] You try to bash a froglok tad, but miss!
+[Mon Sep 23 19:24:59 2019] You try to slash a froglok tad, but miss!
+[Mon Sep 23 19:25:00 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:25:04 2019] You slash a froglok tad for 6 points of damage.
+[Mon Sep 23 19:25:04 2019] You have slain a froglok tad!
+[Mon Sep 23 19:25:04 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:25:04 2019] You gain experience!!
+[Mon Sep 23 19:25:07 2019] You receive 4 copper from the corpse.
+[Mon Sep 23 19:25:08 2019] --You have looted a Netted Cap.--
+[Mon Sep 23 19:25:10 2019] --You have looted a Froglok Tadpole Flesh.--
+[Mon Sep 23 19:25:17 2019] Auto attack is on.
+[Mon Sep 23 19:25:18 2019] You slash a fungus spore for 18 points of damage.
+[Mon Sep 23 19:25:18 2019] You have slain a fungus spore!
+[Mon Sep 23 19:25:18 2019] Your faction standing with FungusMan got worse.
+[Mon Sep 23 19:25:18 2019] You gain experience!!
+[Mon Sep 23 19:25:22 2019] You receive 6 copper from the corpse.
+[Mon Sep 23 19:25:23 2019] Error: OP_LootRequest: Corpse not found (ent = 0)
+[Mon Sep 23 19:25:41 2019] Auto attack is on.
+[Mon Sep 23 19:25:41 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:25:41 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:25:42 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:25:42 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:25:42 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:25:43 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:25:45 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:25:47 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:25:48 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:25:48 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:25:51 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:25:52 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:25:52 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:25:54 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:25:57 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:25:57 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:26:00 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:26:00 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:26:01 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:26:02 2019] You slash a lesser kobold for 12 points of damage.
+[Mon Sep 23 19:26:07 2019] You slash a lesser kobold for 13 points of damage.
+[Mon Sep 23 19:26:07 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:26:07 2019] You gain experience!!
+[Mon Sep 23 19:26:11 2019] You receive 5 silver and 17 copper from the corpse.
+[Mon Sep 23 19:26:12 2019] --You have looted a Short Beer.--
+[Mon Sep 23 19:26:26 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:26:26 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:26:27 2019] Auto attack is on.
+[Mon Sep 23 19:26:28 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:26:28 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:26:30 2019] A lesser kobold hits YOU for 2 points of damage.
+[Mon Sep 23 19:26:31 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:26:33 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:26:33 2019] A lesser kobold hits YOU for 4 points of damage.
+[Mon Sep 23 19:26:36 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:26:38 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:26:38 2019] You have become better at Offense! (5)
+[Mon Sep 23 19:26:38 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:26:39 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:26:42 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:26:43 2019] You slash a lesser kobold for 14 points of damage.
+[Mon Sep 23 19:26:44 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:26:45 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:26:48 2019] You slash a lesser kobold for 6 points of damage.
+[Mon Sep 23 19:26:48 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:26:48 2019] You gain experience!!
+[Mon Sep 23 19:26:48 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:26:50 2019] You receive 6 silver and 5 copper from the corpse.
+[Mon Sep 23 19:26:58 2019] A decaying skeleton hits Guzgak for 1 point of damage.
+[Mon Sep 23 19:26:58 2019] Guzgak slashes a decaying skeleton for 20 points of damage.
+[Mon Sep 23 19:26:58 2019] a decaying skeleton has been slain by Guzgak!
+[Mon Sep 23 19:27:01 2019] Auto attack is on.
+[Mon Sep 23 19:27:02 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:27:02 2019] You have slain a large rat!
+[Mon Sep 23 19:27:02 2019] You gain experience!!
+[Mon Sep 23 19:27:02 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:27:17 2019] Basher Sklama judges you amiably -- what would you like your tombstone to say?
+[Mon Sep 23 19:27:18 2019] a young water moccasin looks your way apprehensively -- looks like you would have the upper hand.
+[Mon Sep 23 19:27:19 2019] Basher Sklama says 'I shall pluck you limb from limb!!'
+[Mon Sep 23 19:27:19 2019] Auto attack is on.
+[Mon Sep 23 19:27:19 2019] a young water moccasin hisses and strikes!
+[Mon Sep 23 19:27:19 2019] You slash a young water moccasin for 12 points of damage.
+[Mon Sep 23 19:27:19 2019] A young water moccasin bites YOU for 3 points of damage.
+[Mon Sep 23 19:27:20 2019] Basher Sklama bashes a young water moccasin for 30 points of damage.
+[Mon Sep 23 19:27:20 2019] a young water moccasin has been slain by Basher Sklama!
+[Mon Sep 23 19:27:20 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Mon Sep 23 19:27:20 2019] a young water moccasin hisses and strikes!
+[Mon Sep 23 19:27:38 2019] Auto attack is on.
+[Mon Sep 23 19:27:38 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:27:38 2019] You have slain a large rat!
+[Mon Sep 23 19:27:38 2019] You gain experience!!
+[Mon Sep 23 19:27:38 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:27:56 2019] Auto attack is on.
+[Mon Sep 23 19:27:57 2019] You slash a large rat for 17 points of damage.
+[Mon Sep 23 19:27:57 2019] You have slain a large rat!
+[Mon Sep 23 19:27:57 2019] You gain experience!!
+[Mon Sep 23 19:27:57 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:28:09 2019] Auto attack is on.
+[Mon Sep 23 19:28:09 2019] You slash a large rat for 6 points of damage.
+[Mon Sep 23 19:28:09 2019] A large rat tries to bite YOU, but misses!
+[Mon Sep 23 19:28:10 2019] You try to bash a large rat, but miss!
+[Mon Sep 23 19:28:12 2019] A large rat bites YOU for 2 points of damage.
+[Mon Sep 23 19:28:14 2019] You taunt a large rat to ignore others and attack you!
+[Mon Sep 23 19:28:14 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:28:14 2019] You have slain a large rat!
+[Mon Sep 23 19:28:14 2019] You gain experience!!
+[Mon Sep 23 19:28:31 2019] fungus man tracker scowls at you, ready to attack -- what would you like your tombstone to say?
+[Mon Sep 23 19:28:38 2019] a fungus spore scowls at you, ready to attack -- looks like you would have the upper hand.
+[Mon Sep 23 19:28:38 2019] Auto attack is on.
+[Mon Sep 23 19:28:38 2019] A fungus spore pierces YOU for 1 point of damage.
+[Mon Sep 23 19:28:38 2019] You slash a fungus spore for 18 points of damage.
+[Mon Sep 23 19:28:38 2019] You have slain a fungus spore!
+[Mon Sep 23 19:28:38 2019] Your faction standing with FungusMan got worse.
+[Mon Sep 23 19:28:38 2019] You gain experience!!
+[Mon Sep 23 19:28:46 2019] You receive 12 copper from the corpse.
+[Mon Sep 23 19:28:48 2019] --You have looted a Rusty Shortened Spear.--
+[Mon Sep 23 19:28:52 2019] a young water moccasin looks your way apprehensively -- looks like you would have the upper hand.
+[Mon Sep 23 19:28:53 2019] Auto attack is on.
+[Mon Sep 23 19:28:53 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:28:53 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:28:53 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:28:55 2019] a young water moccasin hisses and strikes!
+[Mon Sep 23 19:28:55 2019] You bash a young water moccasin for 1 point of damage.
+[Mon Sep 23 19:28:57 2019] A young water moccasin tries to bite YOU, but misses!
+[Mon Sep 23 19:28:58 2019] You slash a young water moccasin for 14 points of damage.
+[Mon Sep 23 19:28:59 2019] You taunt a young water moccasin to ignore others and attack you!
+[Mon Sep 23 19:29:03 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:29:06 2019] You try to bash a young water moccasin, but miss!
+[Mon Sep 23 19:29:07 2019] You taunt a young water moccasin to ignore others and attack you!
+[Mon Sep 23 19:29:08 2019] A young water moccasin bites YOU for 1 point of damage.
+[Mon Sep 23 19:29:08 2019] You slash a young water moccasin for 14 points of damage.
+[Mon Sep 23 19:29:08 2019] You have slain a young water moccasin!
+[Mon Sep 23 19:29:08 2019] You gain experience!!
+[Mon Sep 23 19:29:51 2019] Slayer Captain judges you amiably -- what would you like your tombstone to say?
+[Mon Sep 23 19:29:59 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:00 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:00 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:00 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:01 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:01 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:01 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:01 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:02 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:02 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:02 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:02 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:02 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:03 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:03 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:03 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:03 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:03 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:04 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:04 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:04 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:04 2019] You say, 'Hail, Slayer Captain'
+[Mon Sep 23 19:30:08 2019] Auto attack is on.
+[Mon Sep 23 19:30:08 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:30:08 2019] You have slain a froglok tad!
+[Mon Sep 23 19:30:08 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:30:08 2019] You gain experience!!
+[Mon Sep 23 19:30:09 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:30:10 2019] You receive 7 copper from the corpse.
+[Mon Sep 23 19:30:44 2019] Auto attack is on.
+[Mon Sep 23 19:30:44 2019] You slash a decaying skeleton for 3 points of damage.
+[Mon Sep 23 19:30:44 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:30:45 2019] You try to bash a decaying skeleton, but miss!
+[Mon Sep 23 19:30:45 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Mon Sep 23 19:30:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:30:49 2019] You slash a decaying skeleton for 13 points of damage.
+[Mon Sep 23 19:30:49 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:30:49 2019] You gain experience!!
+[Mon Sep 23 19:30:51 2019] You receive 1 silver and 8 copper from the corpse.
+[Mon Sep 23 19:30:52 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:30:53 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:31:45 2019] Auto attack is on.
+[Mon Sep 23 19:31:45 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:31:45 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:31:45 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:31:46 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:31:46 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:31:48 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:31:50 2019] You slash a lesser kobold for 5 points of damage.
+[Mon Sep 23 19:31:51 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:31:53 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:31:54 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:31:55 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:31:56 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:31:57 2019] A lesser kobold hits YOU for 2 points of damage.
+[Mon Sep 23 19:32:00 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:32:00 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:32:01 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:32:03 2019] A lesser kobold hits YOU for 2 points of damage.
+[Mon Sep 23 19:32:04 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:32:05 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:32:06 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:32:09 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:32:10 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:32:10 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:32:13 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:32:13 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:32:16 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:32:16 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:32:17 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:32:19 2019] A lesser kobold hits YOU for 2 points of damage.
+[Mon Sep 23 19:32:21 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:32:22 2019] A lesser kobold hits YOU for 3 points of damage.
+[Mon Sep 23 19:32:22 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:32:25 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:32:25 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:32:26 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:32:28 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:32:30 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:32:31 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:32:31 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:32:31 2019] You gain experience!!
+[Mon Sep 23 19:32:32 2019] You receive 1 silver and 13 copper from the corpse.
+[Mon Sep 23 19:33:50 2019] Auto attack is on.
+[Mon Sep 23 19:33:50 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:33:51 2019] You bash a large rat for 1 point of damage.
+[Mon Sep 23 19:33:52 2019] You taunt a large rat to ignore others and attack you!
+[Mon Sep 23 19:33:53 2019] A large rat tries to bite YOU, but misses!
+[Mon Sep 23 19:33:55 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:33:55 2019] You have slain a large rat!
+[Mon Sep 23 19:33:55 2019] You gain experience!!
+[Mon Sep 23 19:34:11 2019] A froglok tad bites YOU for 3 points of damage.
+[Mon Sep 23 19:34:12 2019] Auto attack is on.
+[Mon Sep 23 19:34:12 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:34:12 2019] You have slain a froglok tad!
+[Mon Sep 23 19:34:12 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:34:12 2019] You gain experience!!
+[Mon Sep 23 19:34:14 2019] You receive 17 copper from the corpse.
+[Mon Sep 23 19:34:21 2019] Auto attack is on.
+[Mon Sep 23 19:34:21 2019] You slash a froglok tad for 9 points of damage.
+[Mon Sep 23 19:34:21 2019] A froglok tad bites YOU for 1 point of damage.
+[Mon Sep 23 19:34:22 2019] You bash a froglok tad for 1 point of damage.
+[Mon Sep 23 19:34:22 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:34:24 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:34:26 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:34:26 2019] You have slain a froglok tad!
+[Mon Sep 23 19:34:26 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:34:26 2019] You gain experience!!
+[Mon Sep 23 19:34:28 2019] You receive 12 copper from the corpse.
+[Mon Sep 23 19:34:29 2019] --You have looted a Froglok Tadpole Flesh.--
+[Mon Sep 23 19:34:36 2019] a froglok scowls at you, ready to attack -- looks like quite a gamble.
+[Mon Sep 23 19:34:39 2019] a lesser kobold scowls at you, ready to attack -- looks like an even fight.
+[Mon Sep 23 19:34:41 2019] Auto attack is on.
+[Mon Sep 23 19:34:41 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:34:41 2019] You slash a lesser kobold for 14 points of damage.
+[Mon Sep 23 19:34:41 2019] A lesser kobold slashes YOU for 1 point of damage.
+[Mon Sep 23 19:34:41 2019] You have become better at Defense! (9)
+[Mon Sep 23 19:34:42 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:34:44 2019] A lesser kobold slashes YOU for 4 points of damage.
+[Mon Sep 23 19:34:45 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:34:46 2019] You slash a lesser kobold for 8 points of damage.
+[Mon Sep 23 19:34:47 2019] A lesser kobold slashes YOU for 2 points of damage.
+[Mon Sep 23 19:34:50 2019] A lesser kobold slashes YOU for 6 points of damage.
+[Mon Sep 23 19:34:50 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:34:51 2019] You slash a lesser kobold for 9 points of damage.
+[Mon Sep 23 19:34:56 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:34:58 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:34:59 2019] You cannot see your target.
+[Mon Sep 23 19:35:01 2019] You slash a lesser kobold for 5 points of damage.
+[Mon Sep 23 19:35:01 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:35:01 2019] You gain experience!!
+[Mon Sep 23 19:35:04 2019] Auto attack is on.
+[Mon Sep 23 19:35:06 2019] You slash a decaying skeleton for 7 points of damage.
+[Mon Sep 23 19:35:06 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Mon Sep 23 19:35:08 2019] You cannot see your target.
+[Mon Sep 23 19:35:09 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:35:11 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:35:11 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:35:12 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:35:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:35:15 2019] You try to bash a decaying skeleton, but miss!
+[Mon Sep 23 19:35:16 2019] You slash a decaying skeleton for 10 points of damage.
+[Mon Sep 23 19:35:16 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:35:16 2019] You gain experience!!
+[Mon Sep 23 19:35:18 2019] You receive 8 copper from the corpse.
+[Mon Sep 23 19:35:26 2019] You receive 7 silver and 4 copper from the corpse.
+[Mon Sep 23 19:35:29 2019] --You have looted a Rusty Long Sword.--
+[Mon Sep 23 19:35:30 2019] --You have looted a Ale.--
+[Mon Sep 23 19:35:38 2019] A froglok hits YOU for 4 points of damage.
+[Mon Sep 23 19:35:49 2019] A froglok hits YOU for 5 points of damage.
+[Mon Sep 23 19:35:57 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:35:57 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:35:58 2019] A lesser kobold slashes YOU for 6 points of damage.
+[Mon Sep 23 19:36:03 2019] A lesser kobold tries to slash YOU, but misses!
+[Mon Sep 23 19:36:03 2019] Basher Sklama says 'I shall pluck you limb from limb!!'
+[Mon Sep 23 19:36:03 2019] Basher Sklama kicks a lesser kobold for 30 points of damage.
+[Mon Sep 23 19:36:03 2019] Basher Sklama slashes a lesser kobold for 174 points of damage.
+[Mon Sep 23 19:36:03 2019] a lesser kobold has been slain by Basher Sklama!
+[Mon Sep 23 19:36:03 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Mon Sep 23 19:36:03 2019] a lesser kobold says 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:36:16 2019] Barou regards you indifferently -- looks like an even fight.
+[Mon Sep 23 19:36:16 2019] a froglok scowls at you, ready to attack -- looks like quite a gamble.
+[Mon Sep 23 19:36:23 2019] a froglok tad scowls at you, ready to attack -- looks like you would have the upper hand.
+[Mon Sep 23 19:36:25 2019] Auto attack is on.
+[Mon Sep 23 19:36:25 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:36:26 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:36:26 2019] You have slain a froglok tad!
+[Mon Sep 23 19:36:26 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:36:26 2019] You gain experience!!
+[Mon Sep 23 19:36:26 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:36:28 2019] You receive 4 copper from the corpse.
+[Mon Sep 23 19:36:32 2019] Auto attack is on.
+[Mon Sep 23 19:36:32 2019] You cannot see your target.
+[Mon Sep 23 19:36:32 2019] You cannot see your target.
+[Mon Sep 23 19:36:32 2019] You have become better at Offense! (6)
+[Mon Sep 23 19:36:32 2019] You slash a large rat for 6 points of damage.
+[Mon Sep 23 19:36:32 2019] A large rat tries to bite YOU, but misses!
+[Mon Sep 23 19:36:35 2019] You try to bash a large rat, but miss!
+[Mon Sep 23 19:36:35 2019] A large rat tries to bite YOU, but misses!
+[Mon Sep 23 19:36:37 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:36:37 2019] You have slain a large rat!
+[Mon Sep 23 19:36:37 2019] You gain experience!!
+[Mon Sep 23 19:36:43 2019] --You have looted a Rat Ears.--
+[Mon Sep 23 19:36:55 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:36:55 2019] A lesser kobold hits YOU for 4 points of damage.
+[Mon Sep 23 19:36:55 2019] Auto attack is on.
+[Mon Sep 23 19:36:55 2019] You cannot see your target.
+[Mon Sep 23 19:36:55 2019] You cannot see your target.
+[Mon Sep 23 19:36:56 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:36:57 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:36:58 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:37:00 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:37:01 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:37:03 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:37:04 2019] A lesser kobold hits YOU for 3 points of damage.
+[Mon Sep 23 19:37:05 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:37:05 2019] You slash a lesser kobold for 10 points of damage.
+[Mon Sep 23 19:37:07 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:37:09 2019] Fungus man tracker kicks YOU for 4 points of damage.
+[Mon Sep 23 19:37:09 2019] Fungus man tracker hits YOU for 12 points of damage.
+[Mon Sep 23 19:37:10 2019] A lesser kobold hits YOU for 4 points of damage.
+[Mon Sep 23 19:37:10 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:37:10 2019] You slash a lesser kobold for 15 points of damage.
+[Mon Sep 23 19:37:12 2019] Fungus man tracker tries to hit YOU, but misses!
+[Mon Sep 23 19:37:13 2019] A lesser kobold hits YOU for 4 points of damage.
+[Mon Sep 23 19:37:13 2019] You have become better at Defense! (10)
+[Mon Sep 23 19:37:14 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:37:15 2019] Fungus man tracker hits YOU for 7 points of damage.
+[Mon Sep 23 19:37:16 2019] You slash a lesser kobold for 7 points of damage.
+[Mon Sep 23 19:37:16 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:37:16 2019] You gain experience!!
+[Mon Sep 23 19:37:17 2019] Fungus man tracker kicks YOU for 6 points of damage.
+[Mon Sep 23 19:37:18 2019] You are stunned!
+[Mon Sep 23 19:37:18 2019] Fungus man tracker hits YOU for 14 points of damage.
+[Mon Sep 23 19:37:21 2019] Fungus man tracker hits YOU for 13 points of damage.
+[Mon Sep 23 19:37:21 2019] You are unstunned.
+[Mon Sep 23 19:37:21 2019] You have been knocked unconscious!
+[Mon Sep 23 19:37:24 2019] Fungus man tracker hits YOU for 14 points of damage.
+[Mon Sep 23 19:37:24 2019] You have been slain by fungus man tracker!
+[Mon Sep 23 19:37:29 2019] Returning to Innothule Swamp, please wait...
+[Mon Sep 23 19:37:29 2019] LOADING, PLEASE WAIT...
+[Mon Sep 23 19:37:34 2019] You have entered Innothule Swamp.
+[Mon Sep 23 19:38:17 2019] You are out of food and drink.
+[Mon Sep 23 19:38:31 2019] You receive 3 gold, 61 silver and 369 copper from the corpse.
+[Mon Sep 23 19:38:38 2019] Summoning Barou's corpse...
+[Mon Sep 23 19:38:45 2019] Summoning Barou's corpse...
+[Mon Sep 23 19:38:50 2019] Summoning Barou's corpse...
+[Mon Sep 23 19:38:50 2019] The corpse is too far away to summon.
+[Mon Sep 23 19:39:16 2019] a large rat glowers at you dubiously -- looks like you would have the upper hand.
+[Mon Sep 23 19:39:16 2019] Auto attack is on.
+[Mon Sep 23 19:39:16 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:39:19 2019] You taunt a large rat to ignore others and attack you!
+[Mon Sep 23 19:39:19 2019] A large rat bites YOU for 1 point of damage.
+[Mon Sep 23 19:39:21 2019] You slash a large rat for 16 points of damage.
+[Mon Sep 23 19:39:21 2019] You have slain a large rat!
+[Mon Sep 23 19:39:21 2019] You gain experience!!
+[Mon Sep 23 19:39:29 2019] Auto attack is on.
+[Mon Sep 23 19:39:29 2019] You slash a large rat for 18 points of damage.
+[Mon Sep 23 19:39:29 2019] You have slain a large rat!
+[Mon Sep 23 19:39:29 2019] You gain experience!!
+[Mon Sep 23 19:39:29 2019] You must first click on the being you wish to attack!
+[Mon Sep 23 19:39:34 2019] --You have looted a Rat Whiskers.--
+[Mon Sep 23 19:39:55 2019] a froglok tad scowls at you, ready to attack -- looks like you would have the upper hand.
+[Mon Sep 23 19:40:00 2019] Auto attack is on.
+[Mon Sep 23 19:40:00 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:40:00 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:40:00 2019] You have slain a froglok tad!
+[Mon Sep 23 19:40:00 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:40:00 2019] You gain experience!!
+[Mon Sep 23 19:40:02 2019] You receive 10 copper from the corpse.
+[Mon Sep 23 19:40:05 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Mon Sep 23 19:40:06 2019] Auto attack is on.
+[Mon Sep 23 19:40:06 2019] You slash a decaying skeleton for 2 points of damage.
+[Mon Sep 23 19:40:06 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:40:07 2019] You bash a decaying skeleton for 1 point of damage.
+[Mon Sep 23 19:40:09 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Mon Sep 23 19:40:10 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Mon Sep 23 19:40:11 2019] You try to slash a decaying skeleton, but miss!
+[Mon Sep 23 19:40:12 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:40:16 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:40:16 2019] You try to bash a decaying skeleton, but miss!
+[Mon Sep 23 19:40:16 2019] You try to slash a decaying skeleton, but miss!
+[Mon Sep 23 19:40:18 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Mon Sep 23 19:40:19 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:40:22 2019] You slash a decaying skeleton for 18 points of damage.
+[Mon Sep 23 19:40:22 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:40:22 2019] You gain experience!!
+[Mon Sep 23 19:40:24 2019] You receive 6 copper from the corpse.
+[Mon Sep 23 19:40:25 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:40:26 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:40:26 2019] --You have looted a Iron Ration.--
+[Mon Sep 23 19:40:31 2019] You take a bite of Iron Ration.
+[Mon Sep 23 19:40:31 2019] Ahhh. That was tasty.
+[Mon Sep 23 19:40:33 2019] Auto attack is on.
+[Mon Sep 23 19:40:33 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:40:33 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:40:33 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:40:37 2019] You bash a decaying skeleton for 1 point of damage.
+[Mon Sep 23 19:40:38 2019] You slash a decaying skeleton for 14 points of damage.
+[Mon Sep 23 19:40:39 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Mon Sep 23 19:40:39 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Mon Sep 23 19:40:42 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Mon Sep 23 19:40:43 2019] You try to slash a decaying skeleton, but miss!
+[Mon Sep 23 19:40:45 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Mon Sep 23 19:40:46 2019] You bash a decaying skeleton for 1 point of damage.
+[Mon Sep 23 19:40:46 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Mon Sep 23 19:40:48 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Mon Sep 23 19:40:48 2019] You slash a decaying skeleton for 18 points of damage.
+[Mon Sep 23 19:40:48 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:40:48 2019] You gain experience!!
+[Mon Sep 23 19:40:50 2019] You receive 2 copper from the corpse.
+[Mon Sep 23 19:40:51 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:40:56 2019] a snake looks your way apprehensively -- looks like you would have the upper hand.
+[Mon Sep 23 19:40:56 2019] Auto attack is on.
+[Mon Sep 23 19:40:57 2019] a snake hisses and strikes!
+[Mon Sep 23 19:40:57 2019] You slash a snake for 6 points of damage.
+[Mon Sep 23 19:40:57 2019] A snake tries to bite YOU, but misses!
+[Mon Sep 23 19:40:57 2019] You bash a snake for 1 point of damage.
+[Mon Sep 23 19:40:58 2019] You taunt a snake to ignore others and attack you!
+[Mon Sep 23 19:41:00 2019] A snake tries to bite YOU, but misses!
+[Mon Sep 23 19:41:02 2019] You slash a snake for 18 points of damage.
+[Mon Sep 23 19:41:02 2019] You have slain a snake!
+[Mon Sep 23 19:41:02 2019] You gain experience!!
+[Mon Sep 23 19:41:26 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Mon Sep 23 19:41:37 2019] Auto attack is on.
+[Mon Sep 23 19:41:37 2019] You slash a decaying skeleton for 8 points of damage.
+[Mon Sep 23 19:41:37 2019] A decaying skeleton tries to hit YOU, but misses!
+[Mon Sep 23 19:41:38 2019] You bash a decaying skeleton for 1 point of damage.
+[Mon Sep 23 19:41:38 2019] You taunt a decaying skeleton to ignore others and attack you!
+[Mon Sep 23 19:41:38 2019] A fungus spore tries to hit YOU, but misses!
+[Mon Sep 23 19:41:40 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Mon Sep 23 19:41:41 2019] A fungus spore tries to hit YOU, but misses!
+[Mon Sep 23 19:41:42 2019] You slash a decaying skeleton for 18 points of damage.
+[Mon Sep 23 19:41:42 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:41:42 2019] You gain experience!!
+[Mon Sep 23 19:41:42 2019] You have become better at 2H Slashing! (11)
+[Mon Sep 23 19:41:44 2019] A fungus spore tries to hit YOU, but misses!
+[Mon Sep 23 19:41:45 2019] Auto attack is on.
+[Mon Sep 23 19:41:47 2019] You bash a fungus spore for 1 point of damage.
+[Mon Sep 23 19:41:47 2019] You taunt a fungus spore to ignore others and attack you!
+[Mon Sep 23 19:41:47 2019] You slash a fungus spore for 8 points of damage.
+[Mon Sep 23 19:41:49 2019] A fungus spore hits YOU for 4 points of damage.
+[Mon Sep 23 19:41:52 2019] A fungus spore tries to hit YOU, but misses!
+[Mon Sep 23 19:41:52 2019] You slash a fungus spore for 14 points of damage.
+[Mon Sep 23 19:41:52 2019] You have slain a fungus spore!
+[Mon Sep 23 19:41:52 2019] Your faction standing with FungusMan got worse.
+[Mon Sep 23 19:41:52 2019] You gain experience!!
+[Mon Sep 23 19:41:54 2019] You receive 5 copper from the corpse.
+[Mon Sep 23 19:41:57 2019] You receive 2 copper from the corpse.
+[Mon Sep 23 19:41:58 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:41:58 2019] --You have looted a Bone Chips.--
+[Mon Sep 23 19:42:28 2019] A froglok crushes YOU for 5 points of damage.
+[Mon Sep 23 19:42:34 2019] A froglok crushes YOU for 8 points of damage.
+[Mon Sep 23 19:42:45 2019] A froglok crushes YOU for 6 points of damage.
+[Mon Sep 23 19:42:47 2019] Basher Sklama says 'I shall pluck you limb from limb!!'
+[Mon Sep 23 19:42:47 2019] Basher Sklama bashes a froglok for 30 points of damage.
+[Mon Sep 23 19:42:47 2019] Basher Sklama hits a froglok for 174 points of damage.
+[Mon Sep 23 19:42:47 2019] a froglok has been slain by Basher Sklama!
+[Mon Sep 23 19:42:47 2019] Basher Sklama says 'Those who play with da Basher always gets bashed good!!'
+[Mon Sep 23 19:43:05 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Mon Sep 23 19:43:09 2019] Auto attack is on.
+[Mon Sep 23 19:43:09 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:43:10 2019] You try to bash a decaying skeleton, but miss!
+[Mon Sep 23 19:43:10 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Mon Sep 23 19:43:13 2019] A decaying skeleton tries to slash YOU, but misses!
+[Mon Sep 23 19:43:14 2019] You slash a decaying skeleton for 18 points of damage.
+[Mon Sep 23 19:43:14 2019] You have slain a decaying skeleton!
+[Mon Sep 23 19:43:14 2019] You gain experience!!
+[Mon Sep 23 19:43:16 2019] You receive 2 copper from the corpse.
+[Mon Sep 23 19:43:18 2019] --You have looted a Rusty Halberd.--
+[Mon Sep 23 19:43:31 2019] Glug, glug, glug...  You take a swig of Short Beer.
+[Mon Sep 23 19:43:31 2019] Ahhh. That was refreshing.
+[Mon Sep 23 19:43:37 2019] A froglok tad bites YOU for 1 point of damage.
+[Mon Sep 23 19:43:40 2019] A froglok tad bites YOU for 4 points of damage.
+[Mon Sep 23 19:43:42 2019] You no longer have a target.
+[Mon Sep 23 19:43:43 2019] a froglok tad scowls at you, ready to attack -- looks like you would have the upper hand.
+[Mon Sep 23 19:43:43 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:43:43 2019] Auto attack is on.
+[Mon Sep 23 19:43:43 2019] You try to pierce a froglok tad, but miss!
+[Mon Sep 23 19:43:44 2019] You try to bash a froglok tad, but miss!
+[Mon Sep 23 19:43:44 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:43:46 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:43:46 2019] You try to pierce a froglok tad, but miss!
+[Mon Sep 23 19:43:49 2019] A froglok tad bites YOU for 2 points of damage.
+[Mon Sep 23 19:43:50 2019] You try to pierce a froglok tad, but miss!
+[Mon Sep 23 19:43:51 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:43:52 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:43:53 2019] You have become better at Offense! (7)
+[Mon Sep 23 19:43:53 2019] You try to pierce a froglok tad, but miss!
+[Mon Sep 23 19:43:54 2019] You bash a froglok tad for 1 point of damage.
+[Mon Sep 23 19:43:56 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:43:56 2019] You pierce a froglok tad for 8 points of damage.
+[Mon Sep 23 19:43:59 2019] A froglok tad bites YOU for 1 point of damage.
+[Mon Sep 23 19:43:59 2019] You pierce a froglok tad for 6 points of damage.
+[Mon Sep 23 19:44:02 2019] You slash a froglok tad for 14 points of damage.
+[Mon Sep 23 19:44:02 2019] You have slain a froglok tad!
+[Mon Sep 23 19:44:02 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:44:02 2019] You gain experience!!
+[Mon Sep 23 19:44:05 2019] You receive 1 silver and 8 copper from the corpse.
+[Mon Sep 23 19:44:10 2019] Auto attack is on.
+[Mon Sep 23 19:44:10 2019] Your target is too far away, get closer!
+[Mon Sep 23 19:44:11 2019] a young water moccasin hisses and strikes!
+[Mon Sep 23 19:44:11 2019] You try to bash a young water moccasin, but miss!
+[Mon Sep 23 19:44:11 2019] A young water moccasin tries to bite YOU, but misses!
+[Mon Sep 23 19:44:12 2019] You taunt a young water moccasin to ignore others and attack you!
+[Mon Sep 23 19:44:14 2019] A young water moccasin tries to bite YOU, but misses!
+[Mon Sep 23 19:44:15 2019] You slash a young water moccasin for 18 points of damage.
+[Mon Sep 23 19:44:15 2019] You have slain a young water moccasin!
+[Mon Sep 23 19:44:15 2019] You gain experience!!
+[Mon Sep 23 19:44:24 2019] a froglok tad scowls at you, ready to attack -- looks like you would have the upper hand.
+[Mon Sep 23 19:44:25 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:44:26 2019] Auto attack is on.
+[Mon Sep 23 19:44:26 2019] You slash a froglok tad for 5 points of damage.
+[Mon Sep 23 19:44:26 2019] You bash a froglok tad for 1 point of damage.
+[Mon Sep 23 19:44:28 2019] A froglok tad bites YOU for 2 points of damage.
+[Mon Sep 23 19:44:29 2019] You taunt a froglok tad to ignore others and attack you!
+[Mon Sep 23 19:44:31 2019] A froglok tad tries to bite YOU, but misses!
+[Mon Sep 23 19:44:31 2019] You slash a froglok tad for 18 points of damage.
+[Mon Sep 23 19:44:31 2019] You have slain a froglok tad!
+[Mon Sep 23 19:44:31 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Mon Sep 23 19:44:31 2019] You gain experience!!
+[Mon Sep 23 19:44:33 2019] You receive 1 silver from the corpse.
+[Mon Sep 23 19:44:42 2019] a lesser kobold scowls at you, ready to attack -- looks like an even fight.
+[Mon Sep 23 19:44:43 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Mon Sep 23 19:44:43 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:44:43 2019] Auto attack is on.
+[Mon Sep 23 19:44:44 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:44:44 2019] You try to bash a lesser kobold, but miss!
+[Mon Sep 23 19:44:45 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:44:46 2019] A lesser kobold tries to hit YOU, but misses!
+[Mon Sep 23 19:44:49 2019] You slash a lesser kobold for 7 points of damage.
+[Mon Sep 23 19:44:49 2019] A lesser kobold hits YOU for 2 points of damage.
+[Mon Sep 23 19:44:52 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:44:53 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:44:54 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:44:54 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:44:56 2019] A lesser kobold hits YOU for 3 points of damage.
+[Mon Sep 23 19:44:59 2019] You slash a lesser kobold for 18 points of damage.
+[Mon Sep 23 19:44:59 2019] A lesser kobold hits YOU for 3 points of damage.
+[Mon Sep 23 19:45:00 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:45:02 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:45:03 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:45:04 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:45:05 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:45:08 2019] A lesser kobold hits YOU for 6 points of damage.
+[Mon Sep 23 19:45:09 2019] You try to slash a lesser kobold, but miss!
+[Mon Sep 23 19:45:09 2019] You taunt a lesser kobold to ignore others and attack you!
+[Mon Sep 23 19:45:11 2019] You bash a lesser kobold for 1 point of damage.
+[Mon Sep 23 19:45:13 2019] A lesser kobold hits YOU for 1 point of damage.
+[Mon Sep 23 19:45:14 2019] You slash a lesser kobold for 13 points of damage.
+[Mon Sep 23 19:45:14 2019] You have slain a lesser kobold!
+[Mon Sep 23 19:45:14 2019] You gain experience!!
+[Mon Sep 23 19:45:16 2019] You receive 5 silver and 17 copper from the corpse.
+[Mon Sep 23 19:45:29 2019] It will take you about 30 seconds to prepare your camp.
+[Mon Sep 23 19:45:33 2019] It will take about 25 more seconds to prepare your camp.
+[Mon Sep 23 19:45:38 2019] It will take about 20 more seconds to prepare your camp.
+[Mon Sep 23 19:45:43 2019] It will take about 15 more seconds to prepare your camp.
+[Mon Sep 23 19:45:48 2019] It will take about 10 more seconds to prepare your camp.
+[Mon Sep 23 19:45:53 2019] It will take about 5 more seconds to prepare your camp.

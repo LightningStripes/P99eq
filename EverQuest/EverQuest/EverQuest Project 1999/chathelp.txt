@@ -1,0 +1,30 @@
+Frequently Asked Questions<BR>
+<BR>
+What do I do if I go "linkdead" or get a 1018 error?<BR>
+<BR>
+You should wait approximately 15 minutes before attempting to log back onto your character. While you wait, you may wish to restart your computer. If you have either a cable modem or DSL connection, you may wish to reset the connection at that time. Once the 15 minutes has elapsed, if you are not able to access your character, then please contact Technical Support Monday through Friday, 9:00am to 6:00pm PST. Call us at (858) 537-0898. The Live chat is open Monday through Friday 9:00 am to 9:00 pm or you can send us an Email via our online form at http://www.station.sony.com/services/everquest-technical.jhtml<BR>
+<BR>
+USE OF THE CHAT SCREEN AND CHAT CHANNELS<BR>
+<BR>
+PRIVATE MESSAGES (TELL's)<BR>
+<BR>
+You can send a private message to another player, unseen by anyone else.  Type a '/tell' and the player's name and then your message.<BR>
+E.g.: To type a private message to player named Fred, type:<BR>
+<BR>
+/tell Fred Hello Fred!<BR>
+<BR>
+<BR>
+CHAT COMMANDS<BR>
+<BR>
+The following are the basic commands for using the chat server.  These are commands you use to move from one chat room to another, send messages, ...
+<BR>
+<c "#FFFF00">/leaveall</c> - this will remove you from all chat rooms
+<c "#FFFF00">/join <roomname></c> - this will join the chat room whose name you have supplied
+<c "#FFFF00">/list</c> - this lists all players currently in the chat room
+<c "#FFFF00">/tell</c> - this sends a private message to another player (see above for more information)
+<BR>
+<BR>
+MISC COMMANDS<BR>
+The following are some miscellaneous commands available to you though the chat system:<BR>
+<c "#FFFF00">/myip</c> - This displays you IP adress in your chat window only
+<c "#FFFF00">/priv</c> - This displays your priveldge level in your chat window only

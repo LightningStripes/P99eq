@@ -1,0 +1,114 @@
+<?xml version = "1.0"?>
+<XML ID = "EQInterfaceDefinitionLanguage">
+	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
+
+	<TextureInfo item = "TargetBox.tga">
+	</TextureInfo>
+	
+	<Ui2DAnimation item="A_TargetBox">
+	</Ui2DAnimation>
+	
+	<StaticAnimation item="A_TargetBoxStaticAnim">
+		<ScreenID>A_TargetBoxStaticAnim</ScreenID>
+		<Animation>A_TargetBox</Animation>
+	</StaticAnimation>	
+	
+	<Ui2DAnimation item = "Classic_HP_Fill">
+		<Cycle>true</Cycle>
+		<Frames>
+			<Texture>classic_pieces01.tga</Texture>
+			<Location>
+				<X>3</X>
+				<Y>160</Y>
+			</Location>
+			<Size>
+				<CX>99</CX>
+				<CY>10</CY>
+			</Size>
+			<Hotspot>
+				<X>0</X>
+				<Y>0</Y>
+			</Hotspot>
+			<Duration>1000</Duration>
+		</Frames>
+	</Ui2DAnimation>
+	
+	<Gauge item = "Target_HP">
+		<ScreenID>TargetHP</ScreenID>
+		<Font>2</Font>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>3</X>
+			<Y>1</Y>
+		</Location>
+		<Size>
+			<CX>126</CX>
+			<CY>20</CY>
+		</Size>
+		<GaugeOffsetY>8</GaugeOffsetY>
+		<GaugeOffsetX>4</GaugeOffsetX>
+		<TextOffsetX>4</TextOffsetX>
+		<TextOffsetY>7</TextOffsetY>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<TooltipReference/>
+		<FillTint>
+			<R>240</R>
+			<G>0</G>
+			<B>0</B>
+		</FillTint>
+		<LinesFillTint>
+			<R>220</R>
+			<G>220</G>
+			<B>0</B>
+		</LinesFillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>6</EQType>
+		<GaugeDrawTemplate>
+			<Fill>Classic_HP_Fill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
+
+	<Label item ="Target_HPLabel">
+		<ScreenID>HPLabel</ScreenID>
+	</Label>
+
+	<Label item ="Target_HPPercLabel">
+		<ScreenID>HPPercLabel</ScreenID>
+	</Label>
+
+	<Screen item = "TargetWindow">
+		<ScreenID/>
+		<RelativePosition>false</RelativePosition>
+		<Location>
+			<X>516</X>
+			<Y>242</Y>
+		</Location>
+		<Size>
+			<CX>144</CX>
+			<CY>50</CY>
+		</Size>
+		<Text>TARGET</Text>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<TooltipReference>Your Current Target</TooltipReference>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<Style_Titlebar>true</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>true</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+		<Pieces>Target_HP</Pieces>
+		<Pieces>Target_HPLabel</Pieces>
+		<Pieces>Target_HPPercLabel</Pieces>
+		<Pieces>A_TargetBoxStaticAnim</Pieces>
+	</Screen>
+
+</XML>

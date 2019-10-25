@@ -1,0 +1,12 @@
+11
+ten,ten_chr
+tar,tar
+rtn,rtn
+btn,btn
+den,cazicthule_chr2
+spi,ecommons_chr
+phx,poair_chr
+efe,poair_chr
+frg,gukbottom_chr
+cst,cst
+eey,eey_chr

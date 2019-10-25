@@ -1,0 +1,190 @@
+[Fri Sep 20 22:47:20 2019] Welcome to EverQuest!
+[Fri Sep 20 22:47:20 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Fri Sep 20 22:47:20 2019] You have entered Grobb.
+[Fri Sep 20 22:47:20 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Fri Sep 20 22:47:20 2019] Basher Razbaz says 'I shall pluck you limb from limb!!'
+[Fri Sep 20 22:47:23 2019] Dreegi's spell fizzles!
+[Fri Sep 20 22:47:23 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:47:25 2019] Basher Razbaz's feet adhere to the ground.
+[Fri Sep 20 22:47:29 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:47:33 2019] Basher Razbaz sweats and shivers, looking feverish.
+[Fri Sep 20 22:47:37 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:47:41 2019] Basher Razbaz's blood boils.
+[Fri Sep 20 22:47:44 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:47:50 2019] Basher Razbaz clutches their chest.
+[Fri Sep 20 22:47:53 2019] Priest of Discord says, 'I see you wish to join us in Discord! Welcome! By turning your back on the protection of Order you are now open to many more opportunities for glory and power. Remember that you can now be harmed by those who have also heard the call of Discord.'
+[Fri Sep 20 22:47:53 2019] You are now player kill and follow the ways of Discord.
+[Fri Sep 20 22:47:53 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:47:59 2019] Basher Razbaz is wracked by chilling poison.
+[Fri Sep 20 22:48:03 2019] You no longer have a target.
+[Fri Sep 20 22:48:06 2019] Priest of Discord regards you indifferently -- what would you like your tombstone to say?
+[Fri Sep 20 22:48:07 2019] You say, 'Hail, Priest of Discord'
+[Fri Sep 20 22:48:07 2019] Priest of Discord says, 'Greetings, Nanbek.  Are you a child of Order?  If you have come seeking the path of Discord, I require only that you give me your [Tome of Order and Discord] and I shall show you the way.  Only then will you be freed from Order's confining restraints.'
+[Fri Sep 20 22:48:16 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:48:18 2019] Basher Razbaz's feet adhere to the ground.
+[Fri Sep 20 22:48:20 2019] Xekab bashes Basher Razbaz for 12 points of damage.
+[Fri Sep 20 22:48:22 2019] Basher Razbaz bashes Xekab for 26 points of damage.
+[Fri Sep 20 22:48:25 2019] Basher Razbaz slashes Xekab for 81 points of damage.
+[Fri Sep 20 22:48:26 2019] Xekab hits Basher Razbaz for 45 points of damage.
+[Fri Sep 20 22:48:27 2019] You say, 'tome of order and discord'
+[Fri Sep 20 22:48:27 2019] Priest of Discord says, 'The Tome of Order and Discord was penned by the seventh member of the Tribunal and has become the key to a life of Discord. in spite of the author's pitiful warnings.  Do you not have one. child of Order?  Would you [like to read] it?'
+[Fri Sep 20 22:48:27 2019] Basher Razbaz slashes Xekab for 81 points of damage.
+[Fri Sep 20 22:48:27 2019] Xekab hits Basher Razbaz for 12 points of damage.
+[Fri Sep 20 22:48:29 2019] Xekab hits Basher Razbaz for 22 points of damage.
+[Fri Sep 20 22:48:29 2019] Xekab hits Basher Razbaz for 34 points of damage.
+[Fri Sep 20 22:48:30 2019] Basher Razbaz slashes Xekab for 67 points of damage.
+[Fri Sep 20 22:48:30 2019] Basher Razbaz slashes Xekab for 19 points of damage.
+[Fri Sep 20 22:48:31 2019] Xekab hits Basher Razbaz for 22 points of damage.
+[Fri Sep 20 22:48:33 2019] Xekab hits Basher Razbaz for 29 points of damage.
+[Fri Sep 20 22:48:34 2019] Dreegi begins to cast a spell.
+[Fri Sep 20 22:48:34 2019] Xekab hits Basher Razbaz for 45 points of damage.
+[Fri Sep 20 22:48:34 2019] Xekab hits Basher Razbaz for 45 points of damage.
+[Fri Sep 20 22:48:35 2019] You say, 'like to read it'
+[Fri Sep 20 22:48:35 2019] Priest of Discord says, 'Very well.  Here you go.  Simply return it to me to be released from the chains of Order.'
+[Fri Sep 20 22:48:36 2019] Xekab hits Basher Razbaz for 12 points of damage.
+[Fri Sep 20 22:48:36 2019] Xekab bashes Basher Razbaz for 22 points of damage.
+[Fri Sep 20 22:48:38 2019] Basher Razbaz kicks Xekab for 26 points of damage.
+[Fri Sep 20 22:48:38 2019] Xekab hits Basher Razbaz for 20 points of damage.
+[Fri Sep 20 22:48:38 2019] Basher Razbaz slashes Xekab for 39 points of damage.
+[Fri Sep 20 22:48:41 2019] Basher Razbaz slashes Xekab for 70 points of damage.
+[Fri Sep 20 22:48:41 2019] Xekab hits Basher Razbaz for 45 points of damage.
+[Fri Sep 20 22:48:41 2019] Xekab beams a smile at Basher Razbaz
+[Fri Sep 20 22:48:41 2019] Xekab says 'Ahhh, I feel much better now...'
+[Fri Sep 20 22:48:41 2019] Basher Razbaz staggers.
+[Fri Sep 20 22:48:43 2019] Basher Razbaz slashes Xekab for 81 points of damage.
+[Fri Sep 20 22:48:43 2019] Basher Razbaz slashes Xekab for 39 points of damage.
+[Fri Sep 20 22:48:43 2019] Xekab hits Basher Razbaz for 13 points of damage.
+[Fri Sep 20 22:48:44 2019] Priest of Discord says, 'I see you wish to join us in Discord! Welcome! By turning your back on the protection of Order you are now open to many more opportunities for glory and power. Remember that you can now be harmed by those who have also heard the call of Discord.'
+[Fri Sep 20 22:48:44 2019] You are now player kill and follow the ways of Discord.
+[Fri Sep 20 22:48:45 2019] Xekab hits Basher Razbaz for 32 points of damage.
+[Fri Sep 20 22:48:46 2019] You no longer have a target.
+[Fri Sep 20 22:48:50 2019] Xekab beams a smile at Basher Razbaz
+[Fri Sep 20 22:49:53 2019] Barsk judges you amiably -- what would you like your tombstone to say?
+[Fri Sep 20 22:50:56 2019] You can't reach that, get closer.
+[Fri Sep 20 22:51:35 2019] You were hit by non-melee for 49 damage.
+[Fri Sep 20 22:51:35 2019] You have been knocked unconscious!
+[Fri Sep 20 22:51:35 2019] Pain and suffering tries to strike YOU, but misses!
+[Fri Sep 20 22:51:36 2019] You died.
+[Fri Sep 20 22:51:40 2019] Returning to Innothule Swamp, please wait...
+[Fri Sep 20 22:51:40 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:51:46 2019] You have entered Innothule Swamp.
+[Fri Sep 20 22:51:48 2019] It begins to rain.
+[Fri Sep 20 22:51:59 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Fri Sep 20 22:52:03 2019] Auto attack is on.
+[Fri Sep 20 22:52:04 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:52:05 2019] Auto attack is off.
+[Fri Sep 20 22:52:09 2019] Auto attack is on.
+[Fri Sep 20 22:52:09 2019] Your target is too far away, get closer!
+[Fri Sep 20 22:52:12 2019] You cannot see your target.
+[Fri Sep 20 22:52:12 2019] You cannot see your target.
+[Fri Sep 20 22:52:16 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:16 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:52:19 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:52:20 2019] You have become better at Offense! (1)
+[Fri Sep 20 22:52:20 2019] You punch a large rat for 1 point of damage.
+[Fri Sep 20 22:52:22 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:52:23 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:25 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:52:27 2019] You have become better at Offense! (2)
+[Fri Sep 20 22:52:27 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:27 2019] You have become better at Hand to Hand! (1)
+[Fri Sep 20 22:52:28 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:52:29 2019] You are out of food and drink.
+[Fri Sep 20 22:52:31 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:31 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:52:34 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:34 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:52:37 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:52:38 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:40 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:52:42 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:42 2019] You have become better at Hand to Hand! (2)
+[Fri Sep 20 22:52:43 2019] A large rat bites YOU for 4 points of damage.
+[Fri Sep 20 22:52:45 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:46 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:52:49 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:49 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:52:52 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:52 2019] A large rat bites YOU for 4 points of damage.
+[Fri Sep 20 22:52:55 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:52:56 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:52:58 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:00 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:01 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:03 2019] You punch a large rat for 2 points of damage.
+[Fri Sep 20 22:53:04 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:07 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:07 2019] A large rat bites YOU for 4 points of damage.
+[Fri Sep 20 22:53:10 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:10 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:53:13 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:14 2019] You punch a large rat for 1 point of damage.
+[Fri Sep 20 22:53:14 2019] You have become better at Hand to Hand! (3)
+[Fri Sep 20 22:53:15 2019] You are out of food and drink.
+[Fri Sep 20 22:53:16 2019] A large rat bites YOU for 4 points of damage.
+[Fri Sep 20 22:53:18 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:20 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:53:21 2019] You punch a large rat for 2 points of damage.
+[Fri Sep 20 22:53:23 2019] A large rat tries to bite YOU, but misses!
+[Fri Sep 20 22:53:25 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:26 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:53:28 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:29 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:53:32 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:32 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:35 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:53:35 2019] You have been knocked unconscious!
+[Fri Sep 20 22:53:36 2019] You punch a large rat for 2 points of damage.
+[Fri Sep 20 22:53:36 2019] You are conscious again!
+[Fri Sep 20 22:53:38 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:53:39 2019] You punch a large rat for 2 points of damage.
+[Fri Sep 20 22:53:41 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:53:41 2019] You have been knocked unconscious!
+[Fri Sep 20 22:53:42 2019] You are conscious again!
+[Fri Sep 20 22:53:43 2019] You have become better at Offense! (3)
+[Fri Sep 20 22:53:43 2019] You try to punch a large rat, but miss!
+[Fri Sep 20 22:53:44 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:44 2019] You have been knocked unconscious!
+[Fri Sep 20 22:53:47 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:53:49 2019] You are conscious again!
+[Fri Sep 20 22:53:49 2019] You have been knocked unconscious!
+[Fri Sep 20 22:53:50 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:53:53 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 22:53:56 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:53:59 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:54:01 2019] You are out of food and drink.
+[Fri Sep 20 22:54:01 2019] You are bleeding to death!
+[Fri Sep 20 22:54:02 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 22:54:05 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 22:54:07 2019] You are bleeding to death!
+[Fri Sep 20 22:54:08 2019] A large rat bites YOU for 4 points of damage.
+[Fri Sep 20 22:54:08 2019] You have been slain by a large rat!
+[Fri Sep 20 22:54:12 2019] Returning to Innothule Swamp, please wait...
+[Fri Sep 20 22:54:12 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 22:54:17 2019] You have entered Innothule Swamp.
+[Fri Sep 20 22:54:20 2019] It begins to rain.
+[Fri Sep 20 22:54:23 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Sep 20 22:54:25 2019] You abandon your preparations to camp.
+[Fri Sep 20 22:55:00 2019] You are out of food and drink.
+[Fri Sep 20 22:55:47 2019] You are out of food and drink.
+[Fri Sep 20 22:56:33 2019] You are out of food and drink.
+[Fri Sep 20 22:57:19 2019] You are out of food and drink.
+[Fri Sep 20 22:58:05 2019] You are out of food and drink.
+[Fri Sep 20 22:58:51 2019] You are out of food and drink.
+[Fri Sep 20 22:59:01 2019] A fungus spore hits YOU for 4 points of damage.
+[Fri Sep 20 22:59:04 2019] A fungus spore hits YOU for 1 point of damage.
+[Fri Sep 20 22:59:07 2019] A fungus spore hits YOU for 3 points of damage.
+[Fri Sep 20 22:59:17 2019] Basher Trak says 'I shall pluck you limb from limb!!'
+[Fri Sep 20 22:59:17 2019] Basher Smag says 'I shall pluck you limb from limb!!'
+[Fri Sep 20 22:59:18 2019] Basher Trak kicks a fungus spore for 32 points of damage.
+[Fri Sep 20 22:59:18 2019] a fungus spore has been slain by Basher Trak!
+[Fri Sep 20 22:59:18 2019] Basher Trak says 'Those who play with da Basher always gets bashed good!!'
+[Fri Sep 20 22:59:18 2019] Basher Smag says 'I shall pluck you limb from limb!!'
+[Fri Sep 20 22:59:37 2019] You are out of food and drink.
+[Fri Sep 20 23:00:22 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Sep 20 23:00:23 2019] You are out of food and drink.
+[Fri Sep 20 23:00:26 2019] It will take about 25 more seconds to prepare your camp.
+[Fri Sep 20 23:00:31 2019] It will take about 20 more seconds to prepare your camp.
+[Fri Sep 20 23:00:36 2019] It will take about 15 more seconds to prepare your camp.
+[Fri Sep 20 23:00:41 2019] It will take about 10 more seconds to prepare your camp.
+[Fri Sep 20 23:00:46 2019] It will take about 5 more seconds to prepare your camp.

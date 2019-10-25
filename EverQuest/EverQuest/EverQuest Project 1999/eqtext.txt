@@ -1,0 +1,545 @@
+EQST0002
+0 543
+100 That command either does not exist or cannot be run from this location
+101 Private  Channel
+102 Error 1001: Could not connect to the EverQuest server!  Please try again shortly.
+103 Error 1002: Incorrect version!!\nRun the patch program to ensure you have the current version.\n
+104 Error 1003: The Chat Handle you specified is already assigned or contains illegal characters!\n\nPlease select another username.
+105 \n\n\nError 1004: The News file was not found in the EverQuest directory.
+106 \n\n\nError 1005: The Help file was not found in the EverQuest directory.
+107 Error 1006: You did not specify a Channel Name to Create!
+108 Error 1007: You did not specify a Password for your Private Channel!
+109 Error 1008: The channel could not be created. Maybe it already exists?
+110 Error 1009: Error contacting the Registration Server.\n\nPlease try again later!
+111 You have entered %s%s.
+112 Select the information you require:     NEWS or HELP...
+113 Error 1010: No host was found!\nCheck that the file EQHOST.TXT exists in the EverQuest directory.\n
+114 Error 1011: Invalid Password! You may not enter the Private Channel!
+115 You are about to Exit EverQuest!\nAre you sure?
+116 Error 1012: This account has been flagged as CANCELLED!
+117 Error 1013: You are not currently subscribed!\nYou must choose a subscription plan before your free month will begin.\nDo you want to subscribe NOW or LATER?
+118 You are not currently subscribed! Either you have not chosen a subscription plan, we could not bill to the account you provided, or your Game Card has expired. Note: Your characters are saved for 3 months.\nDo you want to subscribe NOW or LATER?
+119 Server selected:
+120 Server Name
+121 Server Latency
+122 Population Rank
+123 Sort Alphabetically
+124 Sort By Latency
+125 Sort By Number of Players
+126 CHANGE PASSWORD\n\nYou must enter a new password of at least 4 characters, and you must retype the password as confirmation!
+127 Error 1015: You did not enter your existing password correctly!
+128 Your registration was successful.  You may now CONNECT to EverQuest!
+129 Error 1016: Lost connection to server.\nCANCEL back to main screen and try to CONNECT to EverQuest. If you cannot, please try again in a short while.
+130 Validating registration information.\n\nPlease wait.  This may take a moment.
+131 Validating Billing information...\n\nPlease wait... This may take some time..
+132 Thank you for subscribing to EverQuest.
+133 Connecting to EverQuest server:\n\n %s......
+134 Select a video driver...
+135 Error 1017: Cannot login to the EverQuest server.\nYou may need to re-run the Update Patch. Repeatedly seeing this message indicates a loss of connectivity to the Patch Server. This is usually temporary.
+136 Error 1018: You currently have an active character on that EverQuest Server, please allow a minute for synchronization and try again.
+137 Error 1019: Failed to locate or open %s!\n\n
+138 \nError 1020: Your chosen World Server is DOWN.\n\nPlease select another.
+139 Error 1021: You have an active character on '%s'.\n\nClick YES to CONTINUE on '%s'.\nClick NO to abort.
+140 Error 1022: The Chat Forums are currently full.\n\nPlease try again later.
+141 REGISTRATION ERROR:\n
+142 Error 1023: You MUST specify your LAST name and FIRST name!
+143 Error 1024: You MUST fill in every field of your address!
+144 Error 1025: You MUST specify your email address!
+145 Error 1026: You MUST specify a Chat Handle of 4 or more characters and NO spaces or special characters
+146 Error 1027: You MUST specify a Station Password of 4 or more characters and NO spaces or special characters
+147 Error 1028: You mistyped your Station password.\nPlease retype both Station passwords and remember that they are case-sensitive!
+148 Error 1029: You MUST specify a Station Name of 4 or more characters and NO spaces or special characters
+149 Error 1030: You MUST reenter your password to verify it!
+150 Error 1031: You mistyped your password, please reenter again!
+151 Error 1032: You MUST enter the Account Key from your CD or CD case!
+152 Page %d of %d
+153 MALE
+154 FEMALE
+155 NO
+156 YES
+157 Error 1033: You must specify a your date of birth in the format mm/dd/yyyy!
+158 \nPlease verify that your email address is:\n\n%s
+159 Please enter the name and password that you would like for your new account.  If you already have a Sony Station Account that is not an EverQuest account, please enter your Station Name and Station Password.
+160 BILLING ERROR:
+161 BILLING Error 1034: \n\nYour billing information was incomplete! Please fill in every field...
+162 You have chosen %s recurring subscription. Your card will be billed %s every month. Additionally, residents of EU countries will be charged VAT equal to 17.5%% of the subscription fee.
+163 You have chosen %s recurring subscription. Your card will be billed %s every 3 months. Additionally, residents of EU countries will be charged VAT equal to 17.5%% of the subscription fee.
+164 You have chosen %s recurring subscription. Your card will be billed %s every 6 months. Additionally, residents of EU countries will be charged VAT equal to 17.5%% of the subscription fee.
+165  (after your free month)
+166 \n\nSubscribe to EverQuest?
+167 Future billing will use the information you have just provided.\n\nDo you wish to proceed?
+168 Use Game Card
+169 N/A
+170 Opting to cancel your subscription means that at the end of your selected billing cycle, you will not be re-billed automatically. Your subscription will then expire and you will need to resubscribe to play the game again. At this time you may also change your billing plan.\n\n Do you wish to CANCEL your Subscription?
+171 Your account has been cancelled.
+172 %s.\nCoupon ID: %s\nDo you wish to use this coupon to Subscribe to EverQuest?
+173 WARNING!!
+174 First time subscribers receive a free month of play and are charged at the end of that free month.\n\n
+175 The 1 month, 3 month and 6 month plans are recurring.  This means that they will be automatically renewed at the end of the billing cycle unless cancelled. The billing cycle is determined by the plan that you choose. For example: the billing cycle is one month for the 1-month plan.\n\nPlease note that the Game Card plan is not recurring.
+176 You have lost your connection to the EverQuest server!
+177 Retrieving Account history....\n\nPlease wait.
+178 Error 1035: Feature not implemented yet.
+179 Error 1036: You must select a State or Province!
+180 You are currently subscribed. The changes you make below will take effect immediately, upon your currently subscribed plan.
+181 EXIT
+182 CONNECT
+183 NEWS
+184 CREATE CHAT
+185 CHAT
+186 HELP
+187 CANCEL
+188 CREATE
+189 FINISH
+190 NEXT
+191 BACK
+192 OPTIONS
+193 EDIT
+194 DELETE
+195 NO
+196 YES
+197 ENTER
+198 ACCOUNT
+199 ALIASES
+200 CREDITS
+201 HELP / NEWS
+202 PLAY
+203 OK
+204 NEW USER
+205 NEW ACCOUNT
+206 CHANGE ACCOUNT
+207 END BILLING
+208 ACCOUNT HISTORY
+209 KUNARK REGISTRATION
+210 EDIT REGISTRATION
+211 EDIT BILLING
+212 CHANGE PASSWORD
+213 NOW
+214 LATER
+215 WATCH INTRO
+216 MORE
+217 OPTIONS
+218 GUILDS
+219 STORE
+220 KUNARK REGISTRATION
+221 Station  Password
+222 Station  Name
+223 Channels
+224 Chat  Window
+225 Enter  name  of  new  Channel
+226 Enter  name  of  new  Guild
+227 Options
+228 Your  Login Names  /  Aliases
+229 Players
+230 Enter  password  for  new  Channel
+231 Channel  Name:
+232 Channel  Creator:
+233 Enter  Current  Password:
+234 Enter  New  Password:
+235 Re-Enter  New  Password:
+236 For security reasons your personal information will not be displayed in this form. Please update any fields that have changed.
+237 Welcome to EverQuest!  \nFor the best gameplay experience, it is recommended that new subscribers start on one of the preferred 'green' servers.  Servers with lower populations are widely considered to be superior by online gamers.
+238 Preferred servers are colored green.
+239 Your account is now %s enabled! If you have not yet installed your %s CD, please do so now.
+240 To visit the vast new continent of Kunark, play as a lizardman Iksar, or to exceed level 50 you must upgrade your current EverQuest account.
+241 To upgrade your existing account you need your Kunark Upgrade account key.  Upgrade account keys may only be used to upgrade accounts, and may not be used to create new accounts.
+242 Alternately, you may use your account key from the retail box copy of EverQuest: The Ruins of Kunark.  Your key may only be used once -- you may use your key to upgrade an account(no free month) or to create a new account, not both.  If you wish to create a separate subscribed account for Kunark, log out and create a new account.
+243 Below, please enter the Account Key from your CD case.
+244 UPDATE OWNED EXPANSIONS
+245 VELIOUS REGISTRATION
+246 To visit the vast new continent of Velious, or to exceed level 50 you must upgrade your current EverQuest account.
+247 To upgrade your existing account you need your Velious Upgrade account key, found in your EverQuest: Scars of Velious box.  Upgrade account keys may only be used to upgrade accounts, and may not be used to create new accounts.
+248 Please enter the Account Key from your CD case below.
+249 This account key may be used to upgrade an existing account or to create a new account, NOT both.  Select YES to continue creating a new account. To upgrade an account select NO; cancel out and select ACCOUNT, then CHANGE ACCOUNT.
+250 Chat logging turned ON. Warning: Log file could get very large!
+251 Chat logging turned OFF.
+252 Error 1037: Cannot open file chat.txt for logging!
+253 Error 1038: Cannot open file journal.txt for logging!
+254 Error 1039: journal.txt already open
+255 [%m/%d/%y %H:%M:%S]
+256 Journal updated with: %s %s
+257 The GM is retrieving route information to better determine the nature of your problem.
+258 There is no message to reply to.
+259 Establishing connection with Chat server...
+260 Establishing connection with Login server...
+261 Establishing connection to Registration Server...
+262 Chat is currently congested or not available.  Please try again in a few minutes.
+263 Returning to Login server...
+264 Needs Revision
+265 Submitted
+266 Revised
+267 Under Review
+268 Guild Accepted
+269 GM Rejected with comments~User Submitted~User Revised~GM Currently Reviewing~Pending Final Approval~Lead Confirms!
+270 _________________________________________________________________________________
+271  Date
+272  Status
+273 Status:
+274  Guild Name
+275 Approved guilds may not be edited.
+276 Enter a summary of your guild charter in the space provided. This summary should focus on your guild's role in Norrath and the goals it will pursue. Details of the internal workings of your guild need not be included. When your guild has been accepted you will receive notice via email. Please verify that your email is correct in our files by going to account: change account: edit registration from the login screen.
+277 Please confirm -- Do you wish to approve this guild and send mail to this user?
+278 <y>CREDITS\n\nCredits file is missing (credits.txt)\nRepatch and you should get this file.
+279 Please wait.......
+280 Login request added to queue...please wait...
+281 Preparing for registration...
+282 Expansions Enabled
+283 Kunark Enabled
+284 Velious Enabled
+285 Submitting player to World Server...
+286 Scanning World Servers...
+287 tracert.exe %s
+288 Error 1040: Cannot open file license_english.txt!
+289 ADMIN
+290 Submitting account key for validation...\n\nPlease wait...
+291 This account key may be used to upgrade an existing account or to create a new account, NOT both. Select YES to continue upgrading your account. To create a new account select NO; cancel out and select ACCOUNT, then NEW ACCOUNT.
+292 Your entry is too short to be an entire account key. Please check your CD case.
+293 You must enter an account key to upgrade!
+294 Velious
+295 Kunark
+296 Account Key :
+297 Connect Status:
+298 DOWN
+299 LOCKED
+300 Re-enter Station Password:
+301 EverQuest requires DirectX 6.0 or higher to run.\nYou can install DX6 from your EverQuest CD or download it from www.microsoft.com.
+302 Error!
+303 Error opening packed file system (%S)!
+304 CreateWindowEx failed!
+305 DirectInput keyboard open failed!, code = %x
+306 DirectDrawCreate failed! (%x)
+307 CreateSurface (Primary) failed! (%x)
+308 EverQuest EQMAIN.DLL Error
+309 Scroll to see additional servers.
+310 EverQuest is a registered trademark of Sony Computer Entertainment America Inc.
+311 © 1999-2004 Sony Computer Entertainment America Inc.  All rights reserved.
+312 SOE and the SOE logo are registered trademarks of Sony Online Entertainment Inc.
+313  
+314 Verant Interactive and the Verant Interactive logo are trademarks of Verant Interactive Inc.
+315 ©2000 Verant Interactive Inc.
+316 Developed By
+317 I Accept
+318 Decline
+319 EverQuest User Agreement and Software License
+320 EverQuest Amendment to User Agreement and Software License
+321 Our EULA has changed. Please be sure to review the changes.
+322 Tried to button_create to a NULL surface!
+323 button_destroy: null button!
+324 button_text: GetTextExtentPoint32 failed! code = %x
+325 Tried to checkbox_create to a NULL surface!
+326 checkbox_destroy: null checkbox!
+327 Exceeded Dialog Stack!
+328 gfx_init: Failed to create Attached surface!
+329 \nEvent.cpp: RGB16 failed!\n
+330 Tried to rollout_create to a NULL surface!
+331 rollout_destroy: null rollout!
+332 surface_fillcolor : Blit failed! (error = %x), rgb = %x
+333 surface_blit: Blit failed code %x! x,y = (%d,%d) src(%d,%d,%d,%d)
+334 surface_lock: Blit failed!
+335 surface_create: failed
+336 surface_load: no filename given!
+337 surface_load: BMP (%s) is not 24 bit!
+338 surface_load:Failed to create surface
+339 surface_background: failed to open (%S)
+340 GetRGB16:Failed to GetSurfaceDesc
+341 Client\n -- %s
+342 Network\n -- %s
+343 Initial Approval
+344 LUCLIN REGISTRATION
+345 To visit the vast new Moon of Luclin, or to exceed level 50 you must upgrade your current EverQuest account.
+346 To upgrade your existing account you need your Luclin Upgrade account key, found in your EverQuest: Shadows of Luclin box.  Upgrade account keys may only be used to upgrade accounts, and may not be used to create new accounts.
+347 Please enter the Account Key from your CD case below.
+348 Luclin Enabled
+349 Luclin
+350 The Key you have entered is not an EverQuest: Ruins of Kunark Key
+351 The Key you have entered is not an EverQuest: Scars of Velious Key
+352 The Key you have entered is not an EverQuest: Shadows of Luclin Key
+353 title text: failed to open (%S)
+354 Please click on the expansion you wish to register.
+355 GADGETT_STRING is missing a LOGFONT
+356 FONT ERROR
+357 CA
+358 US
+359 To visit the vast new continent of Kunark, the ice continent of Velious, play as a lizardman Iksar, or to exceed level 50 you must upgrade your current EverQuest account.
+360 To upgrade your existing account you need your EverQuest: Trilogy account key.
+361 Alternately, you may use your account key from the retail box copy of EverQuest: Trilogy.  Your key may only be used once -- you may use your key to upgrade an account(no free month) or to create a new account, not both.  If you wish to create a separate subscribed account for Kunark and Velious, log out and create a new account.
+362 Please enter the Account Key from your CD case below.
+363 Trilogy
+364 The Key you have entered is not an EverQuest: Trilogy Key
+365 This account key may be used to upgrade an existing account or to create a new account, NOT both. Select YES to continue upgrading your account. To create a new account select NO; cancel out and select ACCOUNT, then NEW ACCOUNT.
+366 Submit
+367 Skip Poll
+368 You have not chosen a response to the question.
+369 Your credit card number does not have enough digits
+370 Error -- No description available
+371     Don't translate my input
+372     Hiragana mode
+373     Katakana fullwidth mode
+374     Katakana halfwidth mode
+375     ASCII fullwidth mode
+376     ASCII halfwidth mode
+377     Hangul mode
+378 UP
+379 Are you sure you want to transfer all of your EverQuest characters to %s?
+380 Transferring Characters
+381 DEFAULT
+382  
+383      Human
+384      Barbarian
+385      Erudite
+386      Wood Elf
+387      High Elf
+388      Dark Elf
+389      Half Elf
+390      Dwarf
+391      Troll
+392      Ogre
+393      Halfling
+394      Gnome
+395      Iksar
+396      Vah Shir
+397      Horses and Elementals
+398 Select Which Detailed Character Models to Display.\n\nYou have about %d MB of memory. We recommend that you only select %d detailed models to get the best graphics performance. A lower polygon model will be used for those models not selected. The Wood Elf is required if you wish to display any elf and the Human is required if you wish to display the Erudite.
+399 Other Models
+400 Turning this off will prevent sounds from playing in game.  Recommended: <%s>
+401 Any light source carried by a player requires the effect to be calculated and drawn. Turning this off will make the graphics faster.  Recommended: <%s>
+402 This option will save memory at the cost of a very slight reduction of texture quality.  Recommended: <%s>
+403 The Improved EverQuest textures settings can be changed in the installer. Use the 'Modify' option to change the textures you have installed.  Please highlight an option to see more detail.
+404 Luclin Engine Settings\n\nYou have about %d MB of memory. These settings will allow you to tune the system for the best performance.
+405 Sound
+406 Texture Compression
+407 Dynamic Lighting
+408 5
+409 Resolution
+410 640x480~800x600~1024x768~1280x1024~1600x1200
+411 Social Animations
+412 Turning this option on will enable the social animations for the detailed models.  This option is very memory intensive.  Recommended: <%s>
+413 The larger the screen resolution, the more memory and CPU required.  Default is 640x480
+414 3
+415 Texture Quality
+416 High~Medium~Low
+417 The higher the quality of textures the better Norrath will look, but the more memory you use.  Recommended: <%s>.
+418 You have selected more models than is suggested for your current hardware configuration.  It is possible that EverQuest will not load with these settings.  Are you sure you want to continue?
+419 This account key may be used to upgrade an existing account or to create a new account, NOT both. Select YES to continue upgrading your account. To create a new account select NO; cancel out and select ACCOUNT, then NEW ACCOUNT.
+420 Mip Mapping
+421 Mip Mapping causes the world to blend together better but uses more memory.  Recommended: <%s>
+422 You have selected options that require more memory than you have.  You may want to remove some models, or turn on some of the memory saving options.  You are currently at %dMB of selected options, and %dMB of physical memory.  Are you sure you want to continue with these options?
+423 Thank you for choosing EverQuest.  To return to these Options Screens please choose the 'Options' button on the main menu.
+424 ON
+425 OFF
+426 HIGH
+427 MEDIUM
+428 LOW
+429 Although you are registered for EverQuest: Shadows of Luclin, EverQuest cannot find the Luclin installation in the directory that you are currently running EverQuest from. Please check and make sure that you do not have more than one directory with EverQuest installed or that you are running from a directory with Luclin installed.  For assistance with this problem, please call (858)-537-0898, or visit our website at http://www.everquest.com and go to the Luclin support area and check out the document titled 'Can't find Luclin Files'.\n\nWARNING:  Because you are able to access Luclin content, but do not have the files installed with your currently running EverQuest directory we can not guarantee that you will be able to access the game.
+430 Do not show this warning again
+431 Texture Caching
+432 This improves load time on many systems, at the expense of using extra disk space. The first time you load any zone or the character selection screen with caching on, it will take time to build the cache.  After that load times should be reduced. Changing your settings here will require new caches to be built the next time you play.  Recommended <%s>
+433 800x600~1024x768~1280x1024~1600x1200
+434 Your system cannot handle that many models, please unselect some of them before continuing.
+435 You currently have a %s, version %s, video card installed. 
+436 We recommend that you download driver version %s before playing EverQuest.
+437 We recommend that you download either driver version %s or %s before playing EverQuest.
+438 You are currently on the EQ Legends waiting list.  Do you want to enhance your game play and buy a spot on the exclusive Legends server?\n\nBy doing so, you'll receive a dedicated team of customer service and development staff to assist your journey as you quest for those rare elite items.   A privileged calendar of events will keep you in the loop on exclusive happenings.    You'll be able to show off your character with a personal homepage and chart your travels using our dynamic interactive maps.  Additionally, your guild will have a private hall to meet all you Guild needs.\n\n(You will be taken off the list in %d days)
+439 Launch WWW
+440 Unable to open the web browser -- if you wish to visit this page directly, please go to "%s"
+441 In order to accommodate the high volume of newcomers to the Legends server, you must first sign up on the waiting list.  When a space becomes available, you will be notified that it is your turn to take advantage of this exclusive opportunity. Do you want to launch the web page for the waiting list?
+442 http://legends.everquest.station.sony.com/registration/direct_user.jsp
+443 EverQuest will now exit and send you to sign up on the Legends waiting list. When your spot on the server is available, you will be notified with a message upon logging into EverQuest.
+444 This server requires Legends access.  Do you want to take your EQ experience to the next level and purchase these astonishing new features?\n- Exclusive server with legendary items\n- Privileged calendar of events\n- Personal character homepages and journals\n- Dynamic maps that chart your travel\n- And much, much more!
+445 http://legends.everquest.station.sony.com/showcase/home.jsp
+446 EverQuest will now exit and send you to the Legends information page.
+447 Retrieving your EQ Legends status....\n\nPlease wait.
+448 Any time credit on your EverQuest account will be applied to extend your first Legends subscription period, at the Legends subscription rate.\n\nThe Legends subscription is recurring.  This means that it will automatically renew at the end of each billing cycle unless cancelled.\n\nEverQuest continually revolutionizes the way games are played!  By taking advantage of the Legends server you have opened up entirely new doors to the phenomenal world of Norrath.  Congratulations and Happy Questing!
+449 -- Retrieving Legends discount information --\n\nYou may finish filling in your billing information while we fetch this data.
+450 ** Unable to retrieve Legends discount information! **\n\nOur system is currently busy, and you cannot subscribe now. Please try again later. We apologize for the inconvenience.
+451 On your purchase of a Legends subscription, you will immediately be billed $%.2f (plus applicable sales tax in IL, NJ, NY, MO, TX), and your recurring billing of $%.2f per month will begin on %s. Additionally, residents of EU countries will be charged VAT equal to 17.5% of the subscription fee.
+452 On your purchase of a Legends subscription, monthly billing of $%.2f (plus applicable sales tax in IL, NJ, NY, MO, TX) will begin on %s. Additionally, residents of EU countries will be charged VAT equal to 17.5% of the subscription fee.
+453 Please wait for your discount information to appear before continuing.
+454 Our system is currently busy, and you cannot subscribe now. Please try again later. We apologize for the inconvenience.
+455 $39.95 (plus applicable sales tax)
+456 Your Legends account is cancelled. This is how you move your characters back to the normal servers. Select 'Launch WWW' for more information.
+457 http://legends.everquest.station.sony.com/showcase/home.jsp
+458 EverQuest will now exit and send you to the page that will walk you through following up on canceling Legends.
+459 You have chosen a 1 month recurring subscription. Your card will be billed %s every month. Additionally, residents of EU countries will be charged VAT equal to 17.5% of the subscription fee.
+460 We appreciate your interest in Legends! Our records indicate that you have already signed up on the waiting list.  We will allow Legends billing starting Feburary 24th, and we will open up the servers on Feburary 25th.
+461 We appreciate your interest in Legends! Our records indicate that you are currently on the waiting list. You will be notified when you are allowed to subscribe.  If you have already received notice allowing you to subscribe, please note that it can take up to twenty minutes for that information to reach the Login Server.
+462 This account key may be used to upgrade an existing account or to create a new account, NOT both.  Select YES to continue creating a new account. To upgrade an account select NO; cancel out and select ACCOUNT, then CHANGE ACCOUNT.
+463 Thank you for subscribing to Legends! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "EverQuest Legends" toggle.
+464 Thank you for subscribing to Legends.  We hope that you will have an enjoyable adventure.  EverQuest will now exit. Please restart EverQuest so that the patcher can download the Legends files.
+465 The world's #1 Online Multiplayer Adventure.\n\n- Epic adventures with hundreds of thousands of players\n- Unique character creation and development\n- Enormous, stunning 3D environment\n- Experience fantasy, magic, wealth, power and strife\n- $12.95/month. Additionally, residents of EU countries will be charged VAT equal to 17.5% of the subscription fee.\n
+466 Take your EverQuest experience to the next level.\n\n- Exclusive server with unique weapons and armor\n- GM hosted events that can't be found anywhere else\n- Individualized character homepages and journals\n- Dynamic maps that chart your travel and track your guild mates\n- $39.95/month. Additionally, residents of EU countries will be charged VAT equal to 17.5% of the subscription fee.\n
+467 We apologize for the inconvenience. You must first sign up for a regular EverQuest subscription before you can upgrade to Legends. Once you sign up for a normal account, if you then upgrade to a Legends account, your payment will be discounted from the new subscription.
+468 The billing system is currently not responding. Please try again later.
+469 \n\nSubscribe to EverQuest Legends?
+470 Please choose one of the following two options.
+471 Effective April 25, we will be increasing our monthly subscription rate to $12.95/month.  For details on the new prices, please visit http://everquest.station.sony.com/rates/.
+472 http://everquest.station.sony.com/rates/
+473 EverQuest will now exit and send you to the billing information webpage.
+474 \n\nFor a limited time only, you may elect to extend your current subscription period by selecting either the 12 or 24 month plan above.  Once you have completed the payment process for either of these plans, you will have prepaid for either 12 or 24 months, and your billing cycle end date will be extended out by the period of time that you have chosen.  Please note that the extension plans are NON-recurring but your current 1, 3 or 6 month selection remains recurring; so at your new extended billing cycle end date, if you have not cancelled, you will then be automatically renewed pursuant to your 1, 3 or 6 month plan.
+475 You have chosen %s recurring subscription. Your card will be billed %s every 12 months
+476 You have chosen %s recurring subscription. Your card will be billed %s every 24 months
+477 Server
+478 Planes of Power
+479 XXXX
+480 **** REGISTERING AN EXPANSION ****\n
+481 To upgrade your copy of EverQuest you will need the key off the CD included in your expansion box.  Some expansion packs, notably Trilogy and Gold, may upgrade your account for more than one expansion simultaneously.  Other expansion keys may be used to create a new account.  If you use that key to upgrade an existing account, it will not be able to be used a second time to create a new account.  Please reference the expansion box to find out what kind of expansion you have purchased.
+482  
+483 Please enter the Account Key from your CD case below.
+484 Please look at the box this key came from.  Is that box a Ruins of Kunark box or a Shadows of Luclin box?
+485 You are not done signing up with the EverQuest Legends web page.  Please wait for an e-mail giving you a conformation code arrives, then follow the directions in that e-mail.  When you have completed this please return here.
+486 Thank you for your interest in EverQuest Legends.  In order to join in the adventure, you will need to return to the Legends Website and process a new application. Click on the WWW button below and follow the links to Sign Up!
+487 %d Expansions Enabled
+488 You are already registered for the following expansions to EverQuest: 
+489 Classic
+490 Power Enabled
+491 Ruins of Kunark
+492 Scars of Velious
+493 EverQuest: Trilogy
+494 Shadows of Luclin
+495 Planes of Power
+496 None
+497 Your account is now enabled for new expansions! If you have not yet installed your new expansion CD, please do so now.
+498 Error 1041: You are missing files specific to the locale of the server you are attempting to log in to.  Do you wish to continue?
+499 All Expansions Enabled
+500 Error 1042: You are trying to enter a server who's language is not the one you have loaded.  Please exit EverQuest and load the proper language.
+501 Please select a new Chat Handle
+502 \n\nIf interested in paying in non-U.S. currency, click on the Global Collect button below.
+503 GLOBAL COLLECT
+504 International customers, you can now pay for EverQuest in your own currency by credit card or bank transfer. Customers in the Netherlands, Germany, Spain and Austria may also use direct debit. Sony Online Entertainment is now able to accept these currencies: Pound Sterling (UK), Japanese Yen, Euro, Swedish Krona, Danish Krona, Norwegian Krone and Australian Dollar.\n\nTo sign up for this payment option, please go to https://store.station.sony.com.
+505 https://store.station.sony.com/store/subscriptions/subscription.jsp
+506 EverQuest will now exit and send you to the Station Store.
+507 Ykesha Enabled
+508 Legacy of Ykesha
+509 All plans are recurring (automatically renewed at the end of the billing cycle unless cancelled).  The billing cycle is determined by the plan that you choose (for instance, the billing cycle is one month for the one month plan).  Please note that the Game Card plan is not recurring.  Rates above are in U.S. dollars. Additionally, residents of EU countries will be chanrged VAT equal to 17.5% of the subscription fees listed above.\n\n
+510 If you want to pay for your subscription in certain non-U.S. currencies (by credit card or, in some countries, by direct debit or bank transfer), click on the Global Collect button below and follow the subsequent instructions.  Please note that the subscription plans and rates for non-U.S. currencies may vary from those listed above.
+511 Language
+512 Video Options
+513 American English
+514 French
+515 German
+516 Korean
+517 Japanese
+518 Simplified Chinese
+519 Great Britain English
+520 You have about %d MB of memory. \r\nWe recommend that you only select %d detailed models to get the best graphics performance. A lower polygon model will be used for those models not selected.  Please note that some models are required for others to load.  The tool will take care of this for you.
+521 You have about %d MB of memory. These settings will allow you to tune the system for the best performance.
+522 %sHz
+523 16bit(555) 
+524 16bit(565) 
+525 32bit
+526 Default 
+527 Order EverQuest(R): The Legacy of Ykesha (TM), an expansion available directly from SOE by download and online credit card purchase at $23.99 (plus tax, if applicable.  In addition to the fees described above, if you are a resident of a European Union country, you will also be charged a VAT tax equal to 17.5% of the applicable fee).\n\nCredit card users - one click below and you're done!\n\n
+528 Pre-order EverQuest®: The Legacy of Ykesha™\n\nPre-order The Legacy of Ykesha, a new digital EverQuest extension available directly from SOE by download and online credit card purchase ONLY, at the special price of $17.99 (plus tax, if applicable) for orders received between now and February 24, 2003 (the anticipated "live" date).  On the live date and thereafter, SOE's price will increase to $21.99 (price subject to change).  Additionally, shortly after the live date, SOE will make a relatively small number of The Legacy of Ykesha CD-ROMs available at retail as well.\n\n\nCredit card users – one click below and you’re done!\n\nFeature List:\n\nNew playable race: Frogloks\nEnhanced Looking for Group tool\nGuild management tool\nCartography system\nNew magic item slot: Charms\nArmor dye\nNew creatures\nExpanded bank capacity\nNew zones\nNew spells\n\nFor detailed information, go to www.legacyofykesha.com\n\n	Stuff our lawyers made us tell you:\n\n(1)	When you pre-order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your pre-order will not be processed until you provide one.  You cannot use a GameCard or Global Collect payment option to pre-order the extension.\n\n
+529 Your order for EverQuest®: The Legacy of Ykesha™ has been successfully placed. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+530 https://store.station.sony.com/store/digitalDistribution/digitalDistributionList.jsp?listname=EQ-LOY
+531 PRE-ORDER
+532 BUY LoY
+533 Thank you for selecting Legacy of Ykesha! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Legacy of Ykesha" toggle.
+534 EverQuest will now exit and send you to the Legacy of Ykesha order page.\n\n(%s)
+535 (2)	We will charge your credit card no earlier than 12:01 a.m. PST on February 24, 2003.  If you change your mind and want to cancel your pre-order before that time, go to https://store.station.sony.com/store/my_account.jsp  and cancel your pre-order.  At 12:01 a.m. on the live date and thereafter, all sales are final.\n\n(3)	The file patch plan is to make the necessary files gradually available for patching during a several week period prior to the live date.  When you pre-order, the "Legacy of Ykesha" box on the second page of the client patcher will be checkmarked - so that each time you patch, the patch routine will check for new extension files and download them to you.  Narrowband users - some patches may be quite large and take significant time to download.  For patch hints, go to http://eqlive.station.sony.com/support/tech_support/ts_new_patcher.jsp.\n\n
+536 (4)	If you have multiple accounts, you must order Ykesha for each account; you must download and install all necessary files on each machine which you wish to "Ykesha-enable."\n\n(5)	The Legacy of Ykesha extension and your pre-order is subject to the EverQuest User Agreement and Software License (located at http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service (located at http://sonyonline.com/tos/tos.jsp) and Rules of Conduct (located at http://eqlive.station.sony.com/support/customer_service/cs_rules_of_conduct.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/tos.jsp#privacy).  Minimum system specs can be found at http://eqlive.station.sony.com/support/tech_support/ts_system_requirements.jsp; you must be an EverQuest subscriber to order the extension.\n\n
+537 (6)	As with most software, the anticipated live date may slip; if so, we will post a new anticipated live date in a patch message and extend the deadline for pre-order cancellations until 12:01 a.m. PST on the new live date.\n\n(7)	To better serve our Game Card customers, we have decided to also distribute Legacy of Ykesha in CD form at retail.  Please be advised that the retail CD may not be available everywhere, and will likely not be available at retail until some time after the live date.\n\nExpect heavy patch server load, difficulty connecting and - perhaps - unscheduled downtime on the live date and for a few days thereafter.\n\n
+538 CONTINUE
+539 ANNOUNCEMENT\n\nThe response to The Legacy of Ykesha™ extension has been overwhelming; we want to thank all of you who have pre-ordered.\n\nIn order to better serve ALL of our customers, including those who do not have a credit card, we've decided to make a relatively small number of The Legacy of Ykesha CD-ROMs available at retail as well.  Please note, though, that The Legacy of Ykesha CD will likely not be available at retail in the US until as much as a week or more after the "live" date; the delay may be longer for our international customers.\n\nIf you have already pre-ordered from us, but you would prefer to wait for the retail CD, you can cancel your pre-order by following these instructions:\n\n1. Go to the Station Store (https://store.station.sony.com/)\n2. Go to Billing Info and sign in.\n3. View Current pre-orders.\n4. Click Cancel button; you will receive a cancellation email.\n\nYou may still pre-order the digital download version of The Legacy of Ykesha from the Station.com Store (the download version only – we will not be selling CDs through pre-order) for the special pre-order price of $17.99.
+540 o New playable race, the Frogloks (Frogmen)\no Enhanced Looking for Group tool.\no Guild management tool.\no Cartography system\no New magic item slot: Charms\no Armor dye\no New creatures\no Expanded bank capacity\no New zones\no New spells\n\nFor detailed information, go to www.legacyofykesha.com\n\n
+541 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required – When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit www.legacyofykesha.com.\n\n
+542 You must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at  http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\nPlatform:  PC\n\nRequired Specs:\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1 Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 9.0b Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.
+543 TECH
+544 You must be in windowed mode to access this feature.  Please press 'Alt-Enter' to switch to windowed mode and try again.
+545 http://www2.station.sony.com/en/instantchat.jsp
+546 BUY SOE ALL ACCESS
+547 https://store.station.sony.com/subscriptions/subscription.jsp?null
+548 Error 1100: You cannot have an active character on the Test Server and a Live Server at the same time.
+549 Thank you for selecting the Lost Dungeons of Norrath! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Dungeons of Norrath" toggle.
+550 Order EverQuest(R): The Lost Dungeons of Norrath (TM), an expansion available directly from SOE by download and online credit card purchase at $27.99 (plus tax, if applicable.  In addition to the fees described above, if you are a resident of a European Union country, you will also be charged a VAT tax equal to 17.5% of the applicable fee).\n\nCredit card users - one click below and you're done!\n\n
+551 Preorder Lost Dungeons of Norrath with your credit card (download only) at the special preorder price of $22.99 (plus tax, if applicable) -- a savings of up to $5.00 off the regular retail price!  Lost Dungeons of Norrath is expected to go live on September 9, 2003.\n\n
+552 Your LDoN order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+553 https://store.station.sony.com/digitalDistribution/ldn/digitalDistributionList.jsp?listname=EQ-LDN
+554 BUY LDoN
+555 o Explore more than 40 diverse dungeons set in 5 new environments.\no Emphasizes personalized group encounters without interruption from other players.\no Enjoy the excitement of "dungeon crawls" that are tailored to your group.\no Discover new environments, objects and interactive items for the hardy adventurer.\no Reap the benefits of your adventures with an all new reward system that puts the choice in your hands.\no New tradeskill recipes to produce hundreds of new items.\no Encounter a host of new challenging monsters and NPCs.\no Unearth arcane new spells, mighty weapons and other hidden treasures!\n\n
+556 Stuff our lawyers made us tell you:\n\n(1) When you preorder from us, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your preorder will not be processed until you provide one.  You cannot use a GameCard or Global Collect payment option to preorder the expansion.\n\n(2) We will charge your credit card no earlier than 12:01 a.m. PST on the live date.  If you change your mind and want to cancel your preorder before that time, please email ldoncancellations@soe.sony.com, indicating the station ID for which you would like to cancel the order. At 12:01 a.m. on the live date and thereafter, all sales are final.  SOE will not send you anything; SOE is fulfilling all direct preorders and orders via digital download only.\n\n(3) The file patch plan is to make the necessary files gradually available for patching during a several week period prior to the live date.  When you preorder, the "Lost Dungeons of Norrath" box on the second page of the client patcher will be checkmarked – so that each time you patch, the patch routine will check for new expansion files and download them to you.  Please note that the expansion is quite large and takes a significant time to download; if you have not been patching up to this point, it may take you a long time to patch.  For patch hints, go to http://eqlive.station.sony.com/support/tech_support/ts_new_patcher.jsp.\n\n
+557 (4) You must have purchased the expansion for each account you wish to have enabled for the expansion; you must have downloaded the expansion files to each machine on which you wish the expansion to "work."\n\n(5) Lost Dungeons of Norrath expansion and your preorder is subject to the EverQuest User Agreement and Software License (located at http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp).  Minimum system specs can be found at http://eqlive.station.sony.com/support/tech_support/ts_system_requirements.jsp; you must be an EverQuest subscriber to order the expansion.\n\n(6) As with most software, the anticipated live date may slip; if so, we will post a new anticipated live date in a patch message and extend the deadline for preorder cancellations until 12:01 a.m. PST on the new live date.\n\n(7) Expect heavy patch server load, difficulty connecting and -- perhaps -- unscheduled downtime on the live date and for a few days thereafter.\n\n
+558 o Explore more than 40 diverse dungeons set in 5 new environments\no Emphasizes personalized group encounters without interruption from other players.\no Enjoy the excitement of "dungeon crawls" that are tailored to your group.\no Discover new environments, items and interactive objects for the hardy adventurer.\no Reap the benefits of your adventures with an all new reward system that puts the choice in your hands.\no New tradeskill recipes to produce hundreds of new items.\no Encounter a host of new challenging monsters and NPCs.\no Unearth arcane new spells, mighty weapons and other hidden treasures!\n\nFor detailed information, go to www.lostdungeonsofnorrath.com\n\n
+559 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required – When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit www.lostdungeonsofnorrath.com.\n\n
+560 You must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at  http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\nPlatform:  PC\n\nRequired Specs:\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1 Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 9.0b Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.
+561 EverQuest will now exit and send you to the Lost Dungeons of Norrath order page.\n\n(%s)
+562 Dungeons Enabled
+563 Lost Dungeons of Norrath
+564 Press the button for the expansion you want to order. You will be taken to a new screen which will have more information about your order.
+565 REGISTER AN EXPANSION
+566 PURCHASE AN EXPANSION
+567 To upgrade your copy of EverQuest you will need the key off the CD included in your expansion box.  Some expansion packs, notably Trilogy and Gold, may upgrade your account for more than one expansion simultaneously.  Other expansion keys may be used to create a new account.  If you use that key to upgrade an existing account, it will not be able to be used a second time to create a new account.  Please reference the expansion box to find out what kind of expansion you have purchased.
+568 Below, please enter the Account Key from your CD case.
+569 Order EverQuest®: The Ruins of Kunark®, an expansion available directly from SOE by download and online credit card purchase at $9.99 (plus tax, if applicable.  In addition to the fees described above, if you are a resident of a European Union country, you will also be charged a VAT tax equal to 17.5% of the applicable fee).\n\nExperience classic EverQuest adventures in this lush jungle continent of Kunark, consisting of 20 zones, a legendary playable race, the Iksar, classic armor, weapons and ancient enemies.\n\nCredit card users - one click below and you're done!\n\n
+570 o Legendary playable race, the Iksar (Lizardman)\no More than 20 adventure areas containing both newbie and expert zones filled with dramatic environmental effects.\no Non-player characters include Giant Scorpions, Dragonmen and many more.\n\nFor detailed information, go to http://everquest.station.sony.com/kunark.jsp\n\n
+571 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required – When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit http://everquest.station.sony.com/kunark.jsp\n\n
+572 You must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at  http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\nPlatform:  PC\n\nRequired Specs:\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1 Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 9.0b Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.
+573 Buy Kunark
+574 Your Kunark order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+575 https://store.station.sony.com/digital/index.jsp?SKU=EQ1RE-DD-SW1103-DDRUIN-KUNRK
+576 EverQuest will now exit and send you to the Ruins of Kunark order page.\n\n(%s)
+577 Thank you for selecting the Ruins of Kunark! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Ruins of Kunark" toggle.
+578 Order EverQuest®: The Scars of Velious®, an expansion available directly from SOE by download and online credit card purchase at $9.99 (plus tax, if applicable.  In addition to the fees described above, if you are a resident of a European Union country, you will also be charged a VAT tax equal to 17.5% of the applicable fee).\n\nExplore the snowy continent of Velious, where players can explore 19 dangerously icy zones.  Also embark on dozens of quests for characters level 35+ and discover hundreds of magical new items.\n\nCredit card users - one click below and you're done!\n\n
+579 o 19 zones including ice caves, crystal caverns, crypts and frozen towers.\no An updated cast of visually stunning non-player characters including Frost Giants, Ice Dragons, Snow Orcs, Cave Bears, Snowfang Gnolls and Storm Giants.\no Magical items and quests to unveil for players level 35+.\n\nFor detailed information, go to http://everquest.station.sony.com/velious.jsp\n\n
+580 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required – When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit http://everquest.station.sony.com/velious.jsp\n\n
+581 You must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at  http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\nPlatform:  PC\n\nRequired Specs:\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1 Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 9.0b Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.
+582 Buy Velious
+583 Your Velious order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+584 https://store.station.sony.com/digital/index.jsp?SKU=EQ1RE-DD-SW1103-DDSCRS-VELIO
+585 EverQuest will now exit and send you to the Scars of Velious order page.\n\n(%s)
+586 Thank you for selecting the Scars of Velious! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Scars of Velious" toggle.
+587 Order EverQuest®: The Shadows of Luclin™, an expansion available directly from SOE by download and online credit card purchase at $9.99 (plus tax, if applicable.  In addition to the fees described above, if you are a resident of a European Union country, you will also be charged a VAT tax equal to 17.5% of the applicable fee).\n\nThe eerie moonscape of Luclin reveals 28 new adventure zones, the infamous player character race, the Vah Shir, and the mighty character class, the Beastlord.  Plus a massively enhanced 3D graphics engine changes the face of Norrath.\n\nCredit card users - one click below and you're done!\n\n
+588 o 3D engine overhaul with high resolution player character models and completely re-textured zones, including the original world of Norrath.\no Play as the Vah Shir cat man race or Beastlord class.\no Mounts will carry you across the lands of Norrath.\no Explore 28 perilous zones on the moonscape of Luclin.\no Enhanced character advancement system.\n\nFor detailed information, go to http://everquest.station.sony.com/luclin.jsp\n\n
+589 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required – When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit http://everquest.station.sony.com/luclin.jsp\n\n
+590 You must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at  http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\nPlatform:  PC\n\nRequired Specs:\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1 Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 9.0b Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.
+591 Buy Luclin
+592 Your Luclin order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+593 https://store.station.sony.com/digital/index.jsp?SKU=EQ1RE-DD-SW1103-DDSHDW-LUCLN
+594 EverQuest will now exit and send you to the Shadows of Luclin order page.\n\n(%s)
+595 Thank you for selecting the Shadows of Luclin! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Shadows of Luclin" toggle.
+596 Order EverQuest®: The Planes of Power™, an expansion available directly from SOE by download and online credit card purchase at $9.99 (plus tax, if applicable.  In addition to the fees described above, if you are a resident of a European Union country, you will also be charged a VAT tax equal to 17.5% of the applicable fee).\n\nVisit the homes of the gods in 24 spine-chilling zones, with more than 50 furious beasts and minions who have never been unleashed in Norrath until now.\n\nCredit card users - one click below and you're done!\n\n
+597 o Hundreds of powerful new magic items including weapons, armor, shields, jewelry and more\no 24 Planar zones full of scripted events and dynamic content that will challenge the most skilled players\no Over 50 monsters, dozens of new spells and expanded trade skill recipes\no Two Planar cities that provide a hub for travel and player interaction\no A central storyline links the content from every zone into one compelling quest\n\nFor detailed information, go to http://everquest.station.sony.com/power/\n\n
+598 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required – When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit http://everquest.station.sony.com/power/\n\n
+599 You must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at  http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\nPlatform:  PC\n\nRequired Specs:\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1 Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 9.0b Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.
+600 Buy PoP
+601 Your Planes of Power order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+602 https://store.station.sony.com/digital/index.jsp?SKU=EQ1RE-DD-SW1103-DDPLNS-POWER
+603 EverQuest will now exit and send you to the Planes of Power order page.\n\n(%s)
+604 Thank you for selecting the Planes of Power! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Planes of Power" toggle.
+605 Platform:  PC\n\nRequired Specs:  Windows(R) 98/2000/ME/XP\nPentium(R) III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX 8.1\nCompatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB Hard Drive Space\n\nRecommended Specs:  Windows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX 8.1\nCompatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n1.5 GB Hard Drive Space
+606 ORDER NOW
+607 NO THANKS
+608 https://store.station.sony.com/express/loe/index.jsp
+609 EverQuest®: Gates of Discord™ Available Now!\n\nEpic adventures now await you in EverQuest®: Gates of Discord™, the seventh expansion pack now available for EverQuest.  Discover the lost continent of Taelosia and come face-to-face with invaders from the realm of chaos.  Join armies of adventurers on their quest to unearth long-hidden artifacts of power from temple ruins, secret catacombs, dank sewers and vast marshlands.  Should you fail, Norrath, its inhabitants, and its gods may fall under control of the forces of Discord!\n\nGain Entry into the Gates of Discord!\no Download now direct from the Station Store\no Purchase at your local retailer (retail boxed version includes special in-box and in-game item, while supplies last)\n\nExciting New Features!\no 100 new AA abilities\no 20 new zones with all-new NPCs\no New Tribute System and Leadership Experience\no Ravage your enemies with the Berserker
+610 \n\n
+611 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required.  When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit http://www.gatesofdiscord.com/\n\n\nYou must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE's Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE's Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\n
+612 Platform:  PC\n\nRequired Specs:\n\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\n\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n2.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.  
+613 Order Gates
+614 Your Gates of Discord order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+615 https://store.station.sony.com/digitalDistribution/god/digitalDistributionList.jsp?listname=EQ-GOD
+616 EverQuest will now exit and send you to the Gates of Discord order page.\n\n(%s)
+617 Thank you for selecting Gates of Discord! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Gates of Discord" toggle.
+618 Gates of Discord enabled
+619 Gates of Discord
+620 (Deleted)
+621 We hope you enjoy playing EverQuest today!\n\nDon’t forget to upgrade to DirectX 9.0 soon!
+622 https://www.station.sony.com/secure/en/registration/view.jsp
+623 EverQuest will now launch a web page where you can edit your registration.
+624 If you have a credit card on file, it is about to be charged for this expansion.\n\nDo you wish to continue?
+625 o Save over $55.00 on a one year EverQuest subscription.  Purchase a twelve-month subscription to EverQuest for the exclusive EverQuest 5th Anniversary price of $99.99 (plus applicable taxes).  Limited time only.  Please visit https://store.station.sony.com/subscriptions/promo.jsp for further details.  Certain restrictions apply.\n\no Save over $63.00 on a one year SOE All Access Pass subscription package.  Purchase a twelve-month subscription to the SOE All Access package for the exclusive EverQuest 5th Anniversary price of $199.99 (plus applicable taxes).  Limited time only.  Please visit https://store.station.sony.com/subscriptions/promo.jsp for further details. Certain restrictions apply.
+626 Don't show this offer again
+627 https://store.station.sony.com/subscriptions/promo.jsp
+628 Please see http://eqlive.station.sony.com/eq_special_promo.jsp for terms and conditions
+629 Follow the Wayfarers Brotherhood to the war-ravaged Realm of Discord to help end the tyrannical ways of the Muramites once and for all.  Mata Muram, the leader of the Muramites, is rumored to be building the ultimate invading army and it’s up to you to thwart his plans.\n\nExperience EverQuest: Omens of War and the twisted lands of a realm where war is persistent and death is constant.  Face the fear in the Battlegrounds of Discord -- landscapes that have seen eons of violent wars between many species; explore the shattered landscapes of the Discordant Plateau, then take your fury to a landscape that teems with Muramites preparing to invade not just Norrath, but countless innocent worlds.  Adventure solo, in groups, and raids to complete “epic quests” and earn prestigious weapons to aide in your battles.  Take your character to new levels of power and acquire new items, spells, and quests.\n\nEnjoy features and content for all levels!    \n\nFeatures:\no  Improved Graphics – Discover rich new zones with detailed environments featuring expanded graphical elements, improved spell effects and all-new graphically-improved monsters to fight.  \n\no  Level Cap Increase – Develop your character beyond level 65.  Unlock new innovative items, powerful spells, and thrilling quests.\n\no  Epic Weapons 2.0 – Earn specialized, hand-tailored Epic Weapons with the completion of any of 16 epic quests.  New epic quests will challenge even the toughest and most experienced Norrathians as they journey alone or in raid groups to win these valuable items.  Designed for higher level players, each weapon will be unique in design and will have specialized characteristics.\n\no  Guild Tribute System – Enhanced tribute system allows you to turn your loot into favor points for your whole guild to enjoy.\n\no  Low Level Task System – Allows players to go to various zones and request quick and easy tasks to gain experience and collect cool loot.\n\no  Custom PC Titles – Receive exciting new Custom PC Titles for your characters.  Accomplish a variety of missions and get bestowed a title added to your character’s name.\n\no  All-New Content – New disciplines, AA’s, items, spells, quests and tradeskills continue to make EverQuest the most-compelling and persistent online world ever created.
+630 \n\n
+631 All sales are final.\nClassic EverQuest required.\n\nA valid credit card required.  When you order, we will check your account for a valid credit card.  If your account does not have a valid credit card associated with it, your order will not be processed until you provide one.  You cannot use a GameCard, GlobalCollect or any other payment option to order this expansion.  We have the right to charge your credit card immediately after you place your order.\n\nSOE will not send you anything; SOE is fulfilling all direct orders via digital download only.  The complete software necessary to play this expansion will be downloaded to your computer, and no physical box, disks or other materials will be provided to you.  Please note that the expansion is quite large and will take significant time to download.  For download hints and further details, visit http://www.omensofwar.com/\n\n\nYou must purchase the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work."\n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (located at http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE's Terms of Service and Rules of Conduct (located at http://sonyonline.com/tos/tos.jsp), and SOE's Privacy Policy (located at http://sonyonline.com/tos/privacy.jsp). You must be an EverQuest subscriber to order any one or more of the expansions.\n\n
+632 Platform:  PC\n\nRequired Specs:\n\nWindows® 98/2000/ME/XP\nPentium® III 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\n\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n2.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.  
+633 Order Omens
+634 Your Omens of War order was successful. This program will now exit, and you will need to rerun EverQuest in order to patch your newly purchased expansion. Thank you.
+635 https://store.station.sony.com/digitalDistribution/oow/digitalDistributionList.jsp?listname=EQ-OOW
+636 Thank you for selecting Omens of Wara! Please complete the process by clicking the 'Advanced' button on the patcher and selecting the "Omens of War" toggle.
+637 Omens of War enabled
+638 Omens of War
+639 PREORDER EVERQUEST: OMENS OF WAR EXPANSION\nPreorder Omens of War with your credit card (download only) at the preorder price of $29.99 (plus tax, if applicable).  Residents of VAT-applicable European Union territories will also be charged a VAT equal to 17.5% of the applicable fee\n\n\nFollow the Wayfarers Brotherhood to the war-ravaged Realm of Discord to help end the tyrannical ways of the Muramites once and for all. Mata Muram, the leader of the Muramites, is rumored to be building the ultimate invading army and it’s up to you to thwart his plans.\n\nExperience EverQuest®: Omens of War and the twisted lands of a realm where war is persistent and death is constant. 
+640 Face the fear in the Battlegrounds of Discord -- landscapes that have seen eons of violent wars between many species; explore the shattered landscapes of the Discordant Plateau, then take your fury to a landscape that teems with Muramites preparing to invade not just Norrath, but countless innocent worlds. Adventure solo, in groups, and raids to complete "epic quests" and earn prestigious weapons to aide in your battles. Take your character to new levels of power and acquire new items, spells, and quests.\n\nEnjoy features and content for all levels!\n\n\nFeatures:\n\no Improved Graphics - Discover rich new zones with detailed environments featuring expanded graphical elements, improved spell effects and all-new graphically-improved monsters to fight. \n\no Level Cap Increase - Develop your character beyond level 65. Unlock new innovative items, powerful spells, and thrilling quests. \n\no Epic Weapons 2.0 - Earn specialized, hand-tailored Epic Weapons with the completion of any of 16 epic quests. New epic quests will challenge even the toughest and most experienced Norrathians as they journey alone or in raid groups to win these valuable items. Designed for higher level players, each weapon will be unique in design and will have specialized characteristics. \n\no Guild Tribute System - Enhanced tribute system allows you to turn your loot into favor points for your whole guild to enjoy. \n\no Low Level Task System - Allows players to go to various zones and request quick and easy tasks to gain experience and collect cool loot. \n\no Custom PC Titles - Receive exciting new Custom PC Titles for your characters. Accomplish a variety of missions and get bestowed a title added to your character's name. \n\no All-New Content - New disciplines, AA's, items, spells, quests and tradeskills continue to make EverQuest the most-compelling and persistent online world ever created. \n\no Classic EverQuest Required \n\n\nThis game is rated RP (game has not yet been rated).\n\n
+641 For download hints and further details, visit http://www.omensofwar.com\n\nDigital Download is a software-only purchase; SOE will not send you anything. The complete software necessary to play this expansion will need to be downloaded to your computer, but no physical box, disks or other materials will be provided to you. \n\nA valid credit card is required. You cannot use a GameCard or GlobalCollect payment option to purchase this digital download expansion. \n\nWe will charge your credit card no earlier than 12:01 a.m. PST on the date the product goes live. If you change your mind and want to cancel your pre-order before that time, go to the Station Store (https://store.station.sony.com/my_account.jsp) and cancel your preorder. At 12:01 a.m. PST on the live date and thereafter, all sales are final. \n\nThe expected live date is July 27, 2004, so PRE-ORDER NOW! The expected live date is subject to change, in which case we will post a new anticipated live date in a patch message and extend the deadline for pre-order cancellations until 12:01 a.m. PST on the new live date. \n\nThe file patch plan is to make the necessary files gradually available for patching during a several week period prior to the live date. When you pre-order, the "Omens of War" checkbox on the second page of the client patcher will be checked so that each time you patch, the patch routine will check for new expansion files and download them to you. Attention narrowband users: some patches may be quite large and take significant time to download. For patch hints, go to the EverQuest Patcher Help website (http://eqlive.station.sony.com/support/tech_support/ts_new_patcher.jsp). Expect heavy patch server load, difficulty connecting and the possibility of unscheduled downtime on the live date and for a few days thereafter. \n\n
+642 You must have purchased the expansion for each account you wish to be enabled for this expansion; you must download the expansion files to each machine on which you wish the expansion to "work." \n\nThe expansion and your order are subject to the EverQuest User Agreement and Software License (http://eqlive.station.sony.com/support/customer_service/cs_EULA.jsp), SOE’s Terms of Service and Rules of Conduct (http://sonyonline.com/tos/tos.jsp), and SOE’s Privacy Policy (http://sonyonline.com/tos/tos.jsp#privacy). You must be an EverQuest subscriber to order the expansion. \n\nPlatform:  PC\n\nRequired Specs:\n\nWindows® 98/2000/ME/XP\nPentium® 3 400 equivalent or greater\n256 MB RAM\nATI Radeon 7500/NVidia GeForce 1 equivalent or greater\nDirectX Compatible Sound Card\n28.8k + Internet Connection\n4X Speed CD-ROM\n500 MB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nRecommended Specs:\n\nWindows® 98/2000/ME/XP\nPentium® 4 equivalent or greater\n512 MB RAM\nNVidia GeForce 3/ATI Radeon 8500 equivalent or greater\nDirectX Compatible Sound Card\n56.6k + Internet Connection\n16X Speed CD-ROM\n2.5 GB+ Hard Drive Space\nDirectX 9.0\nEverQuest Classic and a valid EverQuest account\n\nGame specifications may change as the game progresses.\n\nSystem requirements subject to change as the game progresses.\n\nInternet Play:\nEverQuest is an internet-only game, requiring players to connect to Sony Online Entertainment servers via their own Internet connections for which they are responsible. Additional online fees and valid credit card required.\n\n

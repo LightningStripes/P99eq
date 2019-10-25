@@ -1,0 +1,96 @@
+<?xml version = "1.0"?>
+<XML ID = "EQInterfaceDefinitionLanguage">
+	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
+
+	<TextureInfo item = "BreathBubbles.tga">
+		<Size>
+			<CX>512</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<Ui2DAnimation item = "A_BreathBubblesFull">
+		<Frames>
+			<Texture>BreathBubbles.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>309</CX>
+				<CY>79</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+	<Ui2DAnimation item = "A_BreathBubblesEmpty">
+		<Frames>
+			<Texture>BreathBubbles.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>80</Y>
+			</Location>
+			<Size>
+				<CX>309</CX>
+				<CY>79</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+
+<!-- ============================================================ -->
+<!-- The functional part -->
+<!-- ============================================================ -->
+	<Gauge item = "BREATH_Gauge">
+		<ScreenID>Gauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>309</CX>
+			<CY>79</CY>
+		</Size>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+				<R>0</R>
+				<G>240</G>
+				<B>240</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>8</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_BreathBubblesEmpty</Background>
+			<Fill>A_BreathBubblesFull</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
+
+	<Screen item = "BreathWindow">
+		<!--<ScreenID/>-->
+		<!--<Font/>-->
+		<RelativePosition>false</RelativePosition>
+		<Location>
+			<X>165</X>
+			<Y>200</Y>
+		</Location>
+		<Size>
+			<CX>309</CX>
+			<CY>79</CY>
+		</Size>
+		<Text>Air Remaining</Text>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>true</Style_Transparent>
+		<TooltipReference>The Breath Meter</TooltipReference>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>false</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+		<Pieces>BREATH_Gauge</Pieces>
+	</Screen>
+</XML>

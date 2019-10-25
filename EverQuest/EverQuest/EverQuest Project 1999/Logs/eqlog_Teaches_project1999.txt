@@ -1,0 +1,2529 @@
+[Fri Oct 04 22:04:35 2019] Welcome to EverQuest!
+[Fri Oct 04 22:04:35 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Fri Oct 04 22:04:35 2019] You have entered East Freeport.
+[Fri Oct 04 22:04:35 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Fri Oct 04 22:04:45 2019] Mongusu regards you indifferently -- looks like an even fight.
+[Fri Oct 04 22:05:22 2019] Zhem Xecia begins to cast a spell.
+[Fri Oct 04 22:05:28 2019] Konious Eranon begins to cast a spell.
+[Fri Oct 04 22:05:35 2019] Konious Eranon begins to cast a spell.
+[Fri Oct 04 22:05:45 2019] Konious Eranon begins to cast a spell.
+[Fri Oct 04 22:05:54 2019] Konious Eranon begins to cast a spell.
+[Fri Oct 04 22:06:46 2019] LOADING, PLEASE WAIT...
+[Fri Oct 04 22:07:00 2019] You have entered West Freeport.
+[Fri Oct 04 22:07:40 2019] Puab Closk says, 'Welcome to the house of the Ashen Order. We are a small guild of monks who have devoted our lives to refining our minds, souls, and physical beings to their maximum potential.'
+[Fri Oct 04 22:07:40 2019] Your faction standing with AshenOrder got better.
+[Fri Oct 04 22:07:40 2019] Your faction standing with KnightsofTruth got better.
+[Fri Oct 04 22:07:40 2019] Your faction standing with SilentFistClan got better.
+[Fri Oct 04 22:07:40 2019] You gain experience!!
+[Fri Oct 04 22:07:44 2019] You no longer have a target.
+[Fri Oct 04 22:07:52 2019] Fania Esruc says 'Welcome to my shop, Teaches. You would probably find a Earring of Disease Reflection handy.'
+[Fri Oct 04 22:08:02 2019] Fania Esruc tells you, 'I'll give you absolutely nothing for the Club*.'
+[Fri Oct 04 22:08:19 2019] Thena Lonnes kindly considers you -- what would you like your tombstone to say?
+[Fri Oct 04 22:08:20 2019] Thena Lonnes kindly considers you -- what would you like your tombstone to say?
+[Fri Oct 04 22:08:22 2019] Ran`un kindly considers you -- what would you like your tombstone to say?
+[Fri Oct 04 22:08:23 2019] Reyia Beslin says 'Greetings Mongusu nice to see you.'
+[Fri Oct 04 22:08:25 2019] Reyia Beslin says 'Nice to see you working on your skills Teaches.'
+[Fri Oct 04 22:08:25 2019] Reyia Beslin kindly considers you -- what would you like your tombstone to say?
+[Fri Oct 04 22:08:31 2019] Reyia Beslin says 'See you soon Mongusu.'
+[Fri Oct 04 22:08:39 2019] Reyia Beslin says, 'Interested in training in Hand to Hand ?'
+[Fri Oct 04 22:08:43 2019] Reyia Beslin says, 'Interested in training in Kick ?'
+[Fri Oct 04 22:08:45 2019] You have become better at Kick! (1)
+[Fri Oct 04 22:08:46 2019] Reyia Beslin says, 'Interested in training in Hand to Hand ?'
+[Fri Oct 04 22:08:48 2019] Puab Closk says 'Welcome to the house of the Ashen Order. We are a small guild of monks who have devoted our lives to refining our minds, souls, and physical beings to their maximum potential.'
+[Fri Oct 04 22:08:50 2019] You have become better at Hand to Hand! (6)
+[Fri Oct 04 22:08:50 2019] You have become better at Hand to Hand! (7)
+[Fri Oct 04 22:08:51 2019] Reyia Beslin says, 'Interested in training in Hand to Hand ?'
+[Fri Oct 04 22:08:51 2019] Reyia Beslin says, 'Interested in training in Kick ?'
+[Fri Oct 04 22:08:53 2019] You have become better at Kick! (2)
+[Fri Oct 04 22:08:54 2019] Reyia Beslin says, 'Interested in training in Mend ?'
+[Fri Oct 04 22:08:55 2019] You have become better at Mend! (1)
+[Fri Oct 04 22:08:57 2019] Reyia Beslin says 'Use your skills wisely Teaches.'
+[Fri Oct 04 22:09:22 2019] Romiak Jusathorn begins to cast a spell.
+[Fri Oct 04 22:09:33 2019] Palon Deskeb begins to cast a spell.
+[Fri Oct 04 22:09:37 2019] Tara Neklene begins to cast a spell.
+[Fri Oct 04 22:10:31 2019] Palon Deskeb begins to cast a spell.
+[Fri Oct 04 22:11:03 2019] Romiak Jusathorn begins to cast a spell.
+[Fri Oct 04 22:11:27 2019] Tyrsa Henic begins to cast a spell.
+[Fri Oct 04 22:11:27 2019] Players on EverQuest:
+[Fri Oct 04 22:11:27 2019] ---------------------------
+[Fri Oct 04 22:11:27 2019] [22 Enchanter] Voltara (High Elf)
+[Fri Oct 04 22:11:27 2019] [19 Magician] Gnomster (Gnome) <Dawn Believers>
+[Fri Oct 04 22:11:27 2019] [41 Necromancer] Kenreth (Dark Elf) <Dawn Believers>
+[Fri Oct 04 22:11:27 2019] [1 Monk] Mongusu (Human)
+[Fri Oct 04 22:11:27 2019] [39 Enchanter] Aeal (Dark Elf) <Friendly Druids>
+[Fri Oct 04 22:11:27 2019] [16 Shaman] Mixologist (Troll) <Castle>
+[Fri Oct 04 22:11:27 2019] [1 Monk] Teaches (Human)
+[Fri Oct 04 22:11:27 2019] There are 7 players in West Freeport.
+[Fri Oct 04 22:12:16 2019] LOADING, PLEASE WAIT...
+[Fri Oct 04 22:12:22 2019] You have entered North Freeport.
+[Fri Oct 04 22:14:01 2019] Sentry Andlin begins to cast a spell.
+[Fri Oct 04 22:14:07 2019] You have failed to mend your wounds.
+[Fri Oct 04 22:17:58 2019] Players on EverQuest:
+[Fri Oct 04 22:17:58 2019] ---------------------------
+[Fri Oct 04 22:17:58 2019] [45 Enchanter] Ewefux (High Elf) <Castle>
+[Fri Oct 04 22:17:58 2019] [1 Monk] Teaches (Human)
+[Fri Oct 04 22:17:58 2019] There are 2 players in North Freeport.
+[Fri Oct 04 22:18:23 2019] LOADING, PLEASE WAIT...
+[Fri Oct 04 22:18:36 2019] You have entered West Freeport.
+[Fri Oct 04 22:18:52 2019] Mailinda regards you indifferently -- what would you like your tombstone to say?
+[Fri Oct 04 22:19:32 2019] LOADING, PLEASE WAIT...
+[Fri Oct 04 22:19:40 2019] You have entered East Freeport.
+[Fri Oct 04 22:19:56 2019] Konious Eranon begins to cast a spell.
+[Fri Oct 04 22:21:02 2019] Auto attack is on.
+[Fri Oct 04 22:21:02 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:21:02 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:21:03 2019] You try to kick a bat, but miss!
+[Fri Oct 04 22:21:03 2019] A bat bites YOU for 3 points of damage.
+[Fri Oct 04 22:21:05 2019] You try to crush a bat, but miss!
+[Fri Oct 04 22:21:06 2019] You try to punch a bat, but miss!
+[Fri Oct 04 22:21:06 2019] A bat bites YOU for 2 points of damage.
+[Fri Oct 04 22:21:08 2019] You have failed to mend your wounds.
+[Fri Oct 04 22:21:08 2019] You have become better at Mend! (2)
+[Fri Oct 04 22:21:09 2019] A bat bites YOU for 1 point of damage.
+[Fri Oct 04 22:21:09 2019] You try to punch a bat, but miss!
+[Fri Oct 04 22:21:12 2019] You have become better at Offense! (1)
+[Fri Oct 04 22:21:12 2019] You try to kick a bat, but miss!
+[Fri Oct 04 22:21:12 2019] A bat bites YOU for 4 points of damage.
+[Fri Oct 04 22:21:13 2019] You punch a bat for 2 points of damage.
+[Fri Oct 04 22:21:15 2019] A bat bites YOU for 4 points of damage.
+[Fri Oct 04 22:21:16 2019] You try to punch a bat, but miss!
+[Fri Oct 04 22:21:16 2019] You have become better at Hand to Hand! (8)
+[Fri Oct 04 22:21:18 2019] A bat bites YOU for 1 point of damage.
+[Fri Oct 04 22:21:20 2019] You kick a bat for 1 point of damage.
+[Fri Oct 04 22:21:20 2019] You punch a bat for 7 points of damage.
+[Fri Oct 04 22:21:21 2019] A bat bites YOU for 2 points of damage.
+[Fri Oct 04 22:21:24 2019] You punch a bat for 6 points of damage.
+[Fri Oct 04 22:21:24 2019] A bat bites YOU for 2 points of damage.
+[Fri Oct 04 22:21:27 2019] You punch a bat for 3 points of damage.
+[Fri Oct 04 22:21:27 2019] You have slain a bat!
+[Fri Oct 04 22:21:27 2019] You gain experience!!
+[Fri Oct 04 22:23:28 2019] a wolf glares at you threateningly -- what would you like your tombstone to say?
+[Fri Oct 04 22:23:41 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Fri Oct 04 22:23:43 2019] Auto attack is on.
+[Fri Oct 04 22:23:43 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 22:23:43 2019] A large rat bites YOU for 2 points of damage.
+[Fri Oct 04 22:23:44 2019] You have become better at Offense! (2)
+[Fri Oct 04 22:23:44 2019] You try to kick a large rat, but miss!
+[Fri Oct 04 22:23:44 2019] You have become better at Kick! (3)
+[Fri Oct 04 22:23:46 2019] A large rat bites YOU for 3 points of damage.
+[Fri Oct 04 22:23:47 2019] You punch a large rat for 2 points of damage.
+[Fri Oct 04 22:23:49 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 22:23:50 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 22:23:52 2019] You have become better at Dual Wield! (6)
+[Fri Oct 04 22:23:52 2019] A large rat tries to bite YOU, but misses!
+[Fri Oct 04 22:23:52 2019] You try to kick a large rat, but miss!
+[Fri Oct 04 22:23:54 2019] You punch a large rat for 6 points of damage.
+[Fri Oct 04 22:23:55 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 22:23:57 2019] You have become better at Offense! (3)
+[Fri Oct 04 22:23:57 2019] You punch a large rat for 6 points of damage.
+[Fri Oct 04 22:23:58 2019] A large rat tries to bite YOU, but misses!
+[Fri Oct 04 22:24:01 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 22:24:01 2019] A large rat bites YOU for 4 points of damage.
+[Fri Oct 04 22:24:04 2019] A large rat bites YOU for 4 points of damage.
+[Fri Oct 04 22:24:05 2019] You punch a large rat for 1 point of damage.
+[Fri Oct 04 22:24:07 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 22:24:08 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 22:24:09 2019] You try to kick a large rat, but miss!
+[Fri Oct 04 22:24:10 2019] You have become better at Dual Wield! (7)
+[Fri Oct 04 22:24:10 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 22:24:12 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 22:24:13 2019] A large rat tries to bite YOU, but misses!
+[Fri Oct 04 22:24:16 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 22:24:16 2019] A large rat bites YOU for 2 points of damage.
+[Fri Oct 04 22:24:21 2019] You have become better at Offense! (4)
+[Fri Oct 04 22:24:21 2019] You punch a large rat for 1 point of damage.
+[Fri Oct 04 22:24:21 2019] A large rat bites YOU for 4 points of damage.
+[Fri Oct 04 22:24:22 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 22:24:23 2019] You punch a large rat for 1 point of damage.
+[Fri Oct 04 22:24:23 2019] You have become better at Hand to Hand! (9)
+[Fri Oct 04 22:24:25 2019] You have become better at Offense! (5)
+[Fri Oct 04 22:24:25 2019] You try to kick a large rat, but miss!
+[Fri Oct 04 22:24:25 2019] A large rat bites YOU for 2 points of damage.
+[Fri Oct 04 22:24:28 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:24:28 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:24:29 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:24:29 2019] A large rat bites YOU for 4 points of damage.
+[Fri Oct 04 22:24:30 2019] Auto attack is off.
+[Fri Oct 04 22:24:38 2019] Auto attack is on.
+[Fri Oct 04 22:24:38 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:24:38 2019] Your target is too far away, get closer!
+[Fri Oct 04 22:24:38 2019] A large rat bites YOU for 3 points of damage.
+[Fri Oct 04 22:24:38 2019] Guard Topplo says 'You're not welcome in Freeport.'
+[Fri Oct 04 22:24:38 2019] Guard Sheg smacks the flat of his blade against the palm of his hand and says, 'You want a taste of this, a large rat?!!'
+[Fri Oct 04 22:24:38 2019] Guard Sheg bashes a large rat for 42 points of damage.
+[Fri Oct 04 22:24:38 2019] a large rat has been slain by Guard Sheg!
+[Fri Oct 04 22:24:38 2019] Guard Sheg smirks and shakes his head. 'That's what you get for messing with the Freeport Militia!!'
+[Fri Oct 04 22:26:01 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Fri Oct 04 22:26:02 2019] Auto attack is on.
+[Fri Oct 04 22:26:04 2019] You punch a large rat for 7 points of damage.
+[Fri Oct 04 22:26:04 2019] A large rat bites YOU for 3 points of damage.
+[Fri Oct 04 22:26:04 2019] You kick a large rat for 2 points of damage.
+[Fri Oct 04 22:26:06 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 22:26:06 2019] You punch a large rat for 6 points of damage.
+[Fri Oct 04 22:26:08 2019] Deathfist Pawn hits YOU for 6 points of damage.
+[Fri Oct 04 22:26:10 2019] You punch a large rat for 6 points of damage.
+[Fri Oct 04 22:26:10 2019] You have slain a large rat!
+[Fri Oct 04 22:26:10 2019] You gain experience!!
+[Fri Oct 04 22:26:11 2019] Deathfist Pawn hits YOU for 2 points of damage.
+[Fri Oct 04 22:26:21 2019] Guard Sheg smacks the flat of his blade against the palm of his hand and says, 'You want a taste of this, Deathfist Pawn?!!'
+[Fri Oct 04 22:26:21 2019] Guard Topplo says 'You're not welcome in Freeport.'
+[Fri Oct 04 22:26:21 2019] Guard Sheg kicks Deathfist Pawn for 42 points of damage.
+[Fri Oct 04 22:26:21 2019] Deathfist Pawn has been slain by Guard Sheg!
+[Fri Oct 04 22:26:21 2019] Guard Sheg smirks and shakes his head. 'That's what you get for messing with the Freeport Militia!!'
+[Fri Oct 04 22:26:26 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Oct 04 22:26:28 2019] Lozani begins to cast a spell.
+[Fri Oct 04 22:26:30 2019] It will take about 25 more seconds to prepare your camp.
+[Fri Oct 04 22:26:35 2019] It will take about 20 more seconds to prepare your camp.
+[Fri Oct 04 22:26:40 2019] It will take about 15 more seconds to prepare your camp.
+[Fri Oct 04 22:26:45 2019] It will take about 10 more seconds to prepare your camp.
+[Fri Oct 04 22:26:50 2019] It will take about 5 more seconds to prepare your camp.
+[Fri Oct 04 23:18:28 2019] Welcome to EverQuest!
+[Fri Oct 04 23:18:28 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Fri Oct 04 23:18:28 2019] You have entered East Freeport.
+[Fri Oct 04 23:18:28 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Fri Oct 04 23:19:20 2019] a fire beetle glowers at you dubiously -- looks like quite a gamble.
+[Fri Oct 04 23:19:21 2019] a large rat glowers at you dubiously -- looks like an even fight.
+[Fri Oct 04 23:19:24 2019] Auto attack is on.
+[Fri Oct 04 23:19:24 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 23:19:24 2019] You have become better at Hand to Hand! (10)
+[Fri Oct 04 23:19:24 2019] You have become better at Dual Wield! (8)
+[Fri Oct 04 23:19:24 2019] A large rat bites YOU for 3 points of damage.
+[Fri Oct 04 23:19:26 2019] You try to kick a large rat, but miss!
+[Fri Oct 04 23:19:27 2019] A large rat bites YOU for 2 points of damage.
+[Fri Oct 04 23:19:28 2019] You punch a large rat for 1 point of damage.
+[Fri Oct 04 23:19:31 2019] A large rat bites YOU for 2 points of damage.
+[Fri Oct 04 23:19:32 2019] You punch a large rat for 6 points of damage.
+[Fri Oct 04 23:19:33 2019] You have failed to mend your wounds.
+[Fri Oct 04 23:19:33 2019] A large rat bites YOU for 2 points of damage.
+[Fri Oct 04 23:19:34 2019] You kick a large rat for 2 points of damage.
+[Fri Oct 04 23:19:36 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 23:19:36 2019] A large rat bites YOU for 4 points of damage.
+[Fri Oct 04 23:19:40 2019] You punch a large rat for 8 points of damage.
+[Fri Oct 04 23:19:40 2019] You have become better at Dodge! (6)
+[Fri Oct 04 23:19:40 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 23:19:43 2019] You try to punch a large rat, but miss!
+[Fri Oct 04 23:19:43 2019] A large rat bites YOU for 1 point of damage.
+[Fri Oct 04 23:19:44 2019] You kick a large rat for 1 point of damage.
+[Fri Oct 04 23:19:46 2019] You punch a large rat for 2 points of damage.
+[Fri Oct 04 23:19:46 2019] You have slain a large rat!
+[Fri Oct 04 23:19:46 2019] You gain experience!!
+[Fri Oct 04 23:20:27 2019] LOADING, PLEASE WAIT...
+[Fri Oct 04 23:20:34 2019] You have entered Northern Desert of Ro.
+[Fri Oct 04 23:20:55 2019] Auto attack is on.
+[Fri Oct 04 23:20:55 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:20:55 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:20:56 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:20:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:20:59 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:21:01 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Oct 04 23:21:02 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:21:05 2019] Auto attack is off.
+[Fri Oct 04 23:21:05 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:21:06 2019] Auto attack is on.
+[Fri Oct 04 23:21:06 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:21:07 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:21:07 2019] You have become better at Dodge! (7)
+[Fri Oct 04 23:21:07 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:21:10 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:21:10 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:21:10 2019] You gain experience!!
+[Fri Oct 04 23:21:12 2019] You receive 19 copper from the corpse.
+[Fri Oct 04 23:21:14 2019] --You have looted a Water Flask.--
+[Fri Oct 04 23:21:15 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:21:17 2019] You take a drink from an Water Flask.
+[Fri Oct 04 23:21:17 2019] Ahhh. That was refreshing.
+[Fri Oct 04 23:21:40 2019] a decaying skeleton regards you indifferently -- looks like an even fight.
+[Fri Oct 04 23:21:43 2019] Auto attack is on.
+[Fri Oct 04 23:21:43 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:21:43 2019] You have become better at Dodge! (8)
+[Fri Oct 04 23:21:43 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Oct 04 23:21:44 2019] You cannot see your target.
+[Fri Oct 04 23:21:46 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:21:47 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:21:49 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:21:51 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:21:52 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:21:53 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:21:54 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:21:54 2019] You have become better at Dual Wield! (9)
+[Fri Oct 04 23:21:55 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:21:58 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:21:58 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:21:58 2019] You gain experience!!
+[Fri Oct 04 23:21:59 2019] You receive 8 copper from the corpse.
+[Fri Oct 04 23:22:36 2019] a decaying skeleton regards you indifferently -- looks like an even fight.
+[Fri Oct 04 23:22:42 2019] Auto attack is on.
+[Fri Oct 04 23:22:42 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:22:42 2019] A decaying skeleton crushes YOU for 3 points of damage.
+[Fri Oct 04 23:22:43 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:22:43 2019] You have become better at Kick! (4)
+[Fri Oct 04 23:22:47 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:22:47 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:22:48 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:22:50 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:22:50 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:22:50 2019] You gain experience!!
+[Fri Oct 04 23:22:52 2019] You receive 10 copper from the corpse.
+[Fri Oct 04 23:22:53 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:22:53 2019] --You have looted a Rusty Two Handed Hammer.--
+[Fri Oct 04 23:23:13 2019] Innkeep Valon tells you, 'I'll give you 2 gold 8 silver 5 copper for the Rusty Two Handed Hammer.'
+[Fri Oct 04 23:23:14 2019] You receive 2 gold 8 silver 5 copper from Innkeep Valon for the Rusty Two Handed Hammer(s).
+[Fri Oct 04 23:23:43 2019] Auto attack is on.
+[Fri Oct 04 23:23:44 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:23:44 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:23:44 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:23:44 2019] You have become better at Kick! (5)
+[Fri Oct 04 23:23:47 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Fri Oct 04 23:23:47 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:23:50 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:23:50 2019] You have become better at Defense! (1)
+[Fri Oct 04 23:23:51 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:23:53 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:23:53 2019] You have become better at Defense! (2)
+[Fri Oct 04 23:23:54 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:23:56 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:23:58 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:23:59 2019] A decaying skeleton crushes YOU for 3 points of damage.
+[Fri Oct 04 23:23:59 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:24:02 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:24:02 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:24:05 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:24:05 2019] You have become better at Defense! (3)
+[Fri Oct 04 23:24:05 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:24:05 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:24:05 2019] You gain experience!!
+[Fri Oct 04 23:24:07 2019] You receive 16 copper from the corpse.
+[Fri Oct 04 23:24:08 2019] --You have looted a Cloth Shawl.--
+[Fri Oct 04 23:24:10 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:24:11 2019] --You have looted a Rusty Warhammer.--
+[Fri Oct 04 23:24:22 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Rusty Warhammer.'
+[Fri Oct 04 23:24:23 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Rusty Warhammer(s).
+[Fri Oct 04 23:24:31 2019] Innkeep Valon tells you, 'That'll be 2 gold 7 silver 2 copper for the Cloth Gloves.'
+[Fri Oct 04 23:24:39 2019] Innkeep Valon tells you, 'That'll be 2 gold 3 silver for the Cloth Sleeves.'
+[Fri Oct 04 23:24:47 2019] Innkeep Tozie says 'Welcome to my shop, Teaches.'
+[Fri Oct 04 23:24:55 2019] Spoolie Gee says 'Hi there Teaches, just browsing?  Have you seen the Large Sewing Kit I just got in?'
+[Fri Oct 04 23:25:33 2019] Auto attack is on.
+[Fri Oct 04 23:25:34 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:25:34 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:25:34 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:25:37 2019] You have become better at Dodge! (9)
+[Fri Oct 04 23:25:37 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:25:37 2019] You have become better at Defense! (4)
+[Fri Oct 04 23:25:37 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:25:39 2019] You have worsened your wounds!
+[Fri Oct 04 23:25:40 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:25:41 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:25:43 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:25:43 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:25:44 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:25:46 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Oct 04 23:25:48 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:25:48 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:25:48 2019] You gain experience!!
+[Fri Oct 04 23:25:49 2019] You receive 1 silver and 6 copper from the corpse.
+[Fri Oct 04 23:26:10 2019] Auto attack is on.
+[Fri Oct 04 23:26:10 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:26:10 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Oct 04 23:26:11 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:26:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:26:14 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:26:16 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:26:16 2019] You have become better at Defense! (5)
+[Fri Oct 04 23:26:18 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:26:20 2019] You have become better at Dodge! (10)
+[Fri Oct 04 23:26:20 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:26:20 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:26:21 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:26:23 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:26:25 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:26:26 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:26:28 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:26:28 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:26:28 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:26:29 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:26:32 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:26:32 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:26:32 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:26:32 2019] You gain experience!!
+[Fri Oct 04 23:26:32 2019] You have gained a level! Welcome to level 2!
+[Fri Oct 04 23:26:34 2019] You receive 6 copper from the corpse.
+[Fri Oct 04 23:28:27 2019] Guard Fintran kicks a decaying skeleton for 27 points of damage.
+[Fri Oct 04 23:28:27 2019] a decaying skeleton has been slain by Guard Fintran!
+[Fri Oct 04 23:29:42 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Fri Oct 04 23:29:45 2019] Auto attack is on.
+[Fri Oct 04 23:29:46 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:29:46 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:29:46 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:29:46 2019] You have become better at Kick! (6)
+[Fri Oct 04 23:29:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:29:49 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:29:49 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:29:49 2019] You gain experience!!
+[Fri Oct 04 23:29:50 2019] You receive 1 silver and 9 copper from the corpse.
+[Fri Oct 04 23:29:54 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:30:12 2019] Auto attack is on.
+[Fri Oct 04 23:30:13 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:30:13 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:30:13 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:30:16 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:30:16 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:30:19 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:30:20 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:30:21 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:30:22 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:30:24 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:30:25 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:30:27 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:30:28 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:30:30 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:30:31 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:30:31 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:30:34 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:30:34 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:30:37 2019] You have become better at Dodge! (11)
+[Fri Oct 04 23:30:37 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:30:38 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:30:38 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:30:40 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:30:41 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:30:41 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:30:41 2019] You gain experience!!
+[Fri Oct 04 23:30:44 2019] You receive 9 copper from the corpse.
+[Fri Oct 04 23:30:59 2019] Auto attack is on.
+[Fri Oct 04 23:30:59 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:30:59 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Fri Oct 04 23:30:59 2019] You have become better at Defense! (6)
+[Fri Oct 04 23:31:00 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:31:02 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Fri Oct 04 23:31:03 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:31:05 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:31:07 2019] You punch a decaying skeleton for 5 points of damage.
+[Fri Oct 04 23:31:08 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:31:08 2019] A decaying skeleton crushes YOU for 3 points of damage.
+[Fri Oct 04 23:31:10 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:31:11 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:31:14 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:31:14 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:31:14 2019] You gain experience!!
+[Fri Oct 04 23:31:15 2019] You receive 4 copper from the corpse.
+[Fri Oct 04 23:31:20 2019] --You have looted a Rusty Mace.--
+[Fri Oct 04 23:31:41 2019] Auto attack is on.
+[Fri Oct 04 23:31:42 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:31:42 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Fri Oct 04 23:31:42 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:31:44 2019] You have failed to mend your wounds.
+[Fri Oct 04 23:31:45 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:31:45 2019] You have become better at Offense! (6)
+[Fri Oct 04 23:31:45 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:31:45 2019] You have become better at Hand to Hand! (11)
+[Fri Oct 04 23:31:48 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:31:49 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:31:49 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:31:49 2019] You gain experience!!
+[Fri Oct 04 23:31:50 2019] You receive 7 copper from the corpse.
+[Fri Oct 04 23:31:52 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:31:52 2019] --You have looted a Rusty Scythe.--
+[Fri Oct 04 23:31:54 2019] --You have looted a Ration.--
+[Fri Oct 04 23:31:55 2019] You take a bite out of a Ration.
+[Fri Oct 04 23:31:55 2019] Ahhh. That was tasty.
+[Fri Oct 04 23:32:00 2019] Auto attack is on.
+[Fri Oct 04 23:32:00 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:32:00 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:32:01 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:32:03 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:32:04 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:32:06 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:32:07 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:32:07 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:32:07 2019] You gain experience!!
+[Fri Oct 04 23:32:09 2019] You receive 5 copper from the corpse.
+[Fri Oct 04 23:32:19 2019] Auto attack is on.
+[Fri Oct 04 23:32:19 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:32:19 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:32:19 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:32:22 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:32:22 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:32:22 2019] You have become better at Hand to Hand! (12)
+[Fri Oct 04 23:32:25 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:32:26 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:32:26 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:32:26 2019] You gain experience!!
+[Fri Oct 04 23:32:27 2019] You receive 8 copper from the corpse.
+[Fri Oct 04 23:32:29 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:32:29 2019] --You have looted a Rusty Broad Sword.--
+[Fri Oct 04 23:32:37 2019] Auto attack is on.
+[Fri Oct 04 23:32:37 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:32:37 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:32:37 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:32:40 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:32:40 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:32:43 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:32:44 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:32:46 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:32:46 2019] You have become better at Kick! (7)
+[Fri Oct 04 23:32:46 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:32:48 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:32:49 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:32:51 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:32:52 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:32:55 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:32:55 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:32:55 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:32:55 2019] You gain experience!!
+[Fri Oct 04 23:32:56 2019] You receive 6 copper from the corpse.
+[Fri Oct 04 23:32:58 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:33:19 2019] Auto attack is on.
+[Fri Oct 04 23:33:20 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:33:20 2019] You crush a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:33:20 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Fri Oct 04 23:33:20 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:33:23 2019] A decaying skeleton pierces YOU for 1 point of damage.
+[Fri Oct 04 23:33:23 2019] You punch a decaying skeleton for 5 points of damage.
+[Fri Oct 04 23:33:26 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Fri Oct 04 23:33:27 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:33:27 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:33:27 2019] You gain experience!!
+[Fri Oct 04 23:33:30 2019] You receive 1 silver and 9 copper from the corpse.
+[Fri Oct 04 23:33:31 2019] --You have looted a Rusty Spear.--
+[Fri Oct 04 23:33:33 2019] Auto attack is on.
+[Fri Oct 04 23:33:33 2019] You punch a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:33:33 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:33:34 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:33:34 2019] You have become better at Kick! (8)
+[Fri Oct 04 23:33:36 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:33:37 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:33:39 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:33:41 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:33:41 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:33:41 2019] You gain experience!!
+[Fri Oct 04 23:33:43 2019] You receive 6 copper from the corpse.
+[Fri Oct 04 23:33:44 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:33:44 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:33:59 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Rusty Spear.'
+[Fri Oct 04 23:34:00 2019] You receive 1 gold 9 silver from Innkeep Valon for the Rusty Spear(s).
+[Fri Oct 04 23:34:01 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Rusty Scythe.'
+[Fri Oct 04 23:34:02 2019] You receive 1 gold 9 silver from Innkeep Valon for the Rusty Scythe(s).
+[Fri Oct 04 23:34:02 2019] Innkeep Valon tells you, 'I'll give you 5 silver 7 copper for the Rusty Broad Sword.'
+[Fri Oct 04 23:34:04 2019] You receive 5 silver 7 copper from Innkeep Valon for the Rusty Broad Sword(s).
+[Fri Oct 04 23:34:06 2019] Innkeep Valon tells you, 'I'll give you 9 silver 5 copper for the Rusty Mace.'
+[Fri Oct 04 23:34:07 2019] You receive 9 silver 5 copper from Innkeep Valon for the Rusty Mace(s).
+[Fri Oct 04 23:34:10 2019] Innkeep Valon tells you, 'That'll be 2 gold 3 silver for the Cloth Sleeves.'
+[Fri Oct 04 23:34:32 2019] Auto attack is on.
+[Fri Oct 04 23:34:32 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:34:32 2019] You punch a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:34:32 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:34:33 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:34:35 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:34:35 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:34:38 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:34:39 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:34:39 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:34:39 2019] You gain experience!!
+[Fri Oct 04 23:34:40 2019] You receive 4 copper from the corpse.
+[Fri Oct 04 23:34:42 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:35:01 2019] Auto attack is on.
+[Fri Oct 04 23:35:02 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:02 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:35:03 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:35:05 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Fri Oct 04 23:35:05 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:35:08 2019] A decaying skeleton crushes YOU for 3 points of damage.
+[Fri Oct 04 23:35:09 2019] You punch a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:35:09 2019] You have become better at Hand to Hand! (13)
+[Fri Oct 04 23:35:11 2019] A decaying skeleton crushes YOU for 4 points of damage.
+[Fri Oct 04 23:35:11 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:35:13 2019] You try to punch a decaying skeleton, but miss!
+[Fri Oct 04 23:35:14 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:35:16 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:35:17 2019] You have become better at Dodge! (12)
+[Fri Oct 04 23:35:17 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:35:20 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:20 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:20 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Fri Oct 04 23:35:23 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:35:23 2019] You punch a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:26 2019] A decaying skeleton tries to crush YOU, but misses!
+[Fri Oct 04 23:35:27 2019] You punch a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:35:28 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:28 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:35:28 2019] You gain experience!!
+[Fri Oct 04 23:35:29 2019] You receive 14 copper from the corpse.
+[Fri Oct 04 23:35:31 2019] --You have looted a Cracked Staff.--
+[Fri Oct 04 23:35:36 2019] Auto attack is on.
+[Fri Oct 04 23:35:36 2019] You have become better at Offense! (7)
+[Fri Oct 04 23:35:36 2019] You punch a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:35:36 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:35:36 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:39 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:35:39 2019] You punch a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:35:42 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:35:43 2019] You crush a decaying skeleton for 7 points of damage.
+[Fri Oct 04 23:35:45 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:35:46 2019] You have become better at Offense! (8)
+[Fri Oct 04 23:35:46 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:35:46 2019] You crush a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:35:48 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Fri Oct 04 23:35:49 2019] You try to crush a decaying skeleton, but miss!
+[Fri Oct 04 23:35:51 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:35:53 2019] You try to crush a decaying skeleton, but miss!
+[Fri Oct 04 23:35:54 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:35:54 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:35:56 2019] You crush a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:35:56 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:35:56 2019] You gain experience!!
+[Fri Oct 04 23:35:57 2019] You receive 1 silver and 7 copper from the corpse.
+[Fri Oct 04 23:35:58 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:35:59 2019] --You have looted a Ration.--
+[Fri Oct 04 23:36:00 2019] You take a bite out of a Ration.
+[Fri Oct 04 23:36:00 2019] Ahhh. That was tasty.
+[Fri Oct 04 23:36:21 2019] Auto attack is on.
+[Fri Oct 04 23:36:21 2019] You crush a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:36:21 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:36:22 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:36:24 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:36:24 2019] You crush a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:36:27 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Fri Oct 04 23:36:27 2019] You crush a decaying skeleton for 8 points of damage.
+[Fri Oct 04 23:36:27 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:36:27 2019] You gain experience!!
+[Fri Oct 04 23:36:37 2019] You receive 12 copper from the corpse.
+[Fri Oct 04 23:36:54 2019] Auto attack is on.
+[Fri Oct 04 23:36:54 2019] You have become better at Offense! (9)
+[Fri Oct 04 23:36:54 2019] You try to crush a decaying skeleton, but miss!
+[Fri Oct 04 23:36:54 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:36:55 2019] You try to kick a decaying skeleton, but miss!
+[Fri Oct 04 23:36:57 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Fri Oct 04 23:36:57 2019] You try to crush a decaying skeleton, but miss!
+[Fri Oct 04 23:37:00 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Oct 04 23:37:01 2019] You try to crush a decaying skeleton, but miss!
+[Fri Oct 04 23:37:03 2019] You have become better at Dodge! (13)
+[Fri Oct 04 23:37:03 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:37:04 2019] You crush a decaying skeleton for 9 points of damage.
+[Fri Oct 04 23:37:06 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Fri Oct 04 23:37:07 2019] You crush a decaying skeleton for 4 points of damage.
+[Fri Oct 04 23:37:09 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:37:10 2019] You crush a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:37:12 2019] A decaying skeleton tries to hit YOU, but misses!
+[Fri Oct 04 23:37:13 2019] You crush a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:37:13 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:37:13 2019] You gain experience!!
+[Fri Oct 04 23:37:21 2019] You receive 6 copper from the corpse.
+[Fri Oct 04 23:37:48 2019] Auto attack is on.
+[Fri Oct 04 23:37:48 2019] Your target is too far away, get closer!
+[Fri Oct 04 23:37:48 2019] Your target is too far away, get closer!
+[Fri Oct 04 23:37:48 2019] Your target is too far away, get closer!
+[Fri Oct 04 23:37:48 2019] Your target is too far away, get closer!
+[Fri Oct 04 23:37:50 2019] You kick a decaying skeleton for 1 point of damage.
+[Fri Oct 04 23:37:50 2019] You have become better at Kick! (9)
+[Fri Oct 04 23:37:50 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:37:51 2019] You try to crush a decaying skeleton, but miss!
+[Fri Oct 04 23:37:53 2019] You have become better at Dodge! (14)
+[Fri Oct 04 23:37:53 2019] A decaying skeleton tries to slash YOU, but misses!
+[Fri Oct 04 23:37:54 2019] You have worsened your wounds!
+[Fri Oct 04 23:37:55 2019] You crush a decaying skeleton for 3 points of damage.
+[Fri Oct 04 23:37:56 2019] A decaying skeleton slashes YOU for 2 points of damage.
+[Fri Oct 04 23:37:58 2019] You crush a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:37:58 2019] You have become better at 1H Blunt! (1)
+[Fri Oct 04 23:37:58 2019] You kick a decaying skeleton for 2 points of damage.
+[Fri Oct 04 23:37:59 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Fri Oct 04 23:38:01 2019] You crush a decaying skeleton for 6 points of damage.
+[Fri Oct 04 23:38:01 2019] You have slain a decaying skeleton!
+[Fri Oct 04 23:38:01 2019] You gain experience!!
+[Fri Oct 04 23:38:03 2019] You receive 6 copper from the corpse.
+[Fri Oct 04 23:38:04 2019] --You have looted a Bone Chips.--
+[Fri Oct 04 23:38:05 2019] --You have looted a Rusty Halberd.--
+[Fri Oct 04 23:39:10 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Oct 04 23:39:14 2019] It will take about 25 more seconds to prepare your camp.
+[Fri Oct 04 23:39:19 2019] It will take about 20 more seconds to prepare your camp.
+[Fri Oct 04 23:39:24 2019] It will take about 15 more seconds to prepare your camp.
+[Fri Oct 04 23:39:29 2019] It will take about 10 more seconds to prepare your camp.
+[Fri Oct 04 23:39:34 2019] It will take about 5 more seconds to prepare your camp.
+[Sat Oct 05 00:04:05 2019] Welcome to EverQuest!
+[Sat Oct 05 00:04:05 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Sat Oct 05 00:04:05 2019] You have entered Northern Desert of Ro.
+[Sat Oct 05 00:04:05 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Sat Oct 05 00:04:12 2019] Guard Stoutman bashes a decaying skeleton for 27 points of damage.
+[Sat Oct 05 00:04:12 2019] a decaying skeleton has been slain by Guard Stoutman!
+[Sat Oct 05 00:04:43 2019] Auto attack is on.
+[Sat Oct 05 00:04:43 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:04:43 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:04:43 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:04:43 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:04:44 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:04:44 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:04:46 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:04:47 2019] You have become better at Dodge! (15)
+[Sat Oct 05 00:04:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:04:50 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:04:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:04:53 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:04:53 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:04:54 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:04:56 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:04:57 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:05:03 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:05:03 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:05:03 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:05:03 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:05:03 2019] You gain experience!!
+[Sat Oct 05 00:05:03 2019] You must first click on the being you wish to attack!
+[Sat Oct 05 00:05:10 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:05:14 2019] a desert tarantula regards you indifferently -- what would you like your tombstone to say?
+[Sat Oct 05 00:05:19 2019] Auto attack is on.
+[Sat Oct 05 00:05:19 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:05:19 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:05:20 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:05:20 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:05:21 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:05:21 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Sat Oct 05 00:05:23 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:05:24 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:05:26 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:05:27 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:05:29 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:05:30 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:05:31 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:05:33 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:05:33 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:05:36 2019] You have become better at Offense! (10)
+[Sat Oct 05 00:05:36 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:05:36 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:05:38 2019] You punch a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:05:39 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:05:39 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:05:39 2019] You gain experience!!
+[Sat Oct 05 00:05:41 2019] You receive 19 copper from the corpse.
+[Sat Oct 05 00:05:43 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:05:55 2019] Auto attack is on.
+[Sat Oct 05 00:05:55 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:05:55 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:05:57 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:05:57 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:05:58 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:06:00 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Sat Oct 05 00:06:02 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:06:03 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:06:05 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:06:05 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:06:06 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:06:08 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:06:09 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:06:11 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:06:12 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:06:13 2019] You have become better at Dual Wield! (10)
+[Sat Oct 05 00:06:13 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:06:14 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:06:15 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Sat Oct 05 00:06:17 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:06:17 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:06:17 2019] You gain experience!!
+[Sat Oct 05 00:06:19 2019] You receive 2 copper from the corpse.
+[Sat Oct 05 00:06:20 2019] --You have looted a Splintering Club.--
+[Sat Oct 05 00:06:21 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:06:49 2019] Auto attack is on.
+[Sat Oct 05 00:06:49 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:06:49 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:06:49 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:06:49 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:06:50 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:06:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:06:51 2019] A coyote bites YOU for 3 points of damage.
+[Sat Oct 05 00:06:51 2019] You have become better at Defense! (7)
+[Sat Oct 05 00:06:52 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:06:53 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:06:54 2019] Auto attack is off.
+[Sat Oct 05 00:06:54 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:06:57 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:06:58 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:07:01 2019] Guard Fintran bashes a decaying skeleton for 27 points of damage.
+[Sat Oct 05 00:07:01 2019] a decaying skeleton has been slain by Guard Fintran!
+[Sat Oct 05 00:07:01 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:07:03 2019] Auto attack is on.
+[Sat Oct 05 00:07:03 2019] Guard Stoutman bashes a coyote for 27 points of damage.
+[Sat Oct 05 00:07:03 2019] a coyote has been slain by Guard Stoutman!
+[Sat Oct 05 00:07:13 2019] Auto attack is on.
+[Sat Oct 05 00:07:14 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:07:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:07:14 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:07:16 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:07:17 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:07:19 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:07:20 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:07:22 2019] You have worsened your wounds!
+[Sat Oct 05 00:07:22 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:07:22 2019] You have become better at 1H Blunt! (2)
+[Sat Oct 05 00:07:23 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:07:23 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:07:25 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:07:25 2019] You have become better at 1H Blunt! (3)
+[Sat Oct 05 00:07:26 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:07:28 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:07:28 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:07:28 2019] You gain experience!!
+[Sat Oct 05 00:07:30 2019] You receive 1 silver and 8 copper from the corpse.
+[Sat Oct 05 00:07:35 2019] Auto attack is on.
+[Sat Oct 05 00:07:36 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:07:36 2019] You have become better at Dual Wield! (11)
+[Sat Oct 05 00:07:36 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:07:37 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:07:39 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:07:39 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:07:41 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:07:42 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:07:44 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:07:45 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:07:45 2019] You have become better at Defense! (8)
+[Sat Oct 05 00:07:45 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:07:47 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:07:48 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Sat Oct 05 00:07:50 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:07:50 2019] You have become better at Dual Wield! (12)
+[Sat Oct 05 00:07:51 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:07:53 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:07:53 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:07:53 2019] You gain experience!!
+[Sat Oct 05 00:07:55 2019] You receive 19 copper from the corpse.
+[Sat Oct 05 00:07:57 2019] --You have looted a Cloth Wristband.--
+[Sat Oct 05 00:08:19 2019] Innkeep Valon tells you, 'I'll give you 3 gold 4 copper for the Rusty Halberd.'
+[Sat Oct 05 00:08:21 2019] You receive 3 gold 4 copper from Innkeep Valon for the Rusty Halberd(s).
+[Sat Oct 05 00:08:21 2019] Innkeep Valon tells you, 'I'll give you 2 gold 6 silver 6 copper for the Splintering Club.'
+[Sat Oct 05 00:08:23 2019] You receive 2 gold 6 silver 6 copper from Innkeep Valon for the Splintering Club(s).
+[Sat Oct 05 00:08:29 2019] Innkeep Valon tells you, 'That'll be 1 gold 8 silver 8 copper for the Cloth Wristband.'
+[Sat Oct 05 00:08:34 2019] You give 1 gold 8 silver 8 copper to Innkeep Valon.
+[Sat Oct 05 00:08:36 2019] Innkeep Valon tells you, 'That'll be 2 gold 3 silver for the Cloth Sleeves.'
+[Sat Oct 05 00:08:38 2019] You give 2 gold 3 silver to Innkeep Valon.
+[Sat Oct 05 00:08:39 2019] Innkeep Valon tells you, 'That'll be 2 gold 7 silver 2 copper for the Cloth Gloves.'
+[Sat Oct 05 00:08:42 2019] You give 2 gold 7 silver 2 copper to Innkeep Valon.
+[Sat Oct 05 00:08:44 2019] Innkeep Valon tells you, 'That'll be 1 gold 6 silver 7 copper for the Cloth Choker.'
+[Sat Oct 05 00:08:46 2019] You give 1 gold 6 silver 7 copper to Innkeep Valon.
+[Sat Oct 05 00:08:48 2019] Innkeep Valon tells you, 'That'll be 2 gold 7 silver 2 copper for the Cloth Cape.'
+[Sat Oct 05 00:08:50 2019] You give 2 gold 7 silver 2 copper to Innkeep Valon.
+[Sat Oct 05 00:09:37 2019] Consider whom?
+[Sat Oct 05 00:09:39 2019] a moss snake looks your way apprehensively -- looks like you would have the upper hand.
+[Sat Oct 05 00:09:39 2019] Auto attack is on.
+[Sat Oct 05 00:09:40 2019] You crush a moss snake for 8 points of damage.
+[Sat Oct 05 00:09:40 2019] A moss snake tries to bite YOU, but misses!
+[Sat Oct 05 00:09:43 2019] A moss snake tries to bite YOU, but misses!
+[Sat Oct 05 00:09:43 2019] You crush a moss snake for 6 points of damage.
+[Sat Oct 05 00:09:43 2019] You have become better at Dual Wield! (13)
+[Sat Oct 05 00:09:46 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:09:46 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:09:47 2019] A moss snake bites YOU for 3 points of damage.
+[Sat Oct 05 00:09:47 2019] You cannot see your target.
+[Sat Oct 05 00:09:49 2019] You try to kick a moss snake, but miss!
+[Sat Oct 05 00:09:49 2019] You crush a moss snake for 2 points of damage.
+[Sat Oct 05 00:09:53 2019] You crush a moss snake for 5 points of damage.
+[Sat Oct 05 00:09:53 2019] You have slain a moss snake!
+[Sat Oct 05 00:09:53 2019] You gain experience!!
+[Sat Oct 05 00:10:07 2019] Auto attack is on.
+[Sat Oct 05 00:10:07 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:10:07 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:10:08 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:10:10 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:10:10 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:10:11 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:13 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:10:13 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:10:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:16 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:10:16 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:10:16 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:10:16 2019] You gain experience!!
+[Sat Oct 05 00:10:17 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:18 2019] Auto attack is on.
+[Sat Oct 05 00:10:19 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:10:20 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:10:22 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:10:23 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:25 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:10:25 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:10:26 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:28 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:10:29 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:10:29 2019] You have become better at Defense! (9)
+[Sat Oct 05 00:10:31 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:10:32 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:10:33 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:10:35 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:10:35 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:38 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:10:38 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:41 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:41 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:10:42 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:10:44 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:10:44 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:10:44 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:10:44 2019] You gain experience!!
+[Sat Oct 05 00:10:46 2019] You receive 14 copper from the corpse.
+[Sat Oct 05 00:10:47 2019] --You have looted a Rusty Long Sword.--
+[Sat Oct 05 00:10:49 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:10:50 2019] --You have looted a Water Flask.--
+[Sat Oct 05 00:10:51 2019] You take a drink from an Water Flask.
+[Sat Oct 05 00:10:51 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:10:52 2019] Someone is already looting that corpse.
+[Sat Oct 05 00:10:53 2019] You receive 1 silver and 4 copper from the corpse.
+[Sat Oct 05 00:11:06 2019] Auto attack is on.
+[Sat Oct 05 00:11:06 2019] You cannot see your target.
+[Sat Oct 05 00:11:06 2019] You cannot see your target.
+[Sat Oct 05 00:11:06 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:11:06 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:11:06 2019] You cannot see your target.
+[Sat Oct 05 00:11:09 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:11:09 2019] You have become better at Defense! (10)
+[Sat Oct 05 00:11:09 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:11:12 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:11:12 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:11:15 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:16 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:11:16 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:11:18 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:11:19 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:11:21 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:22 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:11:24 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:25 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:11:26 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:11:27 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:11:28 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:11:28 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:11:28 2019] You gain experience!!
+[Sat Oct 05 00:11:28 2019] You have become better at 1H Blunt! (4)
+[Sat Oct 05 00:11:31 2019] You receive 15 copper from the corpse.
+[Sat Oct 05 00:11:32 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:11:38 2019] Auto attack is on.
+[Sat Oct 05 00:11:38 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:11:38 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:39 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:11:41 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:41 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:11:44 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:45 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:11:45 2019] You have become better at Dual Wield! (14)
+[Sat Oct 05 00:11:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:11:47 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:11:48 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:11:48 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:11:48 2019] You gain experience!!
+[Sat Oct 05 00:11:50 2019] You receive 11 copper from the corpse.
+[Sat Oct 05 00:11:51 2019] --You have looted a Bottle of Kalish.--
+[Sat Oct 05 00:11:52 2019] Glug, glug, glug...  You take a swig of Bottle of Kalish.
+[Sat Oct 05 00:11:52 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:11:54 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:12:12 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:12:16 2019] Auto attack is on.
+[Sat Oct 05 00:12:16 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:12:16 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:12:17 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:12:17 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:12:17 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:12:17 2019] You have become better at Kick! (10)
+[Sat Oct 05 00:12:20 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:12:20 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:12:23 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:12:23 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:12:26 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:12:26 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:12:26 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:12:29 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:12:29 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:12:32 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:12:33 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:12:33 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:12:33 2019] You gain experience!!
+[Sat Oct 05 00:12:34 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:12:35 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:12:40 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:12:42 2019] Auto attack is on.
+[Sat Oct 05 00:12:43 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:12:43 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:12:43 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:12:46 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:12:46 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:12:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:12:49 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:12:49 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:12:49 2019] You gain experience!!
+[Sat Oct 05 00:12:51 2019] You receive 8 copper from the corpse.
+[Sat Oct 05 00:12:52 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:12:53 2019] --You have looted a Iron Ration.--
+[Sat Oct 05 00:12:54 2019] You could not possibly eat any more, you would explode!
+[Sat Oct 05 00:13:12 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Rusty Long Sword.'
+[Sat Oct 05 00:13:13 2019] You receive 1 gold 9 silver from Innkeep Valon for the Rusty Long Sword(s).
+[Sat Oct 05 00:13:14 2019] Innkeep Valon tells you, 'I'll give you 1 gold 4 silver 2 copper per Iron Ration'
+[Sat Oct 05 00:13:15 2019] You receive 1 gold 4 silver 2 copper from Innkeep Valon for the Iron Ration(s).
+[Sat Oct 05 00:13:16 2019] Guard Stoutman bashes a decaying skeleton for 27 points of damage.
+[Sat Oct 05 00:13:16 2019] a decaying skeleton has been slain by Guard Stoutman!
+[Sat Oct 05 00:13:23 2019] Innkeep Valon tells you, 'That'll be 5 silver 2 copper for the Small Lantern.'
+[Sat Oct 05 00:13:27 2019] Innkeep Valon tells you, 'That'll be 1 silver for the Torch.'
+[Sat Oct 05 00:13:31 2019] Innkeep Tozie says 'Hello there, Teaches. How about a nice Bottle?'
+[Sat Oct 05 00:13:35 2019] Innkeep Tozie tells you, 'That'll be 2 gold 9 copper for the Cloth Cap.'
+[Sat Oct 05 00:13:38 2019] You give 2 gold 9 copper to Innkeep Tozie.
+[Sat Oct 05 00:13:39 2019] Innkeep Tozie tells you, 'That'll be 1 gold 6 silver 7 copper for the Cloth Veil.'
+[Sat Oct 05 00:13:40 2019] You give 1 gold 6 silver 7 copper to Innkeep Tozie.
+[Sat Oct 05 00:13:52 2019] Spoolie Gee says 'Hello there, Teaches. How about a nice Gorget Pattern?'
+[Sat Oct 05 00:13:54 2019] Spoolie Gee tells you, 'That'll be 2 gold 7 silver 2 copper for the Cloth Sandals.'
+[Sat Oct 05 00:13:56 2019] You give 2 gold 7 silver 2 copper to Spoolie Gee.
+[Sat Oct 05 00:13:58 2019] Spoolie Gee tells you, 'That'll be 3 gold 5 silver 6 copper for the Cloth Pants.'
+[Sat Oct 05 00:13:59 2019] You give 3 gold 5 silver 6 copper to Spoolie Gee.
+[Sat Oct 05 00:14:10 2019] Spoolie Gee tells you, 'That'll be 2 gold 9 copper for the Worn Great Staff.'
+[Sat Oct 05 00:14:21 2019] Spoolie Gee says 'Hi there Teaches, just browsing?  Have you seen the Cloth Wristband I just got in?'
+[Sat Oct 05 00:14:41 2019] Auto attack is on.
+[Sat Oct 05 00:14:41 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:14:41 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:14:42 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:14:43 2019] You have failed to mend your wounds.
+[Sat Oct 05 00:14:43 2019] You have become better at Mend! (3)
+[Sat Oct 05 00:14:44 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:14:45 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:14:45 2019] You have become better at 1H Blunt! (5)
+[Sat Oct 05 00:14:48 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:14:48 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:14:50 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:14:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:14:51 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:14:54 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:14:54 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:14:54 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:14:54 2019] You gain experience!!
+[Sat Oct 05 00:14:56 2019] You receive 11 copper from the corpse.
+[Sat Oct 05 00:15:00 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:15:05 2019] Auto attack is on.
+[Sat Oct 05 00:15:05 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:15:05 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Sat Oct 05 00:15:06 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:15:08 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Sat Oct 05 00:15:08 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:15:11 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Sat Oct 05 00:15:11 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:15:11 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:15:12 2019] You gain experience!!
+[Sat Oct 05 00:15:14 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:15:15 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:15:16 2019] --You have looted a Rusty Mace.--
+[Sat Oct 05 00:15:31 2019] Auto attack is on.
+[Sat Oct 05 00:15:31 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:15:31 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:15:32 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:15:34 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:15:34 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:15:34 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:15:34 2019] You gain experience!!
+[Sat Oct 05 00:15:36 2019] You receive 1 copper from the corpse.
+[Sat Oct 05 00:15:37 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:15:44 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:15:50 2019] Auto attack is on.
+[Sat Oct 05 00:15:50 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:15:50 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Sat Oct 05 00:15:50 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:15:53 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:15:53 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:15:56 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:15:56 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:15:56 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:15:56 2019] You gain experience!!
+[Sat Oct 05 00:15:58 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:16:26 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:16:28 2019] Auto attack is on.
+[Sat Oct 05 00:16:29 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:16:29 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:16:29 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:16:32 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:16:32 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:16:35 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:16:35 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:16:35 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:16:35 2019] You gain experience!!
+[Sat Oct 05 00:16:36 2019] You receive 1 silver and 7 copper from the corpse.
+[Sat Oct 05 00:16:38 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:16:42 2019] Auto attack is on.
+[Sat Oct 05 00:16:42 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:16:42 2019] You have become better at 1H Blunt! (6)
+[Sat Oct 05 00:16:42 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:16:43 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:16:45 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:16:46 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:16:48 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:16:49 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:16:51 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:16:52 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:16:53 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:16:54 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:16:55 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:16:55 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:16:55 2019] You gain experience!!
+[Sat Oct 05 00:16:57 2019] You receive 19 copper from the corpse.
+[Sat Oct 05 00:16:58 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:16:59 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:17:04 2019] Auto attack is on.
+[Sat Oct 05 00:17:04 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:17:04 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:17:05 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:17:07 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:17:07 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:17:10 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:17:11 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:17:13 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Sat Oct 05 00:17:14 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:17:14 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:17:16 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:17:17 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:17:17 2019] You have become better at 1H Blunt! (7)
+[Sat Oct 05 00:17:19 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:17:20 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:17:20 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:17:20 2019] You gain experience!!
+[Sat Oct 05 00:17:22 2019] You receive 19 copper from the corpse.
+[Sat Oct 05 00:17:24 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:17:47 2019] Auto attack is on.
+[Sat Oct 05 00:17:48 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:17:48 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:17:48 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:17:51 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:17:51 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:17:51 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:17:51 2019] You gain experience!!
+[Sat Oct 05 00:17:52 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:17:54 2019] --You have looted a Rusty Two Handed Sword.--
+[Sat Oct 05 00:17:55 2019] --You have looted a Cloth Shawl.--
+[Sat Oct 05 00:17:56 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:18:22 2019] Auto attack is on.
+[Sat Oct 05 00:18:23 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:18:23 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:18:23 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:18:23 2019] You have become better at Kick! (11)
+[Sat Oct 05 00:18:26 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:18:26 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:18:29 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:18:29 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:18:32 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Sat Oct 05 00:18:32 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:18:32 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:18:32 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:18:32 2019] You gain experience!!
+[Sat Oct 05 00:18:34 2019] You receive 1 silver and 6 copper from the corpse.
+[Sat Oct 05 00:18:35 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:18:36 2019] --You have looted a Splintering Club.--
+[Sat Oct 05 00:18:38 2019] Error: OP_LootRequest: Corpse not found (ent = 0)
+[Sat Oct 05 00:18:49 2019] Auto attack is on.
+[Sat Oct 05 00:18:49 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:18:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:18:50 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:18:52 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:18:52 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:18:52 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:18:55 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:18:56 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:18:58 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:18:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:18:59 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:18:59 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:18:59 2019] You gain experience!!
+[Sat Oct 05 00:19:01 2019] You receive 1 silver and 2 copper from the corpse.
+[Sat Oct 05 00:19:16 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Cloth Shawl.'
+[Sat Oct 05 00:19:18 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Cloth Shawl(s).
+[Sat Oct 05 00:19:19 2019] Innkeep Valon tells you, 'I'll give you 2 gold 8 silver 5 copper for the Rusty Two Handed Sword.'
+[Sat Oct 05 00:19:20 2019] You receive 2 gold 8 silver 5 copper from Innkeep Valon for the Rusty Two Handed Sword(s).
+[Sat Oct 05 00:19:23 2019] Innkeep Valon tells you, 'I'll give you 9 silver 5 copper for the Rusty Mace.'
+[Sat Oct 05 00:19:25 2019] You receive 9 silver 5 copper from Innkeep Valon for the Rusty Mace(s).
+[Sat Oct 05 00:19:26 2019] Innkeep Valon tells you, 'I'll give you 2 gold 6 silver 6 copper for the Splintering Club.'
+[Sat Oct 05 00:19:28 2019] You receive 2 gold 6 silver 6 copper from Innkeep Valon for the Splintering Club(s).
+[Sat Oct 05 00:19:35 2019] Innkeep Tozie says 'Greetings, Teaches. You look like you could use a Bottle.'
+[Sat Oct 05 00:20:04 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:20:07 2019] Auto attack is on.
+[Sat Oct 05 00:20:07 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:07 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:08 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:20:08 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:20:10 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:20:11 2019] You have become better at Dual Wield! (15)
+[Sat Oct 05 00:20:11 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:20:14 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:20:14 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:20:16 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:20:16 2019] You have become better at Kick! (12)
+[Sat Oct 05 00:20:17 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:20:17 2019] A decaying skeleton slashes YOU for 2 points of damage.
+[Sat Oct 05 00:20:20 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:20:20 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:20:23 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:20:23 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:20:25 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:20:25 2019] You have become better at Kick! (13)
+[Sat Oct 05 00:20:26 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:20:26 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:20:29 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:20:29 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:20:29 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:20:29 2019] You gain experience!!
+[Sat Oct 05 00:20:31 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:20:32 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:20:33 2019] --You have looted a Rusty Two Handed Sword.--
+[Sat Oct 05 00:20:45 2019] Auto attack is on.
+[Sat Oct 05 00:20:45 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:45 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:45 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:45 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:46 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:20:46 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:20:48 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:20:48 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:48 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:20:48 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:20:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:20:51 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:20:51 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:20:52 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:20:53 2019] You have worsened your wounds!
+[Sat Oct 05 00:20:54 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:20:54 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:20:54 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:20:54 2019] You gain experience!!
+[Sat Oct 05 00:20:55 2019] You must first click on the being you wish to attack!
+[Sat Oct 05 00:20:56 2019] Auto attack is on.
+[Sat Oct 05 00:20:57 2019] A coyote bites YOU for 1 point of damage.
+[Sat Oct 05 00:20:58 2019] You try to crush a coyote, but miss!
+[Sat Oct 05 00:20:58 2019] a coyote glares at you threateningly -- looks like you would have the upper hand.
+[Sat Oct 05 00:21:00 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:21:00 2019] You have become better at Dual Wield! (16)
+[Sat Oct 05 00:21:01 2019] You crush a coyote for 9 points of damage.
+[Sat Oct 05 00:21:03 2019] A coyote bites YOU for 2 points of damage.
+[Sat Oct 05 00:21:04 2019] You kick a coyote for 2 points of damage.
+[Sat Oct 05 00:21:04 2019] You try to crush a coyote, but miss!
+[Sat Oct 05 00:21:06 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:21:07 2019] You try to crush a coyote, but miss!
+[Sat Oct 05 00:21:07 2019] You have become better at 1H Blunt! (8)
+[Sat Oct 05 00:21:09 2019] A coyote bites YOU for 1 point of damage.
+[Sat Oct 05 00:21:10 2019] You crush a coyote for 4 points of damage.
+[Sat Oct 05 00:21:13 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:21:14 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:21:14 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:21:14 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:21:14 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:21:17 2019] You crush a coyote for 1 point of damage.
+[Sat Oct 05 00:21:20 2019] You cannot see your target.
+[Sat Oct 05 00:21:23 2019] You crush a coyote for 4 points of damage.
+[Sat Oct 05 00:21:23 2019] You have slain a coyote!
+[Sat Oct 05 00:21:23 2019] You gain experience!!
+[Sat Oct 05 00:21:25 2019] You receive 7 copper from the corpse.
+[Sat Oct 05 00:21:27 2019] --You have looted a Water Flask.--
+[Sat Oct 05 00:21:27 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:21:29 2019] You could not possibly drink any more, you would explode!
+[Sat Oct 05 00:21:34 2019] Auto attack is on.
+[Sat Oct 05 00:21:35 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:21:35 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:21:35 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:21:38 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:21:38 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:21:41 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:21:41 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:21:41 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:21:41 2019] You gain experience!!
+[Sat Oct 05 00:21:42 2019] You receive 15 copper from the corpse.
+[Sat Oct 05 00:21:44 2019] --You have looted a Cloth Cap.--
+[Sat Oct 05 00:21:44 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:21:49 2019] Auto attack is on.
+[Sat Oct 05 00:21:50 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:21:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:21:50 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:21:53 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:21:53 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:21:56 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:21:56 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:21:56 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:21:56 2019] You gain experience!!
+[Sat Oct 05 00:21:57 2019] You receive 1 silver and 1 copper from the corpse.
+[Sat Oct 05 00:22:01 2019] Auto attack is on.
+[Sat Oct 05 00:22:01 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:22:01 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:22:02 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:22:04 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:22:05 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:22:07 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:22:08 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:22:10 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:22:11 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:22:11 2019] You have become better at Kick! (14)
+[Sat Oct 05 00:22:11 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:22:11 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:22:11 2019] You gain experience!!
+[Sat Oct 05 00:22:13 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:22:15 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:22:29 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:22:32 2019] Auto attack is on.
+[Sat Oct 05 00:22:32 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:22:32 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:22:33 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:22:33 2019] You have become better at Kick! (15)
+[Sat Oct 05 00:22:35 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:22:35 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:22:38 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:22:39 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:22:41 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:22:41 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:22:42 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:22:42 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:22:42 2019] You gain experience!!
+[Sat Oct 05 00:22:44 2019] You receive 11 copper from the corpse.
+[Sat Oct 05 00:22:50 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:22:55 2019] Auto attack is on.
+[Sat Oct 05 00:22:55 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:22:55 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:22:56 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:22:56 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:22:58 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:22:59 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:23:01 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:23:02 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:23:04 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:23:05 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:23:05 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:23:05 2019] You gain experience!!
+[Sat Oct 05 00:23:06 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:23:07 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:23:08 2019] --You have looted a Rusty Bastard Sword.--
+[Sat Oct 05 00:23:29 2019] Innkeep Valon says 'Hello there, Teaches. How about a nice Muffin?'
+[Sat Oct 05 00:23:30 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Cloth Cap.'
+[Sat Oct 05 00:23:32 2019] You receive 1 gold 9 silver from Innkeep Valon for the Cloth Cap(s).
+[Sat Oct 05 00:23:34 2019] Innkeep Valon tells you, 'I'll give you 2 gold 2 silver 8 copper for the Rusty Bastard Sword.'
+[Sat Oct 05 00:23:35 2019] You receive 2 gold 2 silver 8 copper from Innkeep Valon for the Rusty Bastard Sword(s).
+[Sat Oct 05 00:23:36 2019] Innkeep Valon tells you, 'I'll give you 2 gold 8 silver 5 copper for the Rusty Two Handed Sword.'
+[Sat Oct 05 00:23:38 2019] You receive 2 gold 8 silver 5 copper from Innkeep Valon for the Rusty Two Handed Sword(s).
+[Sat Oct 05 00:23:39 2019] You could not possibly drink any more, you would explode!
+[Sat Oct 05 00:23:40 2019] Innkeep Valon tells you, 'I'll give you 9 copper per Water Flask'
+[Sat Oct 05 00:23:42 2019] You receive 9 copper from Innkeep Valon for the Water Flask(s).
+[Sat Oct 05 00:23:51 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:23:52 2019] Auto attack is on.
+[Sat Oct 05 00:23:53 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:23:53 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:23:53 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:23:56 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:23:56 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:23:56 2019] You punch a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:23:59 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:23:59 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:23:59 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:23:59 2019] You gain experience!!
+[Sat Oct 05 00:24:01 2019] You receive 1 silver from the corpse.
+[Sat Oct 05 00:24:14 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:24:19 2019] Auto attack is on.
+[Sat Oct 05 00:24:19 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:24:19 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:24:19 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:24:22 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:24:22 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:24:25 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:24:25 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:24:25 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:24:25 2019] You gain experience!!
+[Sat Oct 05 00:24:27 2019] You receive 1 silver and 7 copper from the corpse.
+[Sat Oct 05 00:24:28 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:24:30 2019] Someone is already looting that corpse.
+[Sat Oct 05 00:24:39 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:24:43 2019] Auto attack is on.
+[Sat Oct 05 00:24:43 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:24:43 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Sat Oct 05 00:24:44 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:24:46 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:24:46 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:24:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:24:49 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:24:52 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:24:52 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:24:52 2019] You gain experience!!
+[Sat Oct 05 00:24:54 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:25:09 2019] Auto attack is on.
+[Sat Oct 05 00:25:10 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:25:10 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:25:10 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:25:13 2019] A decaying skeleton hits YOU for 4 points of damage.
+[Sat Oct 05 00:25:13 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:25:13 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:25:13 2019] You gain experience!!
+[Sat Oct 05 00:25:14 2019] You receive 1 silver and 6 copper from the corpse.
+[Sat Oct 05 00:25:15 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:25:25 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:25:30 2019] Auto attack is on.
+[Sat Oct 05 00:25:30 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:25:30 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:25:30 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:25:33 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:25:33 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:25:36 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:25:36 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:25:36 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:25:36 2019] You gain experience!!
+[Sat Oct 05 00:25:38 2019] You receive 15 copper from the corpse.
+[Sat Oct 05 00:25:39 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:25:47 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:25:54 2019] Auto attack is on.
+[Sat Oct 05 00:25:54 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:25:54 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:25:54 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:25:57 2019] A decaying skeleton tries to hit YOU, but YOU dodge!
+[Sat Oct 05 00:25:57 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:25:57 2019] You have become better at 1H Blunt! (9)
+[Sat Oct 05 00:26:00 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:26:00 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:26:01 2019] You have become better at Dual Wield! (17)
+[Sat Oct 05 00:26:02 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:26:03 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:26:03 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:26:03 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:26:03 2019] You gain experience!!
+[Sat Oct 05 00:26:05 2019] You receive 18 copper from the corpse.
+[Sat Oct 05 00:26:06 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:26:07 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:26:14 2019] Teaches regards you indifferently -- looks like an even fight.
+[Sat Oct 05 00:26:16 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:26:18 2019] Auto attack is on.
+[Sat Oct 05 00:26:18 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:26:18 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:26:18 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:26:21 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:26:21 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:26:22 2019] You have become better at Dual Wield! (18)
+[Sat Oct 05 00:26:24 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:26:24 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:26:27 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:26:28 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:26:28 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:26:28 2019] You gain experience!!
+[Sat Oct 05 00:26:55 2019] You receive 11 copper from the corpse.
+[Sat Oct 05 00:27:53 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:27:58 2019] Auto attack is on.
+[Sat Oct 05 00:27:58 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:27:58 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:27:59 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:27:59 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:27:59 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:27:59 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:28:02 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:28:02 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:28:05 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:28:05 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:28:06 2019] You have failed to mend your wounds.
+[Sat Oct 05 00:28:07 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:28:08 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:28:08 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:28:11 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:28:11 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:28:11 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:28:11 2019] You gain experience!!
+[Sat Oct 05 00:28:13 2019] You receive 3 copper from the corpse.
+[Sat Oct 05 00:28:15 2019] --You have looted a Loaf of Bread.--
+[Sat Oct 05 00:28:16 2019] You could not possibly eat any more, you would explode!
+[Sat Oct 05 00:28:30 2019] Auto attack is on.
+[Sat Oct 05 00:28:31 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:28:31 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:28:31 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:28:34 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:28:34 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:28:34 2019] You have become better at 1H Blunt! (10)
+[Sat Oct 05 00:28:37 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:28:37 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:28:38 2019] You have become better at Dual Wield! (19)
+[Sat Oct 05 00:28:39 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:28:40 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:28:40 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:28:40 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:28:40 2019] You gain experience!!
+[Sat Oct 05 00:28:42 2019] You receive 2 copper from the corpse.
+[Sat Oct 05 00:28:43 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:28:51 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:28:55 2019] Auto attack is on.
+[Sat Oct 05 00:28:55 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:28:55 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:28:58 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:28:58 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:28:58 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:29:01 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:29:02 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:29:02 2019] You have become better at Dual Wield! (20)
+[Sat Oct 05 00:29:04 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:29:05 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:29:05 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:29:05 2019] You gain experience!!
+[Sat Oct 05 00:29:06 2019] You receive 1 silver and 4 copper from the corpse.
+[Sat Oct 05 00:29:07 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:29:13 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:29:21 2019] Auto attack is on.
+[Sat Oct 05 00:29:21 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:29:21 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:29:21 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:29:24 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:29:24 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:29:24 2019] You have become better at Dual Wield! (21)
+[Sat Oct 05 00:29:24 2019] You punch a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:29:24 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:29:24 2019] You gain experience!!
+[Sat Oct 05 00:29:26 2019] You receive 6 copper from the corpse.
+[Sat Oct 05 00:29:28 2019] --You have looted a Rusty Long Sword.--
+[Sat Oct 05 00:29:54 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:29:56 2019] Auto attack is on.
+[Sat Oct 05 00:29:56 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:29:56 2019] You have become better at 1H Blunt! (11)
+[Sat Oct 05 00:29:56 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:29:57 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:29:57 2019] A coyote bites YOU for 1 point of damage.
+[Sat Oct 05 00:29:59 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:30:00 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:30:00 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:30:02 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:30:03 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:30:03 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:30:03 2019] You gain experience!!
+[Sat Oct 05 00:30:03 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:30:04 2019] Auto attack is on.
+[Sat Oct 05 00:30:05 2019] You kick a coyote for 1 point of damage.
+[Sat Oct 05 00:30:06 2019] You crush a coyote for 6 points of damage.
+[Sat Oct 05 00:30:06 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:30:09 2019] You crush a coyote for 3 points of damage.
+[Sat Oct 05 00:30:09 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:30:12 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:30:12 2019] You crush a coyote for 3 points of damage.
+[Sat Oct 05 00:30:13 2019] You kick a coyote for 2 points of damage.
+[Sat Oct 05 00:30:14 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:30:15 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:30:15 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:30:16 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:30:19 2019] You crush a coyote for 5 points of damage.
+[Sat Oct 05 00:30:19 2019] You have slain a coyote!
+[Sat Oct 05 00:30:19 2019] You gain experience!!
+[Sat Oct 05 00:30:23 2019] Auto attack is on.
+[Sat Oct 05 00:30:24 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:30:24 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:30:24 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:30:27 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:30:27 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:30:27 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:30:27 2019] You gain experience!!
+[Sat Oct 05 00:30:28 2019] You receive 4 copper from the corpse.
+[Sat Oct 05 00:30:30 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:30:32 2019] You receive 3 copper from the corpse.
+[Sat Oct 05 00:30:34 2019] --You have looted a Rusty Spear.--
+[Sat Oct 05 00:30:47 2019] Auto attack is on.
+[Sat Oct 05 00:30:47 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:30:47 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:30:47 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:30:47 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:30:50 2019] Guard Fintran bashes a decaying skeleton for 27 points of damage.
+[Sat Oct 05 00:30:50 2019] a decaying skeleton has been slain by Guard Fintran!
+[Sat Oct 05 00:30:54 2019] Auto attack is on.
+[Sat Oct 05 00:30:54 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:30:54 2019] You punch a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:30:54 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:30:56 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:30:56 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:30:56 2019] You gain experience!!
+[Sat Oct 05 00:30:58 2019] You receive 1 silver and 9 copper from the corpse.
+[Sat Oct 05 00:30:59 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:31:13 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Rusty Spear.'
+[Sat Oct 05 00:31:14 2019] You receive 1 gold 9 silver from Innkeep Valon for the Rusty Spear(s).
+[Sat Oct 05 00:31:16 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Rusty Long Sword.'
+[Sat Oct 05 00:31:17 2019] You receive 1 gold 9 silver from Innkeep Valon for the Rusty Long Sword(s).
+[Sat Oct 05 00:31:29 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:31:33 2019] Auto attack is on.
+[Sat Oct 05 00:31:33 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:31:33 2019] A decaying skeleton pierces YOU for 2 points of damage.
+[Sat Oct 05 00:31:34 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:31:36 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:31:36 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:31:36 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:31:36 2019] You gain experience!!
+[Sat Oct 05 00:31:38 2019] You receive 12 copper from the corpse.
+[Sat Oct 05 00:31:40 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:31:41 2019] --You have looted a Cloth Cap.--
+[Sat Oct 05 00:31:41 2019] --You have looted a Rusty Shortened Spear.--
+[Sat Oct 05 00:31:42 2019] --You have looted a Loaf of Bread.--
+[Sat Oct 05 00:31:50 2019] This corpse will decay in 6 minute(s) 35 seconds.
+[Sat Oct 05 00:32:11 2019] Innkeep Valon tells you, 'I'll give you 1 gold 2 silver 3 copper for the Rusty Shortened Spear.'
+[Sat Oct 05 00:32:12 2019] You receive 1 gold 2 silver 3 copper from Innkeep Valon for the Rusty Shortened Spear(s).
+[Sat Oct 05 00:32:14 2019] Innkeep Valon tells you, 'I'll give you 1 gold 9 silver for the Cloth Cap.'
+[Sat Oct 05 00:32:15 2019] You receive 1 gold 9 silver from Innkeep Valon for the Cloth Cap(s).
+[Sat Oct 05 00:32:21 2019] Spoolie Gee says 'Hello there, Teaches. How about a nice Cloth Gloves?'
+[Sat Oct 05 00:32:31 2019] Innkeep Tozie says 'Welcome to my shop, Teaches. You would probably find a Iron Ration handy.'
+[Sat Oct 05 00:32:41 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:32:45 2019] Auto attack is on.
+[Sat Oct 05 00:32:46 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:32:46 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:32:46 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:32:49 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:32:49 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:32:52 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:32:52 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:32:52 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:32:52 2019] You gain experience!!
+[Sat Oct 05 00:32:54 2019] You receive 4 copper from the corpse.
+[Sat Oct 05 00:32:58 2019] a moss snake looks your way apprehensively -- looks like you would have the upper hand.
+[Sat Oct 05 00:33:11 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:33:13 2019] Auto attack is on.
+[Sat Oct 05 00:33:13 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:33:13 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:33:14 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:33:16 2019] A decaying skeleton slashes YOU for 2 points of damage.
+[Sat Oct 05 00:33:17 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:33:19 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:33:20 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:33:22 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:33:22 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:33:23 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:33:25 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:33:26 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:33:28 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:33:29 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:33:31 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:33:31 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:33:33 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:33:33 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:33:33 2019] You gain experience!!
+[Sat Oct 05 00:33:34 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:33:38 2019] --You have looted a Ale.--
+[Sat Oct 05 00:33:39 2019] Glug, glug, glug...  You take a swig of Ale.
+[Sat Oct 05 00:33:39 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:33:39 2019] You have become better at Alcohol Tolerance! (1)
+[Sat Oct 05 00:33:40 2019] --You have looted a Rusty Scimitar.--
+[Sat Oct 05 00:33:41 2019] --You have looted a Cloth Sandals.--
+[Sat Oct 05 00:33:47 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:33:49 2019] Auto attack is on.
+[Sat Oct 05 00:33:49 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:33:49 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:33:50 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:33:52 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:33:52 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:33:55 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:33:56 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:33:58 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:33:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:33:59 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:33:59 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:33:59 2019] You gain experience!!
+[Sat Oct 05 00:34:00 2019] You receive 1 silver and 4 copper from the corpse.
+[Sat Oct 05 00:34:01 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:34:05 2019] --You have looted a Cloth Wristband.--
+[Sat Oct 05 00:34:07 2019] You take a bite out of a Loaf of Bread.
+[Sat Oct 05 00:34:07 2019] Ahhh. That was tasty.
+[Sat Oct 05 00:34:07 2019] You could not possibly eat any more, you would explode!
+[Sat Oct 05 00:34:07 2019] You could not possibly eat any more, you would explode!
+[Sat Oct 05 00:34:18 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:34:20 2019] You have failed to mend your wounds.
+[Sat Oct 05 00:34:22 2019] Auto attack is on.
+[Sat Oct 05 00:34:22 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:34:22 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:34:22 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:34:25 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:34:25 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:34:28 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:34:28 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:34:28 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:34:28 2019] You gain experience!!
+[Sat Oct 05 00:34:30 2019] You receive 8 copper from the corpse.
+[Sat Oct 05 00:34:31 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:34:38 2019] Auto attack is on.
+[Sat Oct 05 00:34:39 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:34:39 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:34:39 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:34:42 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:34:42 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:34:45 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:34:45 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:34:45 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:34:45 2019] You gain experience!!
+[Sat Oct 05 00:34:46 2019] You receive 1 copper from the corpse.
+[Sat Oct 05 00:34:48 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:34:48 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:35:00 2019] Auto attack is on.
+[Sat Oct 05 00:35:00 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:35:00 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:35:00 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:35:03 2019] A decaying skeleton crushes YOU for 2 points of damage.
+[Sat Oct 05 00:35:03 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:35:06 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Sat Oct 05 00:35:06 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:35:06 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:35:06 2019] You gain experience!!
+[Sat Oct 05 00:35:07 2019] You receive 1 copper from the corpse.
+[Sat Oct 05 00:35:08 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:35:09 2019] --You have looted a Splintering Club.--
+[Sat Oct 05 00:35:24 2019] Auto attack is on.
+[Sat Oct 05 00:35:24 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:35:24 2019] You have become better at 1H Blunt! (12)
+[Sat Oct 05 00:35:24 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:35:25 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:35:27 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:35:27 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:35:30 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:35:30 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:35:30 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:35:30 2019] You gain experience!!
+[Sat Oct 05 00:35:34 2019] You receive 10 copper from the corpse.
+[Sat Oct 05 00:35:36 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:35:52 2019] Innkeep Valon tells you, 'I'll give you 2 gold 4 silver 7 copper for the Cloth Sandals.'
+[Sat Oct 05 00:35:54 2019] You receive 2 gold 4 silver 7 copper from Innkeep Valon for the Cloth Sandals(s).
+[Sat Oct 05 00:35:54 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Cloth Wristband.'
+[Sat Oct 05 00:35:55 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Cloth Wristband(s).
+[Sat Oct 05 00:35:56 2019] Innkeep Valon tells you, 'I'll give you 2 gold 6 silver 6 copper for the Splintering Club.'
+[Sat Oct 05 00:35:57 2019] You receive 2 gold 6 silver 6 copper from Innkeep Valon for the Splintering Club(s).
+[Sat Oct 05 00:36:09 2019] Auto attack is on.
+[Sat Oct 05 00:36:09 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:36:09 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:36:09 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:36:12 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:36:12 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:36:15 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:36:15 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:36:15 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:36:15 2019] You gain experience!!
+[Sat Oct 05 00:36:17 2019] You receive 3 copper from the corpse.
+[Sat Oct 05 00:36:36 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:36:40 2019] Auto attack is on.
+[Sat Oct 05 00:36:40 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:36:40 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:36:40 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:36:40 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:36:41 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:36:41 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:36:44 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:36:44 2019] You have become better at 1H Blunt! (13)
+[Sat Oct 05 00:36:44 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:36:47 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:36:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:36:50 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:36:50 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:36:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:36:53 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:36:53 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:36:53 2019] You gain experience!!
+[Sat Oct 05 00:36:53 2019] You have gained a level! Welcome to level 3!
+[Sat Oct 05 00:36:53 2019] You have become better at 1H Blunt! (14)
+[Sat Oct 05 00:36:55 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:36:58 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:37:04 2019] Auto attack is on.
+[Sat Oct 05 00:37:04 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:37:04 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:37:04 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:37:07 2019] You have become better at Dodge! (16)
+[Sat Oct 05 00:37:07 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:37:07 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:37:07 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:37:07 2019] You gain experience!!
+[Sat Oct 05 00:37:08 2019] You receive 16 copper from the corpse.
+[Sat Oct 05 00:37:09 2019] --You have looted a Cloth Shawl.--
+[Sat Oct 05 00:37:17 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:37:20 2019] Auto attack is on.
+[Sat Oct 05 00:37:21 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:37:21 2019] You have become better at Dual Wield! (22)
+[Sat Oct 05 00:37:21 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:37:21 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:37:24 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:37:24 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:37:27 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:37:27 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:37:27 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:37:27 2019] You gain experience!!
+[Sat Oct 05 00:37:28 2019] You receive 7 copper from the corpse.
+[Sat Oct 05 00:37:29 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:37:39 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:37:43 2019] Auto attack is on.
+[Sat Oct 05 00:37:43 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:37:43 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:37:43 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:37:46 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:37:46 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:37:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:37:49 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:37:49 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:37:49 2019] You gain experience!!
+[Sat Oct 05 00:37:50 2019] You receive 1 copper from the corpse.
+[Sat Oct 05 00:37:51 2019] --You have looted a Ale.--
+[Sat Oct 05 00:37:53 2019] Glug, glug, glug...  You take a swig of Ale.
+[Sat Oct 05 00:37:53 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:37:55 2019] Auto attack is on.
+[Sat Oct 05 00:37:56 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:37:56 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:37:56 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:37:56 2019] You have become better at Kick! (16)
+[Sat Oct 05 00:37:56 2019] You have become better at Dodge! (17)
+[Sat Oct 05 00:37:56 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:37:59 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:37:59 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:38:02 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:38:02 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:38:02 2019] You gain experience!!
+[Sat Oct 05 00:38:04 2019] You receive 1 silver and 3 copper from the corpse.
+[Sat Oct 05 00:38:05 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:38:27 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Cloth Shawl.'
+[Sat Oct 05 00:38:28 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Cloth Shawl(s).
+[Sat Oct 05 00:38:58 2019] Auto attack is on.
+[Sat Oct 05 00:38:58 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:38:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:38:59 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:39:01 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:01 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:39:04 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:05 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:39:07 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:07 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:39:07 2019] You have become better at Kick! (17)
+[Sat Oct 05 00:39:08 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:39:08 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:39:08 2019] You gain experience!!
+[Sat Oct 05 00:39:11 2019] You receive 6 copper from the corpse.
+[Sat Oct 05 00:39:13 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:39:15 2019] --You have looted a Ale.--
+[Sat Oct 05 00:39:17 2019] Glug, glug, glug...  You take a swig of Ale.
+[Sat Oct 05 00:39:17 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:39:17 2019] You have become better at Alcohol Tolerance! (2)
+[Sat Oct 05 00:39:33 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:39:35 2019] Auto attack is on.
+[Sat Oct 05 00:39:35 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:39:35 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:36 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:39:38 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:38 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:39:38 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:39:38 2019] You gain experience!!
+[Sat Oct 05 00:39:41 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:39:44 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:39:47 2019] Auto attack is on.
+[Sat Oct 05 00:39:47 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:39:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:48 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:39:50 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:39:50 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:39:53 2019] A decaying skeleton tries to hit YOU, but YOU dodge!
+[Sat Oct 05 00:39:54 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:39:56 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:39:57 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:39:57 2019] You have become better at Kick! (18)
+[Sat Oct 05 00:39:57 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:39:57 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:39:57 2019] You gain experience!!
+[Sat Oct 05 00:39:58 2019] You receive 1 silver and 8 copper from the corpse.
+[Sat Oct 05 00:40:01 2019] --You have looted a Ration.--
+[Sat Oct 05 00:40:02 2019] You could not possibly eat any more, you would explode!
+[Sat Oct 05 00:40:08 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:40:16 2019] Auto attack is on.
+[Sat Oct 05 00:40:16 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:40:16 2019] You have become better at Dual Wield! (23)
+[Sat Oct 05 00:40:16 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:40:17 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:40:19 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:40:19 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:40:22 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:40:22 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:40:25 2019] You have failed to mend your wounds.
+[Sat Oct 05 00:40:25 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:40:25 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:40:26 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:40:26 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:40:26 2019] You gain experience!!
+[Sat Oct 05 00:40:27 2019] You receive 1 silver and 9 copper from the corpse.
+[Sat Oct 05 00:40:29 2019] --You have looted a Rusty Short Sword.--
+[Sat Oct 05 00:40:42 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:40:43 2019] Auto attack is on.
+[Sat Oct 05 00:40:44 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:40:44 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:40:44 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:40:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:40:47 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:40:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:40:50 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:40:53 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:40:53 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:40:53 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:40:56 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:40:56 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:40:56 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:40:56 2019] You gain experience!!
+[Sat Oct 05 00:40:59 2019] You receive 6 copper from the corpse.
+[Sat Oct 05 00:41:00 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:41:02 2019] --You have looted a Cloth Wristband.--
+[Sat Oct 05 00:41:05 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:41:08 2019] Auto attack is on.
+[Sat Oct 05 00:41:08 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:41:08 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:41:09 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:41:09 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:41:11 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:41:13 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:41:15 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:41:15 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:41:18 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:41:18 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:41:18 2019] You gain experience!!
+[Sat Oct 05 00:41:19 2019] You receive 1 silver and 8 copper from the corpse.
+[Sat Oct 05 00:41:20 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:41:24 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:41:28 2019] Auto attack is on.
+[Sat Oct 05 00:41:28 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:41:28 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:41:28 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:41:31 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:41:31 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:41:34 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:41:34 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:41:34 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:41:34 2019] You gain experience!!
+[Sat Oct 05 00:41:36 2019] You receive 1 silver and 9 copper from the corpse.
+[Sat Oct 05 00:41:38 2019] --You have looted a Cloth Sandals.--
+[Sat Oct 05 00:41:50 2019] Teaches regards you indifferently -- looks like an even fight.
+[Sat Oct 05 00:41:51 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:41:53 2019] Auto attack is on.
+[Sat Oct 05 00:41:53 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:41:53 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:41:54 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:41:56 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:41:56 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:41:59 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:42:00 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:42:02 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:42:02 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:42:03 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:42:03 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:42:03 2019] You gain experience!!
+[Sat Oct 05 00:42:04 2019] You receive 13 copper from the corpse.
+[Sat Oct 05 00:42:06 2019] Consider whom?
+[Sat Oct 05 00:42:13 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Cloth Wristband.'
+[Sat Oct 05 00:42:15 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Cloth Wristband(s).
+[Sat Oct 05 00:42:16 2019] Innkeep Valon tells you, 'I'll give you 2 gold 4 silver 7 copper for the Cloth Sandals.'
+[Sat Oct 05 00:42:18 2019] You receive 2 gold 4 silver 7 copper from Innkeep Valon for the Cloth Sandals(s).
+[Sat Oct 05 00:42:19 2019] Innkeep Valon tells you, 'I'll give you 2 silver 8 copper for the Rusty Short Sword.'
+[Sat Oct 05 00:42:20 2019] You receive 2 silver 8 copper from Innkeep Valon for the Rusty Short Sword(s).
+[Sat Oct 05 00:42:28 2019] Teaches regards you indifferently -- looks like an even fight.
+[Sat Oct 05 00:42:31 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:42:32 2019] Auto attack is on.
+[Sat Oct 05 00:42:32 2019] You have become better at Offense! (11)
+[Sat Oct 05 00:42:32 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:42:33 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:42:33 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:42:33 2019] You have become better at Kick! (19)
+[Sat Oct 05 00:42:36 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:42:36 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:42:36 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:42:36 2019] You gain experience!!
+[Sat Oct 05 00:42:38 2019] You receive 17 copper from the corpse.
+[Sat Oct 05 00:42:39 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:42:45 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:42:51 2019] Auto attack is on.
+[Sat Oct 05 00:42:51 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:42:51 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:42:51 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:42:51 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:42:51 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:42:54 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:42:54 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:42:57 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:42:57 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:43:00 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:43:00 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:43:00 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:43:00 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:43:00 2019] You gain experience!!
+[Sat Oct 05 00:43:01 2019] You receive 7 copper from the corpse.
+[Sat Oct 05 00:43:03 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:43:04 2019] --You have looted a Cloth Shawl.--
+[Sat Oct 05 00:43:29 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Cloth Shawl.'
+[Sat Oct 05 00:43:30 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Cloth Shawl(s).
+[Sat Oct 05 00:43:52 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:43:56 2019] Auto attack is on.
+[Sat Oct 05 00:43:56 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:43:56 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:43:57 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:43:57 2019] You have become better at Dual Wield! (24)
+[Sat Oct 05 00:43:57 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:43:57 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:44:00 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:44:00 2019] You have become better at Offense! (12)
+[Sat Oct 05 00:44:00 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:44:00 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:44:00 2019] You gain experience!!
+[Sat Oct 05 00:44:01 2019] You receive 18 copper from the corpse.
+[Sat Oct 05 00:44:02 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:44:03 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:44:07 2019] Consider whom?
+[Sat Oct 05 00:44:09 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:44:12 2019] Auto attack is on.
+[Sat Oct 05 00:44:12 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:44:12 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:44:13 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:44:15 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:44:16 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:44:16 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:44:16 2019] You gain experience!!
+[Sat Oct 05 00:44:17 2019] You receive 18 copper from the corpse.
+[Sat Oct 05 00:44:20 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:44:23 2019] Auto attack is on.
+[Sat Oct 05 00:44:24 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:44:24 2019] You punch a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:44:24 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:44:24 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:44:24 2019] You have become better at Kick! (20)
+[Sat Oct 05 00:44:27 2019] A decaying skeleton pierces YOU for 1 point of damage.
+[Sat Oct 05 00:44:27 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:44:30 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:44:30 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:44:30 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:44:30 2019] You gain experience!!
+[Sat Oct 05 00:44:31 2019] Auto attack is on.
+[Sat Oct 05 00:44:33 2019] You have become better at Offense! (13)
+[Sat Oct 05 00:44:33 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:44:33 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:44:33 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:44:35 2019] You have become better at Offense! (14)
+[Sat Oct 05 00:44:35 2019] You punch a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:44:36 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:44:36 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:44:36 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:44:36 2019] You gain experience!!
+[Sat Oct 05 00:44:38 2019] You receive 18 copper from the corpse.
+[Sat Oct 05 00:44:39 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:44:41 2019] You receive 8 copper from the corpse.
+[Sat Oct 05 00:44:43 2019] --You have looted a Rusty Shortened Spear.--
+[Sat Oct 05 00:44:57 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:45:00 2019] Auto attack is on.
+[Sat Oct 05 00:45:00 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:45:00 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:45:01 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:45:03 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:45:03 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:45:03 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:45:03 2019] You gain experience!!
+[Sat Oct 05 00:45:05 2019] You receive 1 silver and 7 copper from the corpse.
+[Sat Oct 05 00:45:06 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:45:18 2019] Innkeep Valon tells you, 'I'll give you 1 gold 2 silver 3 copper for the Rusty Shortened Spear.'
+[Sat Oct 05 00:45:20 2019] You receive 1 gold 2 silver 3 copper from Innkeep Valon for the Rusty Shortened Spear(s).
+[Sat Oct 05 00:45:22 2019] Spoolie Gee says 'Welcome to my shop, Teaches.'
+[Sat Oct 05 00:45:27 2019] Spoolie Gee tells you, 'That'll be 1 gold 8 silver 8 copper for the Small Bag.'
+[Sat Oct 05 00:45:28 2019] You give 1 gold 8 silver 8 copper to Spoolie Gee.
+[Sat Oct 05 00:45:30 2019] You give 1 gold 8 silver 8 copper to Spoolie Gee.
+[Sat Oct 05 00:45:53 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:45:59 2019] Auto attack is on.
+[Sat Oct 05 00:45:59 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:45:59 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:45:59 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:46:02 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:46:02 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:46:02 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:46:02 2019] You gain experience!!
+[Sat Oct 05 00:46:04 2019] You receive 8 copper from the corpse.
+[Sat Oct 05 00:46:05 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:46:06 2019] --You have looted a Cloth Gloves.--
+[Sat Oct 05 00:46:10 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:46:14 2019] Auto attack is on.
+[Sat Oct 05 00:46:14 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:46:14 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Sat Oct 05 00:46:15 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:46:17 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:46:17 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:46:17 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:46:17 2019] You gain experience!!
+[Sat Oct 05 00:46:19 2019] You receive 14 copper from the corpse.
+[Sat Oct 05 00:46:20 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:46:20 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:46:21 2019] --You have looted a Rusty Mace.--
+[Sat Oct 05 00:46:24 2019] Auto attack is on.
+[Sat Oct 05 00:46:25 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:46:25 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:46:25 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:46:28 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:46:28 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:46:31 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:46:31 2019] You have become better at Defense! (11)
+[Sat Oct 05 00:46:31 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:46:32 2019] You have become better at Dual Wield! (25)
+[Sat Oct 05 00:46:34 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:46:34 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:46:34 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:46:34 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:46:34 2019] You gain experience!!
+[Sat Oct 05 00:46:36 2019] You receive 14 copper from the corpse.
+[Sat Oct 05 00:46:37 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:46:41 2019] Auto attack is on.
+[Sat Oct 05 00:46:41 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:46:41 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:46:44 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:46:44 2019] You have become better at Offense! (15)
+[Sat Oct 05 00:46:44 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:46:44 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:46:44 2019] You gain experience!!
+[Sat Oct 05 00:46:44 2019] You have become better at 1H Blunt! (15)
+[Sat Oct 05 00:46:48 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:47:06 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:47:11 2019] Auto attack is on.
+[Sat Oct 05 00:47:11 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:47:11 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:47:12 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:47:12 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:13 2019] You have failed to mend your wounds.
+[Sat Oct 05 00:47:14 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:47:14 2019] You try to punch a decaying skeleton, but miss!
+[Sat Oct 05 00:47:15 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:17 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:47:18 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:20 2019] Guard Brendyl hits a decaying skeleton for 100 points of damage.
+[Sat Oct 05 00:47:20 2019] a decaying skeleton has been slain by Guard Brendyl!
+[Sat Oct 05 00:47:25 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:47:32 2019] Auto attack is on.
+[Sat Oct 05 00:47:32 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:47:32 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:32 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:47:33 2019] a decaying skeleton glares at you threateningly -- looks like you would have the upper hand.
+[Sat Oct 05 00:47:35 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:47:35 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:47:38 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:47:38 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:47:41 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:47:41 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:42 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:47:44 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:45 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:47:47 2019] You have become better at Dodge! (18)
+[Sat Oct 05 00:47:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:47:48 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:47:48 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:47:48 2019] You gain experience!!
+[Sat Oct 05 00:47:49 2019] You receive 7 copper from the corpse.
+[Sat Oct 05 00:47:51 2019] --You have looted a Short Beer.--
+[Sat Oct 05 00:47:52 2019] Glug, glug, glug...  You take a swig of Short Beer.
+[Sat Oct 05 00:47:52 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:48:12 2019] a coyote glares at you threateningly -- looks like you would have the upper hand.
+[Sat Oct 05 00:48:16 2019] Auto attack is on.
+[Sat Oct 05 00:48:16 2019] You crush a coyote for 6 points of damage.
+[Sat Oct 05 00:48:16 2019] You have become better at 1H Blunt! (16)
+[Sat Oct 05 00:48:16 2019] A coyote bites YOU for 1 point of damage.
+[Sat Oct 05 00:48:16 2019] You kick a coyote for 2 points of damage.
+[Sat Oct 05 00:48:19 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:48:19 2019] You crush a coyote for 1 point of damage.
+[Sat Oct 05 00:48:22 2019] You have become better at Dodge! (19)
+[Sat Oct 05 00:48:22 2019] A coyote tries to bite YOU, but misses!
+[Sat Oct 05 00:48:22 2019] You crush a coyote for 8 points of damage.
+[Sat Oct 05 00:48:22 2019] You have slain a coyote!
+[Sat Oct 05 00:48:22 2019] You gain experience!!
+[Sat Oct 05 00:48:26 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:48:33 2019] Auto attack is on.
+[Sat Oct 05 00:48:33 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:48:33 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 00:48:34 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:48:36 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:48:37 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:48:39 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 00:48:40 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:48:40 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:48:40 2019] You gain experience!!
+[Sat Oct 05 00:48:41 2019] You receive 18 copper from the corpse.
+[Sat Oct 05 00:48:42 2019] --You have looted a Rusty Halberd.--
+[Sat Oct 05 00:48:52 2019] Auto attack is on.
+[Sat Oct 05 00:48:52 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:48:52 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:48:52 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:48:52 2019] You have become better at Dodge! (20)
+[Sat Oct 05 00:48:52 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:48:55 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:48:56 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:48:56 2019] You punch a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:48:58 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:48:59 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:49:01 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:49:02 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:49:02 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:49:02 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:49:02 2019] You gain experience!!
+[Sat Oct 05 00:49:05 2019] You receive 1 silver and 8 copper from the corpse.
+[Sat Oct 05 00:49:06 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:49:25 2019] Auto attack is on.
+[Sat Oct 05 00:49:25 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:49:25 2019] You have become better at 1H Blunt! (17)
+[Sat Oct 05 00:49:25 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:49:25 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:49:28 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:49:28 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:49:28 2019] You punch a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:49:31 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:49:31 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:49:31 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:49:31 2019] You gain experience!!
+[Sat Oct 05 00:49:41 2019] You receive 1 silver and 4 copper from the corpse.
+[Sat Oct 05 00:49:54 2019] Innkeep Valon tells you, 'I'll give you 3 gold 4 copper for the Rusty Halberd.'
+[Sat Oct 05 00:49:56 2019] You receive 3 gold 4 copper from Innkeep Valon for the Rusty Halberd(s).
+[Sat Oct 05 00:49:57 2019] Innkeep Valon tells you, 'I'll give you 9 silver 5 copper for the Rusty Mace.'
+[Sat Oct 05 00:49:58 2019] You receive 9 silver 5 copper from Innkeep Valon for the Rusty Mace(s).
+[Sat Oct 05 00:49:59 2019] Innkeep Valon tells you, 'I'll give you 2 gold 4 silver 7 copper for the Cloth Gloves.'
+[Sat Oct 05 00:50:01 2019] You receive 2 gold 4 silver 7 copper from Innkeep Valon for the Cloth Gloves(s).
+[Sat Oct 05 00:50:04 2019] Guard Fintran kicks a decaying skeleton for 24 points of damage.
+[Sat Oct 05 00:50:04 2019] a decaying skeleton has been slain by Guard Fintran!
+[Sat Oct 05 00:50:35 2019] Auto attack is on.
+[Sat Oct 05 00:50:35 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:50:35 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:50:35 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:50:38 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:50:38 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:50:38 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:50:38 2019] You gain experience!!
+[Sat Oct 05 00:50:40 2019] You receive 12 copper from the corpse.
+[Sat Oct 05 00:50:41 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:50:42 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:50:44 2019] Auto attack is on.
+[Sat Oct 05 00:50:45 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:50:45 2019] You punch a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:50:45 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:50:45 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:50:48 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:50:48 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:50:48 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:50:48 2019] You gain experience!!
+[Sat Oct 05 00:50:49 2019] You receive 8 copper from the corpse.
+[Sat Oct 05 00:51:03 2019] Auto attack is on.
+[Sat Oct 05 00:51:03 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:51:03 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:51:03 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:51:06 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:51:06 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:51:09 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:51:09 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:51:09 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:51:09 2019] You gain experience!!
+[Sat Oct 05 00:51:11 2019] You receive 14 copper from the corpse.
+[Sat Oct 05 00:51:13 2019] --You have looted a Cloth Shawl.--
+[Sat Oct 05 00:51:33 2019] Auto attack is on.
+[Sat Oct 05 00:51:33 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:51:33 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:51:33 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:51:36 2019] A decaying skeleton crushes YOU for 4 points of damage.
+[Sat Oct 05 00:51:36 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:51:39 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:51:39 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:51:39 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:51:39 2019] You gain experience!!
+[Sat Oct 05 00:51:40 2019] You receive 1 silver from the corpse.
+[Sat Oct 05 00:51:42 2019] --You have looted a Rusty Warhammer.--
+[Sat Oct 05 00:51:50 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:51:51 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:51:55 2019] Auto attack is on.
+[Sat Oct 05 00:51:55 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:51:55 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:51:56 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:51:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:51:58 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:52:01 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:52:02 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:52:02 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:52:02 2019] You gain experience!!
+[Sat Oct 05 00:52:03 2019] You receive 2 copper from the corpse.
+[Sat Oct 05 00:52:05 2019] Auto attack is on.
+[Sat Oct 05 00:52:05 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:52:05 2019] You have become better at Dual Wield! (26)
+[Sat Oct 05 00:52:05 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:52:06 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:52:08 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:52:08 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:52:11 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:52:11 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:52:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:52:15 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:52:15 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:52:15 2019] You gain experience!!
+[Sat Oct 05 00:52:16 2019] You receive 16 copper from the corpse.
+[Sat Oct 05 00:52:18 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:52:29 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:52:33 2019] Auto attack is on.
+[Sat Oct 05 00:52:33 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:52:33 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:52:34 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:52:36 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:52:36 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:52:36 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:52:36 2019] You gain experience!!
+[Sat Oct 05 00:52:38 2019] You receive 16 copper from the corpse.
+[Sat Oct 05 00:52:39 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:52:39 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:53:04 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:53:07 2019] Auto attack is on.
+[Sat Oct 05 00:53:07 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:53:07 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:53:08 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:53:08 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:11 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:53:11 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:53:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:14 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:53:15 2019] You have failed to mend your wounds.
+[Sat Oct 05 00:53:17 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:53:17 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:53:17 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:53:17 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:53:17 2019] You gain experience!!
+[Sat Oct 05 00:53:18 2019] You receive 10 copper from the corpse.
+[Sat Oct 05 00:53:20 2019] Auto attack is on.
+[Sat Oct 05 00:53:21 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:53:21 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:53:24 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:53:24 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:53:25 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:53:27 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:27 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:53:30 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:30 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:53:30 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:53:30 2019] You gain experience!!
+[Sat Oct 05 00:53:32 2019] You receive 1 silver and 9 copper from the corpse.
+[Sat Oct 05 00:53:37 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:53:39 2019] Auto attack is on.
+[Sat Oct 05 00:53:39 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:53:39 2019] You punch a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:53:39 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:40 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:53:42 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:42 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:53:45 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:53:46 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:53:48 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:53:48 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:53:48 2019] You gain experience!!
+[Sat Oct 05 00:53:50 2019] You receive 4 copper from the corpse.
+[Sat Oct 05 00:53:59 2019] Auto attack is on.
+[Sat Oct 05 00:53:59 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:53:59 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:54:00 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:54:02 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:54:02 2019] You have become better at Defense! (12)
+[Sat Oct 05 00:54:03 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:54:05 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:54:06 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:54:08 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:54:08 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:54:09 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:54:09 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:54:09 2019] You gain experience!!
+[Sat Oct 05 00:54:10 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:54:13 2019] --You have looted a Cloth Choker.--
+[Sat Oct 05 00:54:13 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:54:26 2019] Innkeep Valon tells you, 'I'll give you 1 gold 5 silver 2 copper for the Cloth Choker.'
+[Sat Oct 05 00:54:28 2019] You receive 1 gold 5 silver 2 copper from Innkeep Valon for the Cloth Choker(s).
+[Sat Oct 05 00:54:28 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Rusty Warhammer.'
+[Sat Oct 05 00:54:30 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Rusty Warhammer(s).
+[Sat Oct 05 00:54:31 2019] Innkeep Valon tells you, 'I'll give you 1 gold 7 silver 1 copper for the Cloth Shawl.'
+[Sat Oct 05 00:54:32 2019] You receive 1 gold 7 silver 1 copper from Innkeep Valon for the Cloth Shawl(s).
+[Sat Oct 05 00:54:39 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:54:44 2019] Auto attack is on.
+[Sat Oct 05 00:54:44 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:54:44 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:54:44 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:54:47 2019] A decaying skeleton tries to pierce YOU, but misses!
+[Sat Oct 05 00:54:47 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:54:50 2019] A decaying skeleton pierces YOU for 3 points of damage.
+[Sat Oct 05 00:54:50 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:54:50 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:54:50 2019] You gain experience!!
+[Sat Oct 05 00:54:51 2019] You receive 6 copper from the corpse.
+[Sat Oct 05 00:54:53 2019] --You have looted a Rusty Shortened Spear.--
+[Sat Oct 05 00:55:01 2019] a young puma glares at you threateningly -- looks like quite a gamble.
+[Sat Oct 05 00:55:08 2019] Innkeep Valon tells you, 'I'll give you 1 gold 2 silver 3 copper for the Rusty Shortened Spear.'
+[Sat Oct 05 00:55:09 2019] You receive 1 gold 2 silver 3 copper from Innkeep Valon for the Rusty Shortened Spear(s).
+[Sat Oct 05 00:55:18 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:55:23 2019] Auto attack is on.
+[Sat Oct 05 00:55:23 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:55:23 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:55:24 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:55:26 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:55:27 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:55:29 2019] A decaying skeleton hits YOU for 2 points of damage.
+[Sat Oct 05 00:55:29 2019] You have become better at Defense! (13)
+[Sat Oct 05 00:55:30 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:55:30 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:55:30 2019] You gain experience!!
+[Sat Oct 05 00:55:31 2019] You receive 5 copper from the corpse.
+[Sat Oct 05 00:55:32 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:55:33 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:55:44 2019] Auto attack is on.
+[Sat Oct 05 00:55:45 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:55:45 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:55:46 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:55:46 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:55:48 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:55:49 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:55:51 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:55:51 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:55:51 2019] You gain experience!!
+[Sat Oct 05 00:55:53 2019] You receive 13 copper from the corpse.
+[Sat Oct 05 00:56:19 2019] Auto attack is on.
+[Sat Oct 05 00:56:20 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:56:20 2019] You have become better at 1H Blunt! (18)
+[Sat Oct 05 00:56:20 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:56:20 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:56:23 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:56:23 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:56:23 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:56:23 2019] You gain experience!!
+[Sat Oct 05 00:56:27 2019] You receive 18 copper from the corpse.
+[Sat Oct 05 00:56:29 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:56:30 2019] --You have looted a Cloth Choker.--
+[Sat Oct 05 00:56:32 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:56:35 2019] Auto attack is on.
+[Sat Oct 05 00:56:35 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:56:35 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:56:35 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:56:38 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:56:38 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:56:41 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:56:42 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:56:44 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:56:44 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:56:44 2019] You have become better at Defense! (14)
+[Sat Oct 05 00:56:45 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:56:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:56:48 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:56:49 2019] You have become better at Dual Wield! (27)
+[Sat Oct 05 00:56:50 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:56:51 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:56:51 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:56:51 2019] You gain experience!!
+[Sat Oct 05 00:56:52 2019] You receive 8 copper from the corpse.
+[Sat Oct 05 00:56:54 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:56:55 2019] --You have looted a Cloth Pants.--
+[Sat Oct 05 00:56:55 2019] --You have looted a Short Beer.--
+[Sat Oct 05 00:56:56 2019] Glug, glug, glug...  You take a swig of Short Beer.
+[Sat Oct 05 00:56:56 2019] Ahhh. That was refreshing.
+[Sat Oct 05 00:56:58 2019] Auto attack is on.
+[Sat Oct 05 00:56:58 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:56:58 2019] You have become better at 1H Blunt! (19)
+[Sat Oct 05 00:56:58 2019] A decaying skeleton hits YOU for 3 points of damage.
+[Sat Oct 05 00:56:59 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:57:01 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:57:01 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:57:04 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:57:05 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:57:05 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:57:05 2019] You gain experience!!
+[Sat Oct 05 00:57:06 2019] You receive 1 silver and 8 copper from the corpse.
+[Sat Oct 05 00:57:32 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:57:37 2019] Auto attack is on.
+[Sat Oct 05 00:57:37 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:57:37 2019] Your target is too far away, get closer!
+[Sat Oct 05 00:57:39 2019] You try to kick a decaying skeleton, but miss!
+[Sat Oct 05 00:57:39 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:57:41 2019] You crush a decaying skeleton for 5 points of damage.
+[Sat Oct 05 00:57:42 2019] A decaying skeleton tries to crush YOU, but misses!
+[Sat Oct 05 00:57:44 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:57:45 2019] A decaying skeleton crushes YOU for 1 point of damage.
+[Sat Oct 05 00:57:47 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:57:48 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:57:48 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:57:48 2019] You gain experience!!
+[Sat Oct 05 00:57:49 2019] You receive 14 copper from the corpse.
+[Sat Oct 05 00:57:50 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:57:54 2019] Auto attack is on.
+[Sat Oct 05 00:57:54 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:57:54 2019] You have become better at 1H Blunt! (20)
+[Sat Oct 05 00:57:54 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:57:57 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:57:57 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:57:57 2019] You crush a decaying skeleton for 9 points of damage.
+[Sat Oct 05 00:57:57 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:57:57 2019] You gain experience!!
+[Sat Oct 05 00:57:59 2019] You receive 1 silver and 8 copper from the corpse.
+[Sat Oct 05 00:58:00 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:58:13 2019] Auto attack is on.
+[Sat Oct 05 00:58:14 2019] You crush a decaying skeleton for 4 points of damage.
+[Sat Oct 05 00:58:14 2019] You have become better at Dual Wield! (28)
+[Sat Oct 05 00:58:14 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:14 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:58:16 2019] Guard Brendyl bashes a decaying skeleton for 27 points of damage.
+[Sat Oct 05 00:58:16 2019] a decaying skeleton has been slain by Guard Brendyl!
+[Sat Oct 05 00:58:25 2019] Auto attack is on.
+[Sat Oct 05 00:58:25 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:58:25 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:25 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:58:28 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:28 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:58:31 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 00:58:31 2019] You crush a decaying skeleton for 8 points of damage.
+[Sat Oct 05 00:58:31 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:58:31 2019] You gain experience!!
+[Sat Oct 05 00:58:33 2019] You receive 9 copper from the corpse.
+[Sat Oct 05 00:58:35 2019] Auto attack is on.
+[Sat Oct 05 00:58:35 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 00:58:35 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:36 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:58:38 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:39 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:58:39 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:58:39 2019] You gain experience!!
+[Sat Oct 05 00:58:40 2019] You receive 7 copper from the corpse.
+[Sat Oct 05 00:58:41 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:58:42 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:58:45 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:58:47 2019] Auto attack is on.
+[Sat Oct 05 00:58:47 2019] You crush a decaying skeleton for 7 points of damage.
+[Sat Oct 05 00:58:47 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:47 2019] You kick a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:58:50 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:58:50 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:58:50 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:58:50 2019] You gain experience!!
+[Sat Oct 05 00:58:53 2019] You receive 13 copper from the corpse.
+[Sat Oct 05 00:58:54 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 00:59:08 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:59:14 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:59:16 2019] Auto attack is on.
+[Sat Oct 05 00:59:17 2019] You crush a decaying skeleton for 2 points of damage.
+[Sat Oct 05 00:59:17 2019] You try to punch a decaying skeleton, but miss!
+[Sat Oct 05 00:59:17 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:59:17 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:59:18 2019] You have worsened your wounds!
+[Sat Oct 05 00:59:18 2019] You have become better at Mend! (4)
+[Sat Oct 05 00:59:20 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:59:20 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:59:23 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:59:23 2019] You try to crush a decaying skeleton, but miss!
+[Sat Oct 05 00:59:26 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 00:59:26 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:59:26 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:59:29 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:59:30 2019] You crush a decaying skeleton for 3 points of damage.
+[Sat Oct 05 00:59:30 2019] You have slain a decaying skeleton!
+[Sat Oct 05 00:59:30 2019] You gain experience!!
+[Sat Oct 05 00:59:31 2019] You receive 11 copper from the corpse.
+[Sat Oct 05 00:59:36 2019] a rattlesnake looks your way apprehensively -- looks like quite a gamble.
+[Sat Oct 05 00:59:38 2019] You no longer have a target.
+[Sat Oct 05 00:59:56 2019] a decaying skeleton regards you indifferently -- looks like you would have the upper hand.
+[Sat Oct 05 00:59:58 2019] Auto attack is on.
+[Sat Oct 05 00:59:58 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 00:59:58 2019] A decaying skeleton tries to hit YOU, but misses!
+[Sat Oct 05 00:59:58 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 01:00:01 2019] A decaying skeleton hits YOU for 1 point of damage.
+[Sat Oct 05 01:00:01 2019] You crush a decaying skeleton for 6 points of damage.
+[Sat Oct 05 01:00:01 2019] You have slain a decaying skeleton!
+[Sat Oct 05 01:00:01 2019] You gain experience!!
+[Sat Oct 05 01:00:03 2019] You receive 1 silver and 5 copper from the corpse.
+[Sat Oct 05 01:00:04 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 01:00:04 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 01:00:07 2019] Auto attack is on.
+[Sat Oct 05 01:00:08 2019] You crush a decaying skeleton for 1 point of damage.
+[Sat Oct 05 01:00:08 2019] A decaying skeleton slashes YOU for 1 point of damage.
+[Sat Oct 05 01:00:08 2019] You kick a decaying skeleton for 1 point of damage.
+[Sat Oct 05 01:00:11 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 01:00:11 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 01:00:14 2019] A decaying skeleton tries to slash YOU, but misses!
+[Sat Oct 05 01:00:14 2019] You crush a decaying skeleton for 10 points of damage.
+[Sat Oct 05 01:00:14 2019] You have slain a decaying skeleton!
+[Sat Oct 05 01:00:14 2019] You gain experience!!
+[Sat Oct 05 01:00:16 2019] You receive 11 copper from the corpse.
+[Sat Oct 05 01:00:17 2019] --You have looted a Bone Chips.--
+[Sat Oct 05 01:00:18 2019] --You have looted a Short Beer.--
+[Sat Oct 05 01:00:19 2019] Glug, glug, glug...  You take a swig of Short Beer.
+[Sat Oct 05 01:00:19 2019] Ahhh. That was refreshing.
+[Sat Oct 05 01:00:19 2019] You have become better at Alcohol Tolerance! (3)
+[Sat Oct 05 01:00:20 2019] --You have looted a Rusty Bastard Sword.--
+[Sat Oct 05 01:00:40 2019] Innkeep Valon tells you, 'I'll give you 2 gold 2 silver 8 copper for the Rusty Bastard Sword.'
+[Sat Oct 05 01:00:41 2019] You receive 2 gold 2 silver 8 copper from Innkeep Valon for the Rusty Bastard Sword(s).
+[Sat Oct 05 01:00:42 2019] Innkeep Valon tells you, 'I'll give you 3 gold 2 silver 3 copper for the Cloth Pants.'
+[Sat Oct 05 01:00:43 2019] You receive 3 gold 2 silver 3 copper from Innkeep Valon for the Cloth Pants(s).
+[Sat Oct 05 01:00:44 2019] Innkeep Valon tells you, 'I'll give you 1 gold 5 silver 2 copper for the Cloth Choker.'
+[Sat Oct 05 01:00:45 2019] You receive 1 gold 5 silver 2 copper from Innkeep Valon for the Cloth Choker(s).
+[Sat Oct 05 01:01:00 2019] It will take you about 30 seconds to prepare your camp.
+[Sat Oct 05 01:01:04 2019] It will take about 25 more seconds to prepare your camp.
+[Sat Oct 05 01:01:09 2019] It will take about 20 more seconds to prepare your camp.
+[Sat Oct 05 01:01:14 2019] It will take about 15 more seconds to prepare your camp.
+[Sat Oct 05 01:01:19 2019] It will take about 10 more seconds to prepare your camp.
+[Sat Oct 05 01:01:24 2019] It will take about 5 more seconds to prepare your camp.

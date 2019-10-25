@@ -1,0 +1,186 @@
+﻿<c "#FFFF00">ORIGINAL EVERQUEST CREDITS</c><BR>
+<BR>
+<BR>
+<c "#FFFF00">EverQuest designed by</c><BR>
+Brad McQuaid, Steve Clover, Bill Trost
+and the EverQuest Team<BR>
+<BR>
+<c "#FFFF00">Producer</c><BR>
+Brad McQuaid<BR>
+<BR>
+<c "#FFFF00">Assistant Producers</c><BR>
+Brian Canary, Mike Hutchins, Andrew Sites, and Matt Yaney<BR>
+<BR>
+<c "#FFFF00">Lead Programmer</c><BR>
+Steve Clover<BR>
+<BR>
+<c "#FFFF00">Programmers</c><BR>
+Kevin McPherson, and Roger Uzun<BR>
+<BR>
+<c "#FFFF00">Graphics Programmer</c><BR>
+John Buckley<BR>
+<BR>
+<c "#FFFF00">Network Programmer</c><BR>
+Vince Harron<BR>
+<BR>
+<c "#FFFF00">Additional Programmers</c><BR>
+Kevin Baca, Shawn Baird, Brandon Bogle, Milo D. Cooper
+Howard Dortch, Eric Hagstrom, Graeme Ing, Daniel Kim
+Brad McQuaid, Ryan Palacio and David Taylor<BR>
+<BR>
+<c "#FFFF00">Lead Artist</c><BR>
+Rosie Cosgrove<BR>
+<BR>
+<c "#FFFF00">Artists</c><BR>
+Kevin Burns, Milo D. Cooper, Doug Johnson, Rick Johnson
+Scott McDaniel, Brandon McDonald, Rick Schmitz
+and Bill Trost<BR>
+<BR>
+<c "#FFFF00">Additional Artists</c><BR>
+Mac McGibbon, Keith Parkinson, Rich Sjoberg, Dok Whitson<BR>
+<BR>
+<c "#FFFF00">Lead World Builder/Designer</c><BR>
+Bill Trost<BR>
+<BR>
+<c "#FFFF00">World Builders</c><BR>
+Kevin Burns, Mike Hutchins, Sabrina Fox, Tony Garcia
+Vu Nguyen, Ryan Palacio, Matt Yaney, and Geoff Zatkin<BR>
+<BR>
+<c "#FFFF00">Additional World Builders</c><BR>
+Jim Moore, David Yee<BR>
+<BR>
+<c "#FFFF00">President (Verant)</c><BR>
+John Smedley<BR>
+<BR>
+<c "#FFFF00">Vice President (Verant)</c><BR>
+Brad McQuaid<BR>
+<BR>
+<c "#FFFF00"> Chief Technology Officer (Verant)</c><BR>
+Russell Shanks<BR>
+<BR>
+<c "#FFFF00">Director of Multimedia (Verant)</c><BR>
+Joe Hight<BR>
+<BR>
+<c "#FFFF00">Sound Programming</c><BR>
+Jay Barbeau, Starr Moore<BR>
+<BR>
+<c "#FFFF00">Music</c><BR>
+Jay Barbeau<BR>
+<BR>
+<c "#FFFF00">Sound</c><BR>
+Brad Aldridge and Joe Hight<BR>
+<BR>
+<c "#FFFF00">Multimedia Department</c><BR>
+Rex Baca, Chuck Carr, Dwayne Mason, Scott McMahon
+and Dominic Perricone<BR>
+<BR>
+<c "#FFFF00">President (989 Studios)</c><BR>
+Kelly Flock<BR>
+<BR>
+<c "#FFFF00">V.P. Marketing</c><BR>
+Jeffery Fox<BR>
+<BR>
+<c "#FFFF00">PC Sales/Marketing Manager</c><BR>
+Don Vercelli<BR>
+<BR>
+<c "#FFFF00">Director of Creative Services</c><BR>
+Howard Liebeskind<BR>
+<BR>
+<c "#FFFF00">Creative Services</c><BR>
+Vyn Arnold<BR>
+<BR>
+<c "#FFFF00">Director of P.R. & Promotions</c><BR>
+Helene Sheeler<BR>
+<BR>
+<c "#FFFF00">P.R. & Promotions</c><BR>
+Shon Damron, Marcelyn Ditter, Kim Bardakian,
+Christa Wittenberg, Chris Sturr, Stephanie Nevins<BR>
+<BR>
+<c "#FFFF00">Director of Finance</c><BR>
+Derek Quackenbush<BR>
+<BR>
+<c "#FFFF00">Director of Legal and Business Affairs</c><BR>
+David Greenspan<BR>
+<BR>
+<c "#FFFF00">Legal</c><BR>
+Mimi Nguyen, Leslie Chen<BR>
+<BR>
+<c "#FFFF00">EverQuest Box and Poster Art</c><BR>
+Keith Parkinson<BR>
+<BR>
+<c "#FFFF00">Manual Producers</c><BR>
+Chris Kramer, Dave Silviera<BR>
+<BR>
+<c "#FFFF00">Manual Graphic Designer</c><BR>
+Dave Silviera<BR>
+<BR>
+<c "#FFFF00">Map Insert & Manual Graphic Art</c><BR>
+Rick Schmitz<BR>
+<BR>
+<c "#FFFF00">Testing Manager</c><BR>
+Charles Flock<BR>
+<BR>
+<c "#FFFF00">Senior Lead Tester</c><BR>
+Victor Ramirez<BR>
+<BR>
+<c "#FFFF00">Lead Tester</c><BR>
+Rob Hill<BR>
+<BR>
+<c "#FFFF00">Testers</c><BR>
+Justin Anella, Jose Araiza, Jason Biltz, Richard Brewer
+Jeremy Ellis, Robert Helsel, Scott Hill, Matt Jenkins
+Asher Luisi, Ritchard Markelz, Mike Moore, James Morrison
+Ray Schleicher, Matthew Steiger, Zach Ward<BR>
+<BR>
+<c "#FFFF00">Network Administrator</c><BR>
+John "Spyke" Alexander<BR>
+<BR>
+<c "#FFFF00">Technical Coordinator</c><BR>
+Jeff Bolaris<BR>
+<BR>
+<c "#FFFF00">EverQuest Head Game Master</c><BR>
+Jeff Butler<BR>
+<BR>
+<c "#FFFF00">EverQuest Game Masters</c><BR>
+Marlon Barroquillo, Robert Bautista, Michelle Bayless
+Steve Belyea, Bill Coyle, Jeremy Ellis, Monte Green
+Bill Gutter, Scott Hill, Matt Jenkins, Kurt Macholeth
+Kelsey McNair, Dave Rickey, Joe Russo, Thom Terrazas
+Torrie Warren, Thomas Wells, Nathan Wilson<BR>
+<BR>
+<c "#FFFF00">Intro FMV Graphics</c><BR>
+Vision Scape Imaging<BR>
+<BR>
+<c "#FFFF00">Intro FMV Music</c><BR>
+Title sequence composed and produced by Tim Labor<BR>
+Conducted by Harvey Sollberger<BR>
+Performed by the La Jolla Symphony Orchestra<BR>
+Recorded at Warren Studios, UCSD<BR>
+Recording engineered by Josef Kucera<BR>
+<BR>
+<c "#FFFF00">The EverQuest team would like to thank</c>
+<c "#FFFF00">(in no particular order):</c><BR>
+Hunter Luisi, Seth Luisi, Clint Worley,
+Kevin McCann, Danny Han,
+Marsha Gygax, Robert Clark, Rick Rossiter,
+Andrew Lee, Paul Willman, Gabe Liberty,
+Wilson Lee, Jim Dobson, Adam McMahon,
+Kevin Lydy, Rich Sjoberg, Chris 'Ozymandius' Pinckard,
+Pam Pinckard, Gordon Wrinn, Karla Schwarze,
+Dach Chaney, Amanda Flock, Kurtis Buckmaster,
+Josh Olson, Brian Weikert, Kris and Susan Jones,
+Alan VanCouvering, Tyler Sargent, Brandon Justice,
+Tanok the Troll, B.J. Derose, Leo Leontiades,
+Tawn Kramer, Richard Garriot, Rich Vogel,
+JRR Tolkien, CS Lewis, Robert Jordan,
+Roger Zelazny, David Eddings, Terry Goodkind,
+M:TG, AD&D, all the great MUDs out there,
+(especially Sojourn), 3DFX, EQVault,
+EQ Express and all the other EQ fan sites,
+#everquest people, the EverQuest Guides,
+the EverQuest guilds, the EverQuest beta testers
+and of course all the EverQuest fans out there
+for the unwavering support that began over a
+year before release and continues onward,
+and the countless others whom we've unintentionally
+forgotten yet have contributed nonetheless.<BR>

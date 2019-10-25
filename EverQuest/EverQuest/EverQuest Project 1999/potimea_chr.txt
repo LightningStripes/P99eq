@@ -1,0 +1,9 @@
+8
+cro,ponightmare_chr
+paf,postorms_chr
+wru,hohonora_chr
+gob,runnyeye_chr
+gia,postorms_chr
+fug,povalor_chr
+trk,hateplane_chr
+dru,hateplane_chr

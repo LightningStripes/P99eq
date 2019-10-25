@@ -1,0 +1,194 @@
+﻿<c "#FFFF00">EverQuest:  The Scars of Velious</c><BR>
+<BR>
+EverQuest designed by Brad McQuaid, Steve Clover, 
+Bill Trost, and the EverQuest Team<BR>
+<BR>
+<c "#FFFF00">Executive Producer</c><BR>
+Brad McQuaid<BR>
+<BR>
+<c "#FFFF00">Producer</c><BR>
+Jeff Butler<BR>
+<BR>
+<c "#FFFF00">Associate Producer</c><BR>
+Gordon Wrinn<BR>
+<BR>
+<c "#FFFF00">Programmers</c><BR>
+Steve Clover, Roy Eltham, Todd Schmidt, 
+and Roger Uzun<BR>
+<BR>
+<c "#FFFF00">Additional Programmers</c><BR>
+Milo D. Cooper, Jason Polk, 
+and Nathan Hill (Creative Labs)<BR>
+<BR>
+<c "#FFFF00">Art Director</c><BR>
+Rosie Cosgrove<BR>
+<BR>
+<c "#FFFF00">Lead Artist</c><BR>
+Scott McDaniel<BR>
+<BR>
+<c "#FFFF00">Lead Character Artist</c><BR>
+Rick Schmitz<BR>
+<BR>
+<c "#FFFF00">Indoor Zone Team Lead</c><BR>
+Vu Nguyen <BR>
+<BR>
+<c "#FFFF00">Artists</c><BR>
+Ronnie Ashlock, Milo D. Cooper, Sabrina Fox, 
+Laura Janczewski, Maurie Manning, Kelsey McNair, 
+Ken Meyer Jr., David Nevala, Bob Painter, 
+Jason Polk, Cory Rohlfs, and James Romedy<BR>
+<BR>
+<c "#FFFF00">Additional Artists</c><BR>
+Patrick Ho, Doug Johnson, Brandon McDonald, 
+Keith Parkinson, and Richard Sjoberg<BR>
+<BR>
+<c "#FFFF00">Lead Game Designer</c><BR>
+Bill Trost<BR>
+<BR>
+<c "#FFFF00">Game Designers</c><BR>
+John Capozzi, Lynn Carrick, Bill Coyle, Dan Enright, 
+Bill Fisher, Javier Jimenez, Lawrence Poe, 
+Jason Polk, Tyler Sargent, and Eugene Wells<BR>
+<BR>
+<c "#FFFF00">Additional Game Designers</c><BR>
+Marlon Barroquillo, Steve Burke, Jeremy Ellis, 
+Joe Russo, Kayvan Simantob, Oliver Smith, 
+and Thomas Wells<BR>
+<BR>
+<c "#FFFF00">Sound and Music</c><BR>
+Sam Powell<BR>
+<BR>
+<c "#FFFF00">Community Relations</c><BR>
+Cindy Archuleta, Chris Hatch, and Alan VanCouvering<BR>
+<BR>
+<c "#FFFF00">QA Manager</c><BR>
+Jose Araiza<BR>
+<BR>
+<c "#FFFF00">Lead Tester</c><BR>
+Ester Ann Sauter<BR>
+<BR>
+<c "#FFFF00">Testers</c><BR>
+Joshua Bie, Jason Biltz, Jason Boone, 
+Harvey Burgess, Carl Flaherty, and Eric Simpson<BR>
+<BR>
+<c "#FFFF00">Director of Operations</c><BR>
+Adam Joffe<BR>
+<BR>
+<c "#FFFF00">Operations Managers</c><BR>
+Jeff Bolaris, Mark Preston, and Dani Roisman<BR>
+<BR>
+<c "#FFFF00">Operations Team</c><BR>
+Michael C. Butler, Cameron Enfinger, Talia Greenman, 
+Stacy Griebel, Robert Hanz, Sid Jaffee, David Jedd, 
+Mike Klug, Rob Matzker, Dave Prestin, Jonathan Rad, 
+Chris Richard, Alan Siu, and Paul Zastoupil<BR>
+<BR>
+<BR>
+<c "#FFFF00">Director of Customer Service</c><BR>
+George Scotto<BR>
+<BR>
+<c "#FFFF00">Customer Service Manager</c><BR>
+Thom Terrazas<BR>
+<BR>
+<c "#FFFF00">Assistant Customer Service Manager</c><BR>
+Charles Flock<BR>
+<BR>
+<c "#FFFF00">Head Game Master</c><BR>
+Michelle Butler<BR>
+<BR>
+<c "#FFFF00">Lead Game Masters</c><BR>
+Marlon Barroquillo, Patrick Cirelli, Alan Crosby, 
+Steven Fraden, Chad Folz, Gary Grobson, Rodney Haza, 
+Thomas Kirton, Gary Matthews, Robyn Rogers, 
+Kayvan Simantob, and Jacob Thornley<BR>
+<BR>
+<c "#FFFF00">Quest Masters</c><BR>
+Amanda Flock, Mark Halash, and Lydia Pope<BR>
+<BR>
+<c "#FFFF00">Game Masters</c><BR>
+Richard Alvernaz, Timothy Broadbent, Vincent Beers, 
+John Burke, Paul Carrico, Jalane Crosby, 
+James Delaney, Brian DeMarco, Adam Dougher, 
+Bruce Economy, Jeremy Ellis, Norm Freeman, 
+Anthony Gervais, James Hanks, Michael Hansen, 
+Chad Haza, James Helssen, Edward Hocking, 
+Eli Holding, David Kish, Thomas Lockard, Shawn Lord, 
+Patrick Murphy, Travis Otten, Norman Perez, 
+Chris Phillips, Tony Rado, Aimee Rekoske, 
+Keith Rekoske, Tiffany Sanchez, Oliver Smith, 
+Glenn Snyder, Jake Sones, Kristen Topp, 
+Alex Von Minden, Travis Wigglesworth, Cassius Zedeker, 
+Jeremy Albert, Warren Caviggia, Jill Henderson, 
+Jason Stone, Chris Lindsay, Salim Grant, 
+and Ruth Trombly<BR>
+<BR>
+<c "#FFFF00">Technical Support Supervisors</c><BR>
+Robert Bautista and Will Figgins<BR>
+<BR>
+<c "#FFFF00">Technical Support Representatives</c><BR>
+Aaron Valdes, Anthony Worthy, Bradley Griffen, 
+Chris Trichel, Christopher Gould, Daryl Jacinto, 
+David Mallet, David Starr, Donald Conley, Gordon Dapkus, 
+James Carter, Jason Mash, Jeremy Jiao, Jeremy Swanson, 
+Luke Brody, Matt Kwid, Michael Turner, Nate Wright, 
+Nathan Blomberg, Patrick O'Hara, and Satao Minami<BR>
+<BR>
+<c "#FFFF00">EverQuest Front-end, Station Integration, and Web Team</c><BR>
+Travis Ball, Tim Cox, Paul Cannella, Dave Dhunjishaw, 
+Todd Federman, Steve Fuller, Marsha Garczewski, 
+Hollis Gray, Monte Greene, Eric Hagstrom, 
+Marie Harrington, Chris Hooton, Graeme Ing, Clayton Kroh, 
+Larry Liberty, Mike Meyer, Bob Mitchell, Mike Murphy, 
+David Sauter, Rich Sjoberg, Stacey Sofia, Mike Thompson, 
+Paul Tighe, Steve Tsuyuki, and Michael Tucker<BR>
+<BR>
+<c "#FFFF00">Executive Director of Marketing and PR</c><BR>
+Scott McDaniel<BR>
+<BR>
+<c "#FFFF00">Sales, Marketing, and Public Relations Team</c><BR>
+Christy Fritts, Lisa Leyba, Tammy Tsuyuki, 
+and Bill Linn and Erica Kohnke of Linn Public Relations<BR>
+<BR>
+<c "#FFFF00">Chief Executive Officer</c><BR>
+Kelly Flock<BR>
+<BR>
+<c "#FFFF00">Chief Operations Officer</c><BR>
+John Smedley<BR>
+<BR>
+<c "#FFFF00">Chief Technology Officer</c><BR>
+Russell Shanks<BR>
+<BR>
+<c "#FFFF00">Vice President, Premium Games</c><BR>
+Brad McQuaid<BR>
+<BR>
+<c "#FFFF00">Vice President, Sales and Marketing</c><BR>
+Don Vercelli<BR>
+<BR>
+<c "#FFFF00">Vice President and General Counsel</c><BR>
+Andy Zaffron<BR>
+<BR>
+<BR>
+<c "#FFFF00">The EverQuest team would like to thank </c>
+<c "#FFFF00">(in no particular order):</c><BR>
+Clint Worley, Kevin McCann, Rich Vogel, John Donham, 
+Andy Sites, Kevin Baca, Mark Botta, Marsha Gygax, 
+Cris Calsada, Kerry Hopkins, Maddog Devine, Tina Cruz, 
+Tracy Schuhwerk, Richard Garriot, Jim Lee, Jill (Shorty), 
+Raven (Bunezuela), Corwin (Chunk), Crowe T. Robot, 
+Sue Wilson-Schmitz, Bill Coyle Sr., Ryan Coyle, 
+Tricia Casteline, Chris and Mike Fritchoff, 
+Brodder Foamymugs, John Kelley, Robert Lipson, 
+the original EverQuest and EverQuest: the Ruins of 
+Kunark Teams, Strategic Marketing Partners, 
+the cool folks over at Blizzard Entertainment, 
+Sony Computer Entertainment America, M:TG, AD&D, 
+Francisco Jimenez, Red Bull Energy Drink (Lightly 
+carbonated, serve chilled), Papa John's Pizza,
+Ultima Online, Asheron's Call, Meridian 59, 
+all of the great MUDs out there, the EverQuest Guides, 
+the EverQuest fan sites (that still don't post spoilers), 
+the EverQuest beta testers, and of course all of the 
+EverQuest fans out there for continued unwavering support 
+that began over a year before release and continues onward, 
+and the countless others whom we've unintentionally 
+forgotten yet have contributed nonetheless. <BR> 

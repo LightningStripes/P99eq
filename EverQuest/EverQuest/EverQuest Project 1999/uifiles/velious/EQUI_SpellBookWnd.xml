@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+  <Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+  <Button item="SBW_Spell0">
+    <ScreenID>SBW_Spell0</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>69</X>
+      <!-- subtracted 15 -->
+      <Y>35</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName0">
+    <ScreenID>SBW_SpellName0</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>49</X>
+      <!-- subtracted 15 -->
+      <Y>79</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>31</CY>
+    </Size>
+    <Text>Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell1">
+    <ScreenID>SBW_Spell1</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>154</X>
+      <!-- subtracted 15 -->
+      <Y>35</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName1">
+    <ScreenID>SBW_SpellName1</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>134</X>
+      <!-- subtracted 15 -->
+      <Y>79</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Melodious Concord</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell2">
+    <ScreenID>SBW_Spell2</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>69</X>
+      <!-- subtracted 15 -->
+      <Y>102</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName2">
+    <ScreenID>SBW_SpellName2</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>49</X>
+      <!-- subtracted 15 -->
+      <Y>146</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell3">
+    <ScreenID>SBW_Spell3</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>154</X>
+      <!-- subtracted 15 -->
+      <Y>102</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName3">
+    <ScreenID>SBW_SpellName3</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>134</X>
+      <!-- subtracted 15 -->
+      <Y>146</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell4">
+    <ScreenID>SBW_Spell4</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>69</X>
+      <!-- subtracted 15 -->
+      <Y>169</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName4">
+    <ScreenID>SBW_SpellName4</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>49</X>
+      <!-- subtracted 15 -->
+      <Y>213</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell5">
+    <ScreenID>SBW_Spell5</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>154</X>
+      <!-- subtracted 15 -->
+      <Y>169</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName5">
+    <ScreenID>SBW_SpellName5</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>134</X>
+      <!-- subtracted 15 -->
+      <Y>213</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell6">
+    <ScreenID>SBW_Spell6</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>69</X>
+      <!-- subtracted 15 -->
+      <Y>236</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName6">
+    <ScreenID>SBW_SpellName6</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>47</X>
+      <!-- subtracted 15 -->
+      <Y>280</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell7">
+    <ScreenID>SBW_Spell7</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>154</X>
+      <!-- subtracted 15 -->
+      <Y>236</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName7">
+    <ScreenID>SBW_SpellName7</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>134</X>
+      <!-- subtracted 15 -->
+      <Y>280</Y>
+      <!-- aded 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <!-- Jibartik: this is the start of fpage 2 -->
+  <Button item="SBW_Spell8">
+    <ScreenID>SBW_Spell8</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>240</X>
+      <!-- 270og Subtracted 30 -->
+      <Y>35</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName8">
+    <ScreenID>SBW_SpellName8</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>220</X>
+      <!-- Subtractd 30 -->
+      <Y>79</Y>
+      <!-- added 15 NOW GOING BLIND -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell9">
+    <ScreenID>SBW_Spell9</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>325</X>
+      <!-- Subtractd 30 -->
+      <Y>35</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName9">
+    <ScreenID>SBW_SpellName9</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>305</X>
+      <!-- Subtractd 30 -->
+      <Y>79</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell10">
+    <ScreenID>SBW_Spell10</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>240</X>
+      <!-- Subtractd 30 -->
+      <Y>102</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName10">
+    <ScreenID>SBW_SpellName10</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>220</X>
+      <!-- Subtractd 30 -->
+      <Y>146</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell11">
+    <ScreenID>SBW_Spell11</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>325</X>
+      <!-- Subtractd 30 -->
+      <Y>102</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName11">
+    <ScreenID>SBW_SpellName11</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>305</X>
+      <!-- Subtractd 30 -->
+      <Y>146</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell12">
+    <ScreenID>SBW_Spell12</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>240</X>
+      <!-- Subtractd 30 -->
+      <Y>169</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName12">
+    <ScreenID>SBW_SpellName12</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>220</X>
+      <!-- Subtractd 30 -->
+      <Y>213</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell13">
+    <ScreenID>SBW_Spell13</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>325</X>
+      <!-- Subtractd 30 -->
+      <Y>169</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName13">
+    <ScreenID>SBW_SpellName13</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>305</X>
+      <!-- Subtractd 30 -->
+      <Y>213</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell14">
+    <ScreenID>SBW_Spell14</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>240</X>
+      <!-- Subtractd 30 -->
+      <Y>236</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName14">
+    <ScreenID>SBW_SpellName14</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>220</X>
+      <!-- Subtractd 30 -->
+      <Y>280</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Button item="SBW_Spell15">
+    <ScreenID>SBW_Spell15</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>325</X>
+      <!-- Subtractd 30 -->
+      <Y>236</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>44</CX>
+      <CY>44</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <ButtonDrawTemplate>
+      <Normal>BlueIconBackground</Normal>
+      <NormalDecal>BuffIcons</NormalDecal>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+    <DecalOffset>
+      <X>2</X>
+      <Y>2</Y>
+    </DecalOffset>
+    <DecalSize>
+      <CX>40</CX>
+      <CY>40</CY>
+    </DecalSize>
+  </Button>
+  <StaticText item="SBW_SpellName15">
+    <ScreenID>SBW_SpellName15</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>305</X>
+      <!-- Subtractd 30 -->
+      <Y>280</Y>
+      <!-- added 15 -->
+    </Location>
+    <Size>
+      <CX>84</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>Blahblah's Complete Healing</Text>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <Gauge item="SBW_Memorize_Gauge">
+    <ScreenID>SBW_Memorize_Gauge</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>66</X>
+      <Y>327</Y>
+    </Location>
+    <Size>
+      <CX>117</CX>
+      <CY>18</CY>
+    </Size>
+    <GaugeOffsetY>0</GaugeOffsetY>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <FillTint>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </FillTint>
+    <LinesFillTint>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </LinesFillTint>
+    <DrawLinesFill>false</DrawLinesFill>
+    <EQType>9</EQType>
+    <GaugeDrawTemplate>
+      <Background>Jib_SpellGaugeBackground</Background>
+      <Fill>Jib_SpellGaugeFill</Fill>
+      <EndCapRight>Jib_GaugeEndCapRight</EndCapRight>
+      <EndCapLeft>Jib_SpellGaugeEndCapLeft</EndCapLeft>
+    </GaugeDrawTemplate>
+  </Gauge>
+  <Gauge item="SBW_Scribe_Gauge">
+    <ScreenID>SBW_Memorize_Gauge</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>264</X>
+      <Y>328</Y>
+    </Location>
+    <Size>
+      <CX>117</CX>
+      <CY>18</CY>
+    </Size>
+    <GaugeOffsetY>0</GaugeOffsetY>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <FillTint>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </FillTint>
+    <LinesFillTint>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </LinesFillTint>
+    <DrawLinesFill>false</DrawLinesFill>
+    <EQType>10</EQType>
+    <GaugeDrawTemplate>
+      <Background>Jib_SpellGaugeBackground</Background>
+      <Fill>Jib_SpellGaugeFill</Fill>
+      <EndCapRight>Jib_GaugeEndCapRight</EndCapRight>
+      <EndCapLeft>Jib_SpellGaugeEndCapLeft</EndCapLeft>
+    </GaugeDrawTemplate>
+  </Gauge>
+  <Button item="SBW_MemPage0_Button">
+    <ScreenID>SBW_MemPage0_Button</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>76</X>
+      <Y>305</Y>
+    </Location>
+    <Size>
+      <CX>0</CX>
+      <CY>0</CY>
+      <!-- <CX>96</CX> -->
+      <!-- <CY>20</CY> -->
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <Text>Mem. This Page</Text>
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+    <ButtonDrawTemplate>
+      <Normal>A_BtnNormal</Normal>
+      <Pressed>A_BtnPressed</Pressed>
+      <Flyby>A_BtnFlyby</Flyby>
+      <Disabled>A_BtnDisabled</Disabled>
+      <PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+  </Button>
+  <Button item="SBW_MemPage1_Button">
+    <ScreenID>SBW_MemPage1_Button</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>306</X>
+      <Y>305</Y>
+    </Location>
+    <Size>
+      <CX>0</CX>
+      <CY>0</CY>
+      <!-- <CX>96</CX> -->
+      <!-- <CY>20</CY> -->
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <Text>Mem. This Page</Text>
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+    <ButtonDrawTemplate>
+      <Normal>A_BtnNormal</Normal>
+      <Pressed>A_BtnPressed</Pressed>
+      <Flyby>A_BtnFlyby</Flyby>
+      <Disabled>A_BtnDisabled</Disabled>
+      <PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+  </Button>
+  <Button item="SBW_PageDown_Button">
+    <ScreenID>SBW_PageDown_Button</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>25</X>
+      <Y>317</Y>
+    </Location>
+    <Size>
+      <CX>30</CX>
+      <CY>32</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <Text />
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+    <ButtonDrawTemplate>
+      <Normal>A_LeftArrowBtnNormal</Normal>
+      <Pressed>A_LeftArrowBtnPressed</Pressed>
+      <Flyby>A_LeftArrowBtnFlyby</Flyby>
+      <Disabled>A_LeftArrowBtnDisabled</Disabled>
+      <PressedFlyby>A_LeftArrowBtnPressedFlyby</PressedFlyby>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+  </Button>
+  <Button item="SBW_PageUp_Button">
+    <ScreenID>SBW_PageUp_Button</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>390</X>
+      <Y>317</Y>
+    </Location>
+    <Size>
+      <CX>30</CX>
+      <CY>32</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <Style_Checkbox>false</Style_Checkbox>
+    <!--<RadioGroup/>-->
+    <Text />
+    <TextColor>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+    </TextColor>
+    <ButtonDrawTemplate>
+      <Normal>A_RightArrowBtnNormal</Normal>
+      <Pressed>A_RightArrowBtnPressed</Pressed>
+      <Flyby>A_RightArrowBtnFlyby</Flyby>
+      <Disabled>A_RightArrowBtnDisabled</Disabled>
+      <PressedFlyby>A_RightArrowBtnPressedFlyby</PressedFlyby>
+    </ButtonDrawTemplate>
+    <!--<SoundPressed/>-->
+    <!--<SoundUp/>-->
+    <!--<SoundFlyby/>-->
+  </Button>
+  <StaticText item="SBW_LeftPageNum">
+    <ScreenID>SBW_LeftPageNum</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>123</X>
+      <Y>275</Y>
+    </Location>
+    <Size>
+      <CX>20</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>98</Text>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <StaticText item="SBW_RightPageNum">
+    <ScreenID>SBW_RightPageNum</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>296</X>
+      <Y>275</Y>
+    </Location>
+    <Size>
+      <CX>20</CX>
+      <CY>16</CY>
+    </Size>
+    <Text>99</Text>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <!-- Jib: This is the background of the book itself -->
+  <StaticAnimation item="SBW_SpellBook1">
+    <ScreenID>SBW_SpellBook1</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>-5</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>256</CX>
+      <CY>256</CY>
+    </Size>
+    <Animation>A_SpellBook05</Animation>
+  </StaticAnimation>
+  <StaticAnimation item="SBW_SpellBook2">
+    <ScreenID>SBW_SpellBook2</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>251</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>256</CX>
+      <CY>256</CY>
+    </Size>
+    <Animation>A_SpellBook06</Animation>
+  </StaticAnimation>
+  <StaticAnimation item="SBW_SpellBook3">
+    <ScreenID>SBW_SpellBook3</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>-5</X>
+      <Y>271</Y>
+    </Location>
+    <Size>
+      <CX>256</CX>
+      <CY>128</CY>
+    </Size>
+    <Animation>A_SpellBook07</Animation>
+  </StaticAnimation>
+  <StaticAnimation item="SBW_SpellBook4">
+    <ScreenID>SBW_SpellBook4</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>251</X>
+      <Y>271</Y>
+    </Location>
+    <Size>
+      <CX>256</CX>
+      <CY>128</CY>
+    </Size>
+    <Animation>A_SpellBook08</Animation>
+  </StaticAnimation>
+  <!-- Jib: This is the end of the spellbook background -->
+  <!-- this is the meditate button -->
+  <Button item="SBW_MeditateButton">
+    <ScreenID>MeditateButton</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>191</X>
+      <Y>321</Y>
+    </Location>
+    <Size>
+      <CX>62</CX>
+      <CY>26</CY>
+    </Size>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>false</Style_Transparent>
+    <Style_Checkbox>true</Style_Checkbox>
+    <ButtonDrawTemplate>
+      <Normal>A_MeditateNormal</Normal>
+      <Pressed>A_MeditatePressed</Pressed>
+      <Flyby>A_MeditateNormal</Flyby>
+      <Disabled>A_MeditateNormal</Disabled>
+      <PressedFlyby>A_MeditatePressed</PressedFlyby>
+    </ButtonDrawTemplate>
+  </Button>
+  <!-- this is the done button -->
+  <Button item="SBW_DoneButton">
+    <ScreenID>DoneButton</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>191</X>
+      <Y>500</Y>
+    </Location>
+    <Size>
+      <CX>48</CX>
+      <CY>19</CY>
+    </Size>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>false</Style_Transparent>
+    <Style_Checkbox>true</Style_Checkbox>
+    <ButtonDrawTemplate>
+      <Normal>A_ClassicDoneNormal</Normal>
+      <Pressed>A_ClassicDonePressed</Pressed>
+      <Flyby>A_ClassicDoneNormal</Flyby>
+      <Disabled>A_ClassicDoneNormal</Disabled>
+      <PressedFlyby>A_ClassicDonePressed</PressedFlyby>
+    </ButtonDrawTemplate>
+  </Button>
+  <!-- Jibartik Start: This is a static aniamtion of a classic background -->
+  <Ui2DAnimation item="Jib_SpellbookBackground">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds02.tga</Texture>
+      <Location>
+        <X>0</X>
+        <!-- changes texture postion -->
+        <Y>0</Y>
+        <!-- changes texture postion -->
+      </Location>
+      <Size>
+        <CX>399</CX>
+        <!-- changes size of image -->
+        <CY>320</CY>
+        <!-- changes size of image -->
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <!-- this is the end of the pressed button -->
+  <!-- Jibartik Start: This positions a static aniamtion on the ui -->
+  <StaticAnimation item="SpellbookBackgroud">
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>0</X>
+      <!-- will move the image around -->
+      <Y>0</Y>
+      <!-- will move the image around -->
+    </Location>
+    <Size>
+      <CX>442</CX>
+      <!-- stretches button around -->
+      <CY>365</CY>
+      <!-- stretches button around -->
+    </Size>
+    <Animation>Jib_SpellbookBackground</Animation>
+  </StaticAnimation>
+  <!-- END: place a static anaitmion -->
+  <Screen item="SpellBookWnd">
+    <!--<ScreenID/>-->
+    <RelativePosition>false</RelativePosition>
+    <Location>
+      <X>40</X>
+      <Y>10</Y>
+    </Location>
+    <Size>
+      <CX>442</CX>
+      <CY>365</CY>
+    </Size>
+    <Text>Spell Book</Text>
+    <TextColor>
+      <R>7</R>
+      <G>7</G>
+      <B>7</B>
+    </TextColor>
+    <Style_Transparent>false</Style_Transparent>
+    <TooltipReference>Your Spell Book</TooltipReference>
+    <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+    <Style_Titlebar>false</Style_Titlebar>
+    <Style_Closebox>false</Style_Closebox>
+    <Style_Minimizebox>false</Style_Minimizebox>
+    <Style_Border>false</Style_Border>
+    <Style_Sizable>false</Style_Sizable>
+    <Pieces>SpellbookBackgroud</Pieces>
+    <Pieces>SBW_SpellBook1</Pieces>
+    <Pieces>SBW_SpellBook2</Pieces>
+    <Pieces>SBW_SpellBook3</Pieces>
+    <Pieces>SBW_SpellBook4</Pieces>
+    <Pieces>SBW_Spell0</Pieces>
+    <Pieces>SBW_SpellName0</Pieces>
+    <Pieces>SBW_Spell1</Pieces>
+    <Pieces>SBW_SpellName1</Pieces>
+    <Pieces>SBW_Spell2</Pieces>
+    <Pieces>SBW_SpellName2</Pieces>
+    <Pieces>SBW_Spell3</Pieces>
+    <Pieces>SBW_SpellName3</Pieces>
+    <Pieces>SBW_Spell4</Pieces>
+    <Pieces>SBW_SpellName4</Pieces>
+    <Pieces>SBW_Spell5</Pieces>
+    <Pieces>SBW_SpellName5</Pieces>
+    <Pieces>SBW_Spell6</Pieces>
+    <Pieces>SBW_SpellName6</Pieces>
+    <Pieces>SBW_Spell7</Pieces>
+    <Pieces>SBW_SpellName7</Pieces>
+    <Pieces>SBW_Spell8</Pieces>
+    <Pieces>SBW_SpellName8</Pieces>
+    <Pieces>SBW_Spell9</Pieces>
+    <Pieces>SBW_SpellName9</Pieces>
+    <Pieces>SBW_Spell10</Pieces>
+    <Pieces>SBW_SpellName10</Pieces>
+    <Pieces>SBW_Spell11</Pieces>
+    <Pieces>SBW_SpellName11</Pieces>
+    <Pieces>SBW_Spell12</Pieces>
+    <Pieces>SBW_SpellName12</Pieces>
+    <Pieces>SBW_Spell13</Pieces>
+    <Pieces>SBW_SpellName13</Pieces>
+    <Pieces>SBW_Spell14</Pieces>
+    <Pieces>SBW_SpellName14</Pieces>
+    <Pieces>SBW_Spell15</Pieces>
+    <Pieces>SBW_SpellName15</Pieces>
+    <Pieces>SBW_Memorize_Gauge</Pieces>
+    <Pieces>SBW_Scribe_Gauge</Pieces>
+    <Pieces>SBW_MemPage0_Button</Pieces>
+    <Pieces>SBW_MemPage1_Button</Pieces>
+    <Pieces>SBW_PageDown_Button</Pieces>
+    <Pieces>SBW_PageUp_Button</Pieces>
+    <Pieces>SBW_LeftPageNum</Pieces>
+    <Pieces>SBW_RightPageNum</Pieces>
+    <Pieces>SBW_DoneButton</Pieces>
+    <Pieces>SBW_MeditateButton</Pieces>
+  </Screen>
+</XML>

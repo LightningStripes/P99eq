@@ -1,0 +1,144 @@
+2/10/99 10:41am
+---------------
+Welcome to Phase 4 of the EverQuest BETA Test!
+
+Thank you for participating in the final EverQuest beta phase.
+
+Please keep in mind that this is still BETA.  There will be bugs, there will be problems. 
+
+With 25,000 of you entering the game these next few days there will undoubtedly be difficulties.  We will resolve them as quickly as possible, but we ask for your patience and help, especially during this time.  Expectations are high, and while I don't think you'll be disappointed, please remember this is still a test, and we are all here to help in this process.
+
+With that said, welcome to our world -- I'll see you in-game :)
+
+-Brad McQuaid
+ Producer, EverQuest
+
+*NOTE* Phase 3.0 and 3.5 testers wishing to have their accounts restored MUST use the test server.
+
+If you wish to connect to the EverQuest Test Server, you must run "testEverQuest.exe" instead of "EverQuest.exe".
+
+2/15/99 12:30am
+---------------
+We have added the EverQuest tutorial, which is recommended for new players getting started in the world of Norrath.  To patch the tutorial, you will need to patch using the "testeverquest.exe" to receive all of the required files, then run "tutorial.exe".  Please give us any feedback that you may have for improvments that should be made.  All of the character restorations from phases 3 and 3.5 to the "Test" server should be completed by the end of the day.  Also, please note that the "News" window will only contain information regarding the current additions and bug fixes, all past news can be read from the "revision.txt" file located in your EverQuest directory.
+
+
+Bug Fixes
+
+ - The "Backstab" and "Bind Wound" skills should be working as intended.
+ - We believe we have solved one of the problems that occurs when people
+   would get booted at the EverQuest loading screen (with the Elf woman on it).
+ - We should very shortly have fixed all of the registration problems. Try back
+   later tonight if you haven't successfully registered.
+ - Zones should be MUCH, MUCH more stable now. We fixed a major crash problem with them.
+ - New Banshee drivers should be up on www.everquest.com - These are EverQuest specific.
+   Thanks to 3dfx for giving us these drivers before they are generally released.
+ - If you have a Voodoo2 and you have THE latest drivers from 3dfx, you will have
+   a problem switching resolutions. Please use the drivers off of www.everquest.com, as they
+   work properly.
+
+2/19/99 9pm
+-------------
+The EverQuest Team is pleased to announce a major enhancement to Trade Skills! 
+
+We've just updated our all of our servers with over 1,000 new items, the vast majority of which are created exclusively using the various trade skills available to players in the game. The EverQuest manual has been updated to reflect these skills.
+
+To be really successful as a tradesman it is important to remember a few things:
+-A trade merchant shouldn't sell every component required to make an item.  They don't want you undercutting them.
+-A merchant will usually not give you retail value for a product you are selling.  They need to make a profit.
+-A merchant will usually give you more money for an item than the cost of the components if the item is only available from PC tradesmen.
+-A merchant will usually charge a high price for a trade item.  This allows a PC tradesman a hefty profit if they wish to sell directly to players.
+-A trade item will usually be better than a merchant bought item of the same cost.
+
+2/22/99
+----------
+-Test Server Update
+
+Good evening citizens of Norrath!
+
+Various changes have been made to the trade skills, including additional component carrying merchants, new items, and general bug fixes.  Pending the success of the changes and bug fixes on the Test server, all remaining world servers should be updated on Thursday, 25th.  If you have any suggestions or complaints about the trade skills, please direct all comments to us via the "/feedback" command.
+
+Included in the patch is an updated version of the EverQuest beta manual.
+
+
+The following players have been banned from the Phase 4 EverQuest beta test for failure to comply with repeated warnings against exploiting mobs and other PvP+ players on the Rallos Zek server.
+Chat Handle/Character Name:
+Tweed/Tweed
+Bendoggius/Smizzurf
+Lucenthawk/Lucenthawk
+Jakila/Revken
+DustyAirs/Amoush
+lou76/Llan
+
+The following player has been banned for ignoring repeated warnings against the use of profanity and racial slurs on the Chat server.
+Moonrings 
+
+We regret the necessity of these actions, but we are committed to providing a positive play environment for our testing customers.
+
+February 26th
+-------------
+
+1) Problem with people unable to enter the game after getting disconnected - We found this problem
+and we believe we have completely corrected it.
+2) Seeing your own Hit Point bug - We corrected several problems in this area. You shouldn't
+have any more problems seeing your own Hit Points any more. In addition, you shouldn't have
+any more problems seeing the Hit Points of your own party or monsters you target. This should
+fix the Paladin - Lay Hands on problem as well.
+3) Charm Spell problems - We should have fixed all the problems related to this spell, particularly
+regarding Hit Points and other associated problems.
+4) Problems with falling thru the World while zoning - We believe this problem has been fixed.
+If anyone still encounters this problem, please email us immediately.
+5) All Bards should now get Dual Wield.
+6) Rangers, Shadow Knights and Paladins should all get channelling.
+7) Several Crash Bugs have been fixed on both the zone and world servers.
+8) Several Combat bugs have been fixed regarding damage.
+9) You should now be able to target translucent creatures (also see note below).
+10) You can no longer trade with NPC's from any height.
+11) If you zone while anonymous, you will still be anonymous when you reach the new zone.
+12) Sound - We have finally activated music. You will only get music if you have a Sound Font
+capable sound card. These cards include - Awe 64 Gold and Value, Awe32, SB Live - In the next
+few days we will be activating the music on ALL sound cards. As this is code hasn't been
+in before, please let us know of any problems you encounter.
+13) Other Client side bugs, including several lockups and crashes.
+14) Boats - Boats should be very stable now. Enjoy sailing!!
+15) Targeting - We have made MAJOR improvements to the targeting routines. Try
+them out and tell us what you think.
+16) You should no longer lose your Newbie Guild Tunic upon death.
+17) The chat server is now optional.
+18) We have TEMPORARILY disabled Glide on Banshees.. we've found a potentially
+fatal problem, and are working with 3dfx to resolve it. 
+
+
+
+Wednesday March 3rd
+
+BILLING SYSTEM TEST
+-------------------
+
+Beginning tomorrow (Thursday March 4th) at around 11am PST we will begin
+conducting live tests of our billing system. What that will mean for you
+is that the next time you log in after we turn this on, you will need
+to enter your billing information.
+
+NO CHARGES WILL BE PUT ON YOUR CARDS - THIS IS A ZERO DOLLAR TEST.
+
+You will still see our pricing options, but ignore those dollar amounts
+as nothing will actually be charged to your card. We are merely doing
+a dry run of the system. Please select randomly from the different
+pricing plans.
+
+For those of you who do not have credit cards, you will be unable to
+play EverQuest for the remainder of the test. We apologize, but this
+is neccessary for us to test the functionality of the Billing System.
+
+The Credit Card you use DOES NOT HAVE TO BE THE SAME ONE YOU USED FOR THE
+PHASE 4 BETA.
+
+Also, we will be at times forcing people to resubscribe (maybe once or twice
+over the next week) just to shake out any problems with the billing system.
+
+The EverQuest Team
+
+
+
+
+

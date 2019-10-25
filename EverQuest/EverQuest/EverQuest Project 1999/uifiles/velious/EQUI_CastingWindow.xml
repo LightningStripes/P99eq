@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+  <Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+  <TextureInfo item="classic_backgrounds01.png">
+    <Size>
+      <CX>512</CX>
+      <CY>512</CY>
+    </Size>
+  </TextureInfo>
+  <Ui2DAnimation item="CastingGaugeBackground">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds01.png</Texture>
+      <Location>
+        <X>0</X>
+        <Y>100</Y>
+      </Location>
+      <Size>
+        <CX>65</CX>
+        <CY>5</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <Ui2DAnimation item="CastingGaugeFill">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds01.png</Texture>
+      <Location>
+        <X>0</X>
+        <Y>95</Y>
+      </Location>
+      <Size>
+        <CX>65</CX>
+        <CY>5</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <Ui2DAnimation item="CastingGaugeLines">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds01.tga</Texture>
+      <Location>
+        <X>0</X>
+        <Y>105</Y>
+      </Location>
+      <Size>
+        <CX>65</CX>
+        <CY>5</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <Ui2DAnimation item="CastingGaugeLinesFill">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds01.png</Texture>
+      <Location>
+        <X>0</X>
+        <Y>105</Y>
+      </Location>
+      <Size>
+        <CX>63</CX>
+        <CY>5</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <Gauge item="Casting_Gauge">
+    <ScreenID>Gauge</ScreenID>
+    <!--<Font>3</Font> -->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>26</X>
+      <Y>20</Y>
+    </Location>
+    <Size>
+      <CX>116</CX>
+      <CY>8</CY>
+    </Size>
+    <GaugeOffsetY>0</GaugeOffsetY>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <FillTint>
+      <R>240</R>
+      <G>0</G>
+      <B>240</B>
+    </FillTint>
+    <LinesFillTint>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </LinesFillTint>
+    <DrawLinesFill>false</DrawLinesFill>
+    <EQType>7</EQType>
+    <GaugeDrawTemplate>
+      <Background>CastingGaugeBackground</Background>
+      <Fill>CastingGaugeFill</Fill>
+      <Lines>CastingGaugeLinesFill</Lines>
+      <LinesFill>CastingGaugeLinesFill</LinesFill>
+      <!--<EndCapLeft>A_GaugeEndCapLeft</EndCapLeft>
+			<EndCapRight>A_GaugeEndCapRight</EndCapRight>-->
+    </GaugeDrawTemplate>
+  </Gauge>
+  <!--Jib: Background texture -->
+  <Ui2DAnimation item="Jib_CastBGTexture">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds03.png</Texture>
+      <Location>
+        <X>119</X>
+        <Y>212</Y>
+      </Location>
+      <Size>
+        <CX>120</CX>
+        <CY>56</CY>
+      </Size>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <!-- this is the end of the pressed button -->
+  <!-- Jibartik Start: This positions a static aniamtion on the ui -->
+  <StaticAnimation item="Jib_CastBackgroud">
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>0</X>
+      <!-- changes texture postion -->
+      <Y>0</Y>
+      <!-- changes texture postion -->
+    </Location>
+    <Size>
+      <CX>120</CX>
+      <CY>56</CY>
+    </Size>
+    <Animation>Jib_CastBGTexture</Animation>
+  </StaticAnimation>
+  <!-- END: place background texture anaitmion -->
+  <Screen item="CastingWindow">
+    <!--<ScreenID/>-->
+    <!--<Font/>-->
+    <RelativePosition>false</RelativePosition>
+    <Location>
+      <X>119</X>
+      <Y>212</Y>
+    </Location>
+    <Size>
+      <CX>120</CX>
+      <CY>56</CY>
+    </Size>
+    <Text>Casting Time</Text>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>false</Style_Transparent>
+    <TooltipReference>The Breath Meter</TooltipReference>
+    <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+    <Style_Titlebar>false</Style_Titlebar>
+    <Style_Closebox>false</Style_Closebox>
+    <Style_Minimizebox>false</Style_Minimizebox>
+    <Style_Border>false</Style_Border>
+    <Style_Sizable>false</Style_Sizable>
+    <Pieces>Jib_CastBackgroud</Pieces>
+    <Pieces>Casting_Gauge</Pieces>
+  </Screen>
+</XML>

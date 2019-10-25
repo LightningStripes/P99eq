@@ -1,0 +1,45 @@
+Reporting Bugs
+
+What are bugs?
+
+Since EverQuest is an unfinished product, naturally you will encounter bugs during the beta test.  A bug is 
+a flaw in the software which causes undesired effects during gameplay.  The bug's complexity can vary 
+from simple grammatical errors and non-functional options, to the more severe problems such as game 
+crashes and character statistic deficiencies.  
+
+There are several levels of classifying bugs, this helps us determine which area of gameplay the problem 
+occurs in.  They are listed in the order of severity:
+
+Game Crash
+Statistics
+Audio/Video
+Controls
+Front-end (character selection)
+
+Bugs such as crashes, statistic errors, and audio/video card problems will have priority over others, 
+however, all reported bugs will be attended to ASAP.  
+
+Encountering a Bug
+
+While playing EverQuest, you will encounter bugs.  It is important that any bugs encountered are 
+immediately reported via a "Bug Submission Form"(BSF).  Most bugs found will be simple, obvious 
+problems such as incorrect text, textures, or other visual problems.  However, bugs such as crashes and 
+statistic inconsistencies may be more difficult to pinpoint.  If any of the mentioned problems occur, a few 
+simple steps should be taken before submitting the bug.  Check to see that the problem is consistent, if so, 
+narrow down the key reasons that are the cause(such as certain items equipped, keystrokes, etc.).  If you are 
+unable to track down the cause of the problem, and cannot reproduce it, then bring it to the attention of a 
+GM.  If you cannot reach a GM, a BSF containing a detailed description of the problem should be 
+submitted.  
+
+Bug Submission Forms
+
+As previously mentioned, bugs will be submitted via an in-game Bug Submission Form.  To access the 
+form, activate the chat bar and type "/b", then press the "Enter" key.  When filling out a BSF, the following 
+details should be included; computer specifications(CPU brand and speed, audio/video card brand, and 
+amount of RAM), zone name, character race and class, items the character has equipped or is carrying, the 
+actions of the character and or others in the area at the time the bug occurred, and a detailed description of 
+the bug.  Submitting a BSF with as much detail as possible will help direct the programmers to the 
+problem, which in turn will result in faster bug fixes.  
+
+*Please note, any users that are found to be exploiting any bug that is advantageous to the progression of 
+their character or harmful to other players, will be removed immediately from the EverQuest beta test.

@@ -1,0 +1,12 @@
+11
+cst,cst
+brc,brc_chr
+ccd,ccd_chr
+dru,dru_chr
+trk,trk_chr
+qcm,qeynos_chr
+zom,unrest_chr
+zof,unrest_chr
+tar,tar
+dke,dke
+rtn,rtn

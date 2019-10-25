@@ -1,0 +1,203 @@
+<?xml version = "1.0"?> 
+<XML ID = "EQInterfaceDefinitionLanguage"> 
+   <Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/> 
+
+   <Listbox item = "PM_PluginList"> 
+      <ScreenID>PM_PluginList</ScreenID> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>2</TopAnchorOffset> 
+      <LeftAnchorOffset>2</LeftAnchorOffset> 
+      <RightAnchorOffset>2</RightAnchorOffset> 
+      <BottomAnchorOffset>24</BottomAnchorOffset> 
+      <RightAnchorToLeft>false</RightAnchorToLeft> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>true</TopAnchorToTop> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+
+      <DrawTemplate>WDT_Inner</DrawTemplate> 
+      <TextColor> 
+            <R>255</R> 
+            <G>255</G> 
+            <B>255</B> 
+      </TextColor> 
+      <Columns> 
+					<Sortable>true</Sortable>
+					<Width>150</Width>
+					<Heading>Name</Heading>
+      </Columns> 
+      <Columns> 
+					<Sortable>false</Sortable>
+					<Width>750</Width>
+					<Heading>Description</Heading>
+      </Columns> 
+      <Font>2</Font>
+      <Style_Border>true</Style_Border> 
+      <Style_VScroll>true</Style_VScroll> 
+      <Style_HScroll>true</Style_HScroll> 
+   </Listbox> 
+    
+   <Button item = "PM_LoadButton"> 
+      <ScreenID>PM_LoadButton</ScreenID> 
+      <Font>1</Font> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>24</TopAnchorOffset> 
+      <LeftAnchorOffset>2</LeftAnchorOffset> 
+      <RightAnchorOffset>82</RightAnchorOffset> 
+      <BottomAnchorOffset>2</BottomAnchorOffset> 
+      <RightAnchorToLeft>true</RightAnchorToLeft> 
+      <TopAnchorToBottom>false</TopAnchorToBottom> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>false</TopAnchorToTop> 
+      <BottomAnchorToBottom>true</BottomAnchorToBottom> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+      <RightAnchorToRight>false</RightAnchorToRight> 
+      <LeftAnchorToRight>false</LeftAnchorToRight> 
+
+      <Style_Transparent>false</Style_Transparent> 
+      <Style_Checkbox>false</Style_Checkbox> 
+      <Text>Load Plugin</Text> 
+      <TooltipReference>Left-click to load the selected plugin (right-click for noauto load)</TooltipReference> 
+      <TextColor> 
+         <R>10</R> 
+         <G>255</G> 
+         <B>10</B> 
+      </TextColor> 
+      <ButtonDrawTemplate> 
+         <Normal>A_BtnNormal</Normal> 
+         <Pressed>A_BtnPressed</Pressed> 
+         <Flyby>A_BtnFlyby</Flyby> 
+         <Disabled>A_BtnDisabled</Disabled> 
+         <PressedFlyby>A_BtnPressedFlyby</PressedFlyby> 
+      </ButtonDrawTemplate> 
+   </Button> 
+
+   <Button item = "PM_UnloadButton"> 
+      <ScreenID>PM_UnloadButton</ScreenID> 
+      <Font>1</Font> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>24</TopAnchorOffset> 
+      <LeftAnchorOffset>84</LeftAnchorOffset> 
+      <RightAnchorOffset>166</RightAnchorOffset> 
+      <BottomAnchorOffset>2</BottomAnchorOffset> 
+      <RightAnchorToLeft>true</RightAnchorToLeft> 
+      <TopAnchorToBottom>false</TopAnchorToBottom> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>false</TopAnchorToTop> 
+      <BottomAnchorToBottom>true</BottomAnchorToBottom> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+      <RightAnchorToRight>false</RightAnchorToRight> 
+      <LeftAnchorToRight>false</LeftAnchorToRight> 
+
+      <Style_Transparent>false</Style_Transparent> 
+      <Style_Checkbox>false</Style_Checkbox> 
+      <Text>Unload Plugin</Text> 
+      <TooltipReference>Left-click to unload the selected plugin (right-click for noauto unload)</TooltipReference> 
+      <TextColor> 
+         <R>150</R> 
+         <G>0</G> 
+         <B>150</B> 
+      </TextColor> 
+      <ButtonDrawTemplate> 
+         <Normal>A_BtnNormal</Normal> 
+         <Pressed>A_BtnPressed</Pressed> 
+         <Flyby>A_BtnFlyby</Flyby> 
+         <Disabled>A_BtnDisabled</Disabled> 
+         <PressedFlyby>A_BtnPressedFlyby</PressedFlyby> 
+      </ButtonDrawTemplate> 
+   </Button> 
+
+   <Label item="PM_InfoLabel1"> 
+      <ScreenID>PM_InfoLabel1</ScreenID> 
+      <Font>1</Font> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>24</TopAnchorOffset> 
+      <LeftAnchorOffset>170</LeftAnchorOffset> 
+      <RightAnchorOffset>2</RightAnchorOffset> 
+      <BottomAnchorOffset>13</BottomAnchorOffset> 
+      <RightAnchorToLeft>false</RightAnchorToLeft> 
+      <TopAnchorToBottom>false</TopAnchorToBottom> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>false</TopAnchorToTop> 
+      <BottomAnchorToBottom>true</BottomAnchorToBottom> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+      <RightAnchorToRight>true</RightAnchorToRight> 
+      <LeftAnchorToRight>false</LeftAnchorToRight> 
+
+      <Style_Transparent>false</Style_Transparent> 
+      <Style_Checkbox>false</Style_Checkbox> 
+      <Text>Right-click a plugin to view the wiki page</Text> 
+      <TooltipReference>Right-click a plugin to view the wiki page</TooltipReference> 
+      <TextColor> 
+         <R>255</R> 
+         <G>255</G> 
+         <B>0</B> 
+      </TextColor> 
+      <NoWrap>true</NoWrap> 
+      <AlignCenter>false</AlignCenter> 
+      <AlignRight>false</AlignRight> 
+   </Label> 
+
+   <Label item="PM_InfoLabel2"> 
+      <ScreenID>PM_InfoLabel2</ScreenID> 
+      <Font>1</Font> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>12</TopAnchorOffset> 
+      <LeftAnchorOffset>170</LeftAnchorOffset> 
+      <RightAnchorOffset>2</RightAnchorOffset> 
+      <BottomAnchorOffset>2</BottomAnchorOffset> 
+      <RightAnchorToLeft>false</RightAnchorToLeft> 
+      <TopAnchorToBottom>false</TopAnchorToBottom> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>false</TopAnchorToTop> 
+      <BottomAnchorToBottom>true</BottomAnchorToBottom> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+      <RightAnchorToRight>true</RightAnchorToRight> 
+      <LeftAnchorToRight>false</LeftAnchorToRight> 
+
+      <Style_Transparent>false</Style_Transparent> 
+      <Style_Checkbox>false</Style_Checkbox> 
+      <Text>Double-click a plugin to load/unload</Text> 
+      <TooltipReference>Double-click a plugin to load/unload</TooltipReference> 
+      <TextColor> 
+         <R>255</R> 
+         <G>255</G> 
+         <B>0</B> 
+      </TextColor> 
+      <NoWrap>true</NoWrap> 
+      <AlignCenter>false</AlignCenter> 
+      <AlignRight>false</AlignRight> 
+   </Label> 
+
+   <Screen item = "PluginManWnd"> 
+      <RelativePosition>false</RelativePosition> 
+      <Location> 
+         <X>280</X> 
+         <Y>280</Y> 
+      </Location> 
+      <Size> 
+         <CX>280</CX> 
+         <CY>210</CY> 
+      </Size> 
+      <Text>Plugin Manager</Text> 
+      <Style_VScroll>false</Style_VScroll> 
+      <Style_HScroll>false</Style_HScroll> 
+      <Style_Transparent>false</Style_Transparent> 
+      <DrawTemplate>WDT_Def</DrawTemplate> 
+      <Style_Titlebar>true</Style_Titlebar> 
+      <Style_Closebox>true</Style_Closebox> 
+      <Style_Minimizebox>true</Style_Minimizebox> 
+      <Style_Border>true</Style_Border> 
+      <Style_Sizable>true</Style_Sizable> 
+      <Pieces>PM_PluginList</Pieces> 
+      <Pieces>PM_LoadButton</Pieces> 
+      <Pieces>PM_UnloadButton</Pieces> 
+      <Pieces>PM_InfoLabel1</Pieces>
+      <Pieces>PM_InfoLabel2</Pieces>
+   </Screen> 
+
+</XML> 

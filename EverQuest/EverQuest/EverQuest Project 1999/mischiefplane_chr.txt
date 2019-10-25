@@ -1,0 +1,6 @@
+5
+cst,cst
+shr,shr_chr
+jkr,jkr_chr
+eey,eey_chr
+rtn,rtn

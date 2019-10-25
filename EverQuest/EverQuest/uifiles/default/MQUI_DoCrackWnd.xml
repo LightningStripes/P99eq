@@ -1,0 +1,138 @@
+<?xml version = "1.0"?> 
+<XML ID = "EQInterfaceDefinitionLanguage"> 
+   <Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/> 
+
+   <Listbox item = "DC_CrackList"> 
+      <ScreenID>DC_CrackList</ScreenID> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>2</TopAnchorOffset> 
+      <LeftAnchorOffset>2</LeftAnchorOffset> 
+      <RightAnchorOffset>2</RightAnchorOffset> 
+      <BottomAnchorOffset>24</BottomAnchorOffset> 
+      <RightAnchorToLeft>false</RightAnchorToLeft> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>true</TopAnchorToTop> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+
+      <DrawTemplate>WDT_Inner</DrawTemplate> 
+      <TooltipReference>Left-click a crack to toggle it ON/OFF, right-click a crack to show the description</TooltipReference> 
+      <TextColor> 
+            <R>255</R> 
+            <G>255</G> 
+            <B>255</B> 
+      </TextColor> 
+      <Columns> 
+					<Sortable>false</Sortable>
+					<Width>150</Width>
+					<Heading>Crack Name</Heading>
+      </Columns> 
+      <Columns> 
+					<Sortable>false</Sortable>
+					<Width>350</Width>
+					<Heading>Description</Heading>
+      </Columns> 
+      <Font>2</Font>
+      <Style_Border>true</Style_Border> 
+      <Style_VScroll>true</Style_VScroll> 
+      <Style_HScroll>true</Style_HScroll> 
+   </Listbox> 
+    
+   <Button item = "DC_LoadButton"> 
+      <ScreenID>DC_LoadButton</ScreenID> 
+      <Font>1</Font> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>24</TopAnchorOffset> 
+      <LeftAnchorOffset>2</LeftAnchorOffset> 
+      <RightAnchorOffset>82</RightAnchorOffset> 
+      <BottomAnchorOffset>2</BottomAnchorOffset> 
+      <RightAnchorToLeft>true</RightAnchorToLeft> 
+      <TopAnchorToBottom>false</TopAnchorToBottom> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>false</TopAnchorToTop> 
+      <BottomAnchorToBottom>true</BottomAnchorToBottom> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+      <RightAnchorToRight>false</RightAnchorToRight> 
+      <LeftAnchorToRight>false</LeftAnchorToRight> 
+
+      <Style_Transparent>false</Style_Transparent> 
+      <Style_Checkbox>false</Style_Checkbox> 
+      <Text>Reload Entries</Text> 
+      <TooltipReference>Click to reload the config entries from the INI file</TooltipReference> 
+      <TextColor> 
+         <R>10</R> 
+         <G>255</G> 
+         <B>10</B> 
+      </TextColor> 
+      <ButtonDrawTemplate> 
+         <Normal>A_BtnNormal</Normal> 
+         <Pressed>A_BtnPressed</Pressed> 
+         <Flyby>A_BtnFlyby</Flyby> 
+         <Disabled>A_BtnDisabled</Disabled> 
+         <PressedFlyby>A_BtnPressedFlyby</PressedFlyby> 
+      </ButtonDrawTemplate> 
+   </Button> 
+
+   <Button item = "DC_SaveButton"> 
+      <ScreenID>DC_SaveButton</ScreenID> 
+      <Font>1</Font> 
+      <RelativePosition>true</RelativePosition> 
+      <AutoStretch>true</AutoStretch> 
+      <TopAnchorOffset>24</TopAnchorOffset> 
+      <LeftAnchorOffset>84</LeftAnchorOffset> 
+      <RightAnchorOffset>166</RightAnchorOffset> 
+      <BottomAnchorOffset>2</BottomAnchorOffset> 
+      <RightAnchorToLeft>true</RightAnchorToLeft> 
+      <TopAnchorToBottom>false</TopAnchorToBottom> 
+      <BottomAnchorToTop>false</BottomAnchorToTop> 
+      <TopAnchorToTop>false</TopAnchorToTop> 
+      <BottomAnchorToBottom>true</BottomAnchorToBottom> 
+      <LeftAnchorToLeft>true</LeftAnchorToLeft> 
+      <RightAnchorToRight>false</RightAnchorToRight> 
+      <LeftAnchorToRight>false</LeftAnchorToRight> 
+
+      <Style_Transparent>false</Style_Transparent> 
+      <Style_Checkbox>false</Style_Checkbox> 
+      <Text>Save Defaults</Text> 
+      <TooltipReference>Click to save the activated cracks as your default load set</TooltipReference> 
+      <TextColor> 
+         <R>200</R> 
+         <G>255</G> 
+         <B>10</B> 
+      </TextColor> 
+      <ButtonDrawTemplate> 
+         <Normal>A_BtnNormal</Normal> 
+         <Pressed>A_BtnPressed</Pressed> 
+         <Flyby>A_BtnFlyby</Flyby> 
+         <Disabled>A_BtnDisabled</Disabled> 
+         <PressedFlyby>A_BtnPressedFlyby</PressedFlyby> 
+      </ButtonDrawTemplate> 
+   </Button> 
+
+   <Screen item = "DoCrackWnd"> 
+      <RelativePosition>false</RelativePosition> 
+      <Location> 
+         <X>280</X> 
+         <Y>280</Y> 
+      </Location> 
+      <Size> 
+         <CX>280</CX> 
+         <CY>130</CY> 
+      </Size> 
+      <Text>MQ2DoCrack</Text> 
+      <Style_VScroll>false</Style_VScroll> 
+      <Style_HScroll>false</Style_HScroll> 
+      <Style_Transparent>false</Style_Transparent> 
+      <DrawTemplate>WDT_Def</DrawTemplate> 
+      <Style_Titlebar>true</Style_Titlebar> 
+      <Style_Closebox>true</Style_Closebox> 
+      <Style_Minimizebox>true</Style_Minimizebox> 
+      <Style_Border>true</Style_Border> 
+      <Style_Sizable>true</Style_Sizable> 
+      <Pieces>DC_CrackList</Pieces> 
+      <Pieces>DC_LoadButton</Pieces> 
+      <Pieces>DC_SaveButton</Pieces> 
+   </Screen> 
+
+</XML> 

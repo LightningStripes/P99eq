@@ -1,0 +1,178 @@
+[Fri Sep 20 13:53:40 2019] Welcome to EverQuest!
+[Fri Sep 20 13:53:40 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Fri Sep 20 13:53:40 2019] You have entered Grobb.
+[Fri Sep 20 13:53:40 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Fri Sep 20 13:53:45 2019] Madscarlet begins to cast a spell.
+[Fri Sep 20 13:54:08 2019] Madscarlet begins to cast a spell.
+[Fri Sep 20 13:54:09 2019] LOADING, PLEASE WAIT...
+[Fri Sep 20 13:54:15 2019] You have entered Innothule Swamp.
+[Fri Sep 20 13:55:11 2019] a young water moccasin looks your way apprehensively -- looks like an even fight.
+[Fri Sep 20 13:55:19 2019] Auto attack is on.
+[Fri Sep 20 13:55:19 2019] a young water moccasin hisses and strikes!
+[Fri Sep 20 13:55:19 2019] You slash a young water moccasin for 4 points of damage.
+[Fri Sep 20 13:55:19 2019] A young water moccasin bites YOU for 1 point of damage.
+[Fri Sep 20 13:55:22 2019] A young water moccasin bites YOU for 2 points of damage.
+[Fri Sep 20 13:55:23 2019] You taunt a young water moccasin to ignore others and attack you!
+[Fri Sep 20 13:55:25 2019] You slash a young water moccasin for 8 points of damage.
+[Fri Sep 20 13:55:25 2019] A young water moccasin bites YOU for 4 points of damage.
+[Fri Sep 20 13:55:28 2019] A young water moccasin bites YOU for 2 points of damage.
+[Fri Sep 20 13:55:31 2019] A young water moccasin bites YOU for 1 point of damage.
+[Fri Sep 20 13:55:34 2019] A young water moccasin bites YOU for 1 point of damage.
+[Fri Sep 20 13:55:36 2019] You slash a young water moccasin for 8 points of damage.
+[Fri Sep 20 13:55:36 2019] You have slain a young water moccasin!
+[Fri Sep 20 13:55:36 2019] You gain experience!!
+[Fri Sep 20 13:55:36 2019] You have become better at 1H Slashing! (6)
+[Fri Sep 20 13:56:24 2019] Auto attack is on.
+[Fri Sep 20 13:56:24 2019] Your target is too far away, get closer!
+[Fri Sep 20 13:56:27 2019] You have become better at Offense! (1)
+[Fri Sep 20 13:56:27 2019] You slash a large rat for 8 points of damage.
+[Fri Sep 20 13:56:27 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 13:56:28 2019] You bash a large rat for 1 point of damage.
+[Fri Sep 20 13:56:30 2019] You taunt a large rat to ignore others and attack you!
+[Fri Sep 20 13:56:30 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 13:56:33 2019] A large rat bites YOU for 4 points of damage.
+[Fri Sep 20 13:56:36 2019] You slash a large rat for 7 points of damage.
+[Fri Sep 20 13:56:36 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 13:56:37 2019] You bash a large rat for 1 point of damage.
+[Fri Sep 20 13:56:37 2019] You taunt a large rat to ignore others and attack you!
+[Fri Sep 20 13:56:42 2019] You slash a large rat for 8 points of damage.
+[Fri Sep 20 13:56:42 2019] You have slain a large rat!
+[Fri Sep 20 13:56:42 2019] You gain experience!!
+[Fri Sep 20 13:56:42 2019] You have become better at 1H Slashing! (7)
+[Fri Sep 20 13:56:49 2019] --You have looted a Rat Foot.--
+[Fri Sep 20 13:56:55 2019] a lesser kobold says, 'Grrrrr. Bark. Bark. Grrrrr.'
+[Fri Sep 20 13:56:56 2019] A lesser kobold pierces YOU for 6 points of damage.
+[Fri Sep 20 13:56:56 2019] Auto attack is on.
+[Fri Sep 20 13:56:57 2019] a lesser kobold scowls at you, ready to attack -- looks like quite a gamble.
+[Fri Sep 20 13:56:58 2019] You taunt a lesser kobold to ignore others and attack you!
+[Fri Sep 20 13:56:59 2019] A lesser kobold pierces YOU for 1 point of damage.
+[Fri Sep 20 13:57:02 2019] A lesser kobold pierces YOU for 3 points of damage.
+[Fri Sep 20 13:57:05 2019] A lesser kobold pierces YOU for 3 points of damage.
+[Fri Sep 20 13:57:05 2019] You taunt a lesser kobold to ignore others and attack you!
+[Fri Sep 20 13:57:05 2019] You have become better at Taunt! (1)
+[Fri Sep 20 13:57:06 2019] You bash a lesser kobold for 1 point of damage.
+[Fri Sep 20 13:57:08 2019] A lesser kobold pierces YOU for 1 point of damage.
+[Fri Sep 20 13:57:08 2019] You have become better at Offense! (2)
+[Fri Sep 20 13:57:08 2019] You slash a lesser kobold for 8 points of damage.
+[Fri Sep 20 13:57:11 2019] A lesser kobold pierces YOU for 4 points of damage.
+[Fri Sep 20 13:57:12 2019] You taunt a lesser kobold to ignore others and attack you!
+[Fri Sep 20 13:57:14 2019] A lesser kobold pierces YOU for 1 point of damage.
+[Fri Sep 20 13:57:20 2019] You taunt a lesser kobold to ignore others and attack you!
+[Fri Sep 20 13:57:20 2019] A lesser kobold pierces YOU for 1 point of damage.
+[Fri Sep 20 13:57:23 2019] You slash a lesser kobold for 8 points of damage.
+[Fri Sep 20 13:57:23 2019] You have become better at 1H Slashing! (8)
+[Fri Sep 20 13:57:23 2019] A lesser kobold pierces YOU for 3 points of damage.
+[Fri Sep 20 13:57:26 2019] A lesser kobold pierces YOU for 3 points of damage.
+[Fri Sep 20 13:57:27 2019] You taunt a lesser kobold to ignore others and attack you!
+[Fri Sep 20 13:57:28 2019] a lesser kobold was hit by non-melee for 11 points of damage.
+[Fri Sep 20 13:57:28 2019] A lesser kobold writhes in the grip of agony.
+[Fri Sep 20 13:57:29 2019] A lesser kobold pierces YOU for 5 points of damage.
+[Fri Sep 20 13:57:32 2019] A lesser kobold pierces YOU for 4 points of damage.
+[Fri Sep 20 13:57:35 2019] You slash a lesser kobold for 2 points of damage.
+[Fri Sep 20 13:57:35 2019] You taunt a lesser kobold to ignore others and attack you!
+[Fri Sep 20 13:57:35 2019] A lesser kobold pierces YOU for 1 point of damage.
+[Fri Sep 20 13:57:38 2019] A lesser kobold pierces YOU for 4 points of damage.
+[Fri Sep 20 13:57:40 2019] You slash a lesser kobold for 8 points of damage.
+[Fri Sep 20 13:57:40 2019] You have slain a lesser kobold!
+[Fri Sep 20 13:57:40 2019] You gain experience!!
+[Fri Sep 20 13:57:40 2019] You have become better at 1H Slashing! (9)
+[Fri Sep 20 13:57:42 2019] You receive 7 silver and 5 copper from the corpse.
+[Fri Sep 20 13:57:53 2019] --You have looted a Rusty Spear.--
+[Fri Sep 20 13:58:09 2019] A fungus spore hits YOU for 1 point of damage.
+[Fri Sep 20 13:58:10 2019] Auto attack is on.
+[Fri Sep 20 13:58:10 2019] You have become better at 1H Slashing! (10)
+[Fri Sep 20 13:58:11 2019] You taunt a fungus spore to ignore others and attack you!
+[Fri Sep 20 13:58:12 2019] A fungus spore hits YOU for 3 points of damage.
+[Fri Sep 20 13:58:13 2019] You have become better at Offense! (3)
+[Fri Sep 20 13:58:13 2019] You slash a fungus spore for 8 points of damage.
+[Fri Sep 20 13:58:13 2019] a fungus spore scowls at you, ready to attack -- looks like an even fight.
+[Fri Sep 20 13:58:15 2019] A fungus spore hits YOU for 3 points of damage.
+[Fri Sep 20 13:58:16 2019] You slash a fungus spore for 8 points of damage.
+[Fri Sep 20 13:58:16 2019] You have slain a fungus spore!
+[Fri Sep 20 13:58:16 2019] Your faction standing with FungusMan got worse.
+[Fri Sep 20 13:58:16 2019] You gain experience!!
+[Fri Sep 20 13:58:18 2019] You receive 7 copper from the corpse.
+[Fri Sep 20 13:58:21 2019] --You have looted a Sarcoscypha Fungus.--
+[Fri Sep 20 13:58:57 2019] a froglok tad scowls at you, ready to attack -- looks like an even fight.
+[Fri Sep 20 13:59:00 2019] Auto attack is on.
+[Fri Sep 20 13:59:00 2019] Your target is too far away, get closer!
+[Fri Sep 20 13:59:00 2019] Your target is too far away, get closer!
+[Fri Sep 20 13:59:00 2019] Your target is too far away, get closer!
+[Fri Sep 20 13:59:02 2019] A froglok tad bites YOU for 1 point of damage.
+[Fri Sep 20 13:59:03 2019] You taunt a froglok tad to ignore others and attack you!
+[Fri Sep 20 13:59:03 2019] You slash a froglok tad for 8 points of damage.
+[Fri Sep 20 13:59:03 2019] a froglok tad scowls at you, ready to attack -- looks like an even fight.
+[Fri Sep 20 13:59:05 2019] A froglok tad bites YOU for 3 points of damage.
+[Fri Sep 20 13:59:06 2019] You slash a froglok tad for 4 points of damage.
+[Fri Sep 20 13:59:08 2019] A froglok tad bites YOU for 3 points of damage.
+[Fri Sep 20 13:59:09 2019] You slash a froglok tad for 5 points of damage.
+[Fri Sep 20 13:59:09 2019] You have slain a froglok tad!
+[Fri Sep 20 13:59:09 2019] Your faction standing with FrogloksofGuk could not possibly get any worse.
+[Fri Sep 20 13:59:09 2019] You gain experience!!
+[Fri Sep 20 13:59:10 2019] You receive 5 copper from the corpse.
+[Fri Sep 20 13:59:11 2019] --You have looted a Netted Cap.--
+[Fri Sep 20 13:59:28 2019] Auto attack is on.
+[Fri Sep 20 13:59:28 2019] a snake looks your way apprehensively -- looks like an even fight.
+[Fri Sep 20 13:59:28 2019] Your target is too far away, get closer!
+[Fri Sep 20 13:59:30 2019] a snake looks your way apprehensively -- looks like an even fight.
+[Fri Sep 20 13:59:31 2019] a snake hisses and strikes!
+[Fri Sep 20 13:59:31 2019] A snake bites YOU for 3 points of damage.
+[Fri Sep 20 13:59:31 2019] You slash a snake for 2 points of damage.
+[Fri Sep 20 13:59:31 2019] You taunt a snake to ignore others and attack you!
+[Fri Sep 20 13:59:31 2019] You have become better at Taunt! (2)
+[Fri Sep 20 13:59:34 2019] You slash a snake for 8 points of damage.
+[Fri Sep 20 13:59:37 2019] You slash a snake for 6 points of damage.
+[Fri Sep 20 13:59:40 2019] You slash a snake for 8 points of damage.
+[Fri Sep 20 13:59:40 2019] You have slain a snake!
+[Fri Sep 20 13:59:40 2019] You gain experience!!
+[Fri Sep 20 14:03:51 2019] Basher Trak judges you amiably -- what would you like your tombstone to say?
+[Fri Sep 20 14:04:12 2019] Auto attack is on.
+[Fri Sep 20 14:04:12 2019] You slash a large rat for 8 points of damage.
+[Fri Sep 20 14:04:12 2019] A large rat bites YOU for 2 points of damage.
+[Fri Sep 20 14:04:12 2019] You taunt a large rat to ignore others and attack you!
+[Fri Sep 20 14:04:15 2019] You slash a large rat for 8 points of damage.
+[Fri Sep 20 14:04:15 2019] You have slain a large rat!
+[Fri Sep 20 14:04:15 2019] You gain experience!!
+[Fri Sep 20 14:04:18 2019] --You have looted a Rat Whiskers.--
+[Fri Sep 20 14:04:21 2019] --You have looted a Rat Ears.--
+[Fri Sep 20 14:04:57 2019] Auto attack is on.
+[Fri Sep 20 14:04:57 2019] You slash a large rat for 8 points of damage.
+[Fri Sep 20 14:04:57 2019] A large rat bites YOU for 1 point of damage.
+[Fri Sep 20 14:04:57 2019] You taunt a large rat to ignore others and attack you!
+[Fri Sep 20 14:04:58 2019] You have become better at Taunt! (3)
+[Fri Sep 20 14:05:00 2019] A large rat bites YOU for 3 points of damage.
+[Fri Sep 20 14:05:03 2019] You slash a large rat for 8 points of damage.
+[Fri Sep 20 14:05:06 2019] You slash a large rat for 1 point of damage.
+[Fri Sep 20 14:05:06 2019] You have slain a large rat!
+[Fri Sep 20 14:05:06 2019] You gain experience!!
+[Fri Sep 20 14:05:15 2019] A fungus spore hits YOU for 4 points of damage.
+[Fri Sep 20 14:05:18 2019] A fungus spore hits YOU for 1 point of damage.
+[Fri Sep 20 14:05:18 2019] Auto attack is on.
+[Fri Sep 20 14:05:19 2019] You taunt a fungus spore to ignore others and attack you!
+[Fri Sep 20 14:05:21 2019] A fungus spore hits YOU for 2 points of damage.
+[Fri Sep 20 14:05:21 2019] You slash a fungus spore for 2 points of damage.
+[Fri Sep 20 14:05:22 2019] Ability not ready.
+[Fri Sep 20 14:05:24 2019] You slash a fungus spore for 8 points of damage.
+[Fri Sep 20 14:05:24 2019] Auto attack is off.
+[Fri Sep 20 14:05:27 2019] A fungus spore hits YOU for 1 point of damage.
+[Fri Sep 20 14:05:28 2019] You taunt a fungus spore to ignore others and attack you!
+[Fri Sep 20 14:05:28 2019] You have become better at Taunt! (4)
+[Fri Sep 20 14:05:35 2019] You taunt a fungus spore to ignore others and attack you!
+[Fri Sep 20 14:05:36 2019] A fungus spore hits YOU for 2 points of damage.
+[Fri Sep 20 14:05:37 2019] Auto attack is on.
+[Fri Sep 20 14:05:39 2019] A fungus spore hits YOU for 1 point of damage.
+[Fri Sep 20 14:05:40 2019] You slash a fungus spore for 8 points of damage.
+[Fri Sep 20 14:05:43 2019] You taunt a fungus spore to ignore others and attack you!
+[Fri Sep 20 14:05:43 2019] You slash a fungus spore for 3 points of damage.
+[Fri Sep 20 14:05:43 2019] You have slain a fungus spore!
+[Fri Sep 20 14:05:43 2019] Your faction standing with FungusMan got worse.
+[Fri Sep 20 14:05:43 2019] You gain experience!!
+[Fri Sep 20 14:05:51 2019] You receive 5 copper from the corpse.
+[Fri Sep 20 14:06:15 2019] You no longer have a target.
+[Fri Sep 20 14:06:20 2019] It will take you about 30 seconds to prepare your camp.
+[Fri Sep 20 14:06:20 2019] It will take about 30 more seconds to prepare your camp.
+[Fri Sep 20 14:06:24 2019] It will take about 25 more seconds to prepare your camp.
+[Fri Sep 20 14:06:29 2019] It will take about 20 more seconds to prepare your camp.
+[Fri Sep 20 14:06:34 2019] It will take about 15 more seconds to prepare your camp.
+[Fri Sep 20 14:06:39 2019] It will take about 10 more seconds to prepare your camp.
+[Fri Sep 20 14:06:44 2019] It will take about 5 more seconds to prepare your camp.

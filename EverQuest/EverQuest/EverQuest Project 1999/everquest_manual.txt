@@ -1,0 +1,814 @@
+** PLEASE NOTE YOU SHOULD ONLY USE THE IN_GAME HELP WHEN YOUR CHARACTER IS IN A SAFE PLACE!
+ 
+ Clicking on the help button does not alleviate your character from the usual risks of being attacked.  Also know you have
+ an option to use   the /help command to get help with /commands in-game as well.
+ 
+** TO BROWSE THROUGH THIS HELP SECTION, USE THE PAGE UP and PAGE DOWN KEYS ON YOUR KEYBOARD **
+ 
+ 
+/anon or /a [ON/OFF] - Makes you Anonymous in /who and /who all, preventing other players from seeing your class, level and
+ current location.
+ 
+/afk [ON/OFF] <text> - When activated, all private tells sent to the user will auto-respond with the following text, "You 
+ told <players name>, 'Sorry, I am A.F.K. (Away from keyboard) right now.'".  If you add <text> then that text will replace
+ the default AFK message.
+ 
+/assist [target] or <character name> - if you target a character that is within 200', the /assist command will automatically
+ target for you whoever that character has targeted at the moment- this can be very useful in heavy combat.  To be most 
+ effective, it is best to set this as a Social.
+ 
+/assist [ON/OFF] - Toggles the autoattack function associated with the /assist function.  The default of ON turns on your
+ autoattack when you use /assist.  If you type /assist off then autoattack will not start when you use /assist.  This is 
+ one case where you  must use the parameters on and off for this to work.
+ 
+/attack [ON/OFF] - Toggles in and out of attack mode.  This will put you in attack mode even if nothing is targeted.  Be 
+ careful not to use this when near NPC's that you have targeted.  By default, this is set to the "a" key.  Care should also
+ be taken when you are near an NPC that you have targeted not to hit the "a" key, as this may cause you to attack the NPC.
+ 
+/auction <text> - Allows users to send auction messages throughout the current zone.  Please use this channel only for 
+ auctions.
+ 
+/autojoin <channel-list> - Saves the channels listed and automatically ;sets you to those channels when you log in.  This 
+ information is saved in your eqclient.ini file in the [Defaults] section as ChannelAutoJoin=<channel-list>.  See the section
+ in this manual about Chat Channels for more information.
+ 
+/autosplit [ON/OFF] - automatically splits any loot you get with the rest of your party.  Each member must do this to split
+ all loot.
+ 
+/book [1-50] - Opens your spell book to the specified page.
+ 
+/bug or /b - takes you to a bug-reporting screen
+ 
+/camp [desktop/server] - Allows the player to exit to the server select screen or desktop depending on what is specified.
+ You can use just /camp by itself as well.  You must be sitting in order for this command to work.  If attacked while camping
+ out, the /camp command will be cancelled, thus preventing exit from the game.
+ 
+/cast [1-8] - causes your character to cast the spell in the specified memorization slot.
+ 
+/channel [gsay/ooc/shout/guild/auction] - toggles the chat channels on or off.
+ 
+/chatfontsize [0-5] - This is for Velious subscribers only.  It is used in full screen mode only to change the chat font size.
+ 
+/consent <character name> - gives the character permission to drag your corpse
+ 
+/consider or /con - gives vital statistics of a targeted PC or NPC
+ 
+/corpse [target] - will summon the target's corpse if it is within a 50' radius of the character.  You can either target the 
+ character or the character's corpse.  This will only work if the targeted character has used the /consent command on the 
+ character trying to use the /corpse command.  If no target is selected when the /corpse command is used, it will summon your
+ own character's corpse if it is within 50' of the character.
+ 
+/decline - Declines a duel.
+ 
+/disband [target] - Allows a character to disband from a group if he/she has themselves targeted.  This command also allows 
+ the group leader to disband a targeted member of the group if they are in the same zone.
+ 
+/dismount (Luclin Only) - This command allows your character to dismount from a horse if for some reason he has lost the 
+ ability to do so using the bridle.  There is no /mount command, only the bridle will allow you to mount a horse.
+ 
+/doability [1-6|7-10] - 1-6 performs the associated ability from the "abilities" page, 7-10 perform the associated combat
+ skill.
+ 
+/duel or /d - challenges targeted PC to a duel - to accept, they have to type /d with you targeted as well. Duel is in effect
+ until one combatant "dies" (is knocked unconscious) or flees the zone.  Until the duel is resolved, the two combatants 
+ can't be affected by  spells from PCs not in the duel, nor can they cast spells on those outside the duel.
+ 
+/dynamiclights [ON/OFF] - When on, this command enables players to see specially rendered lighting.  This command is most 
+ useful when the player is holding, or has a light source with them, such as a torch.  Turn this command to off if you 
+ notice low frame rate. 
+ 
+/em <text> or : <text> - emotes the text.  Most emotes have animations associated with them, though some do not.  Predefined 
+ emotes are listed in the table at the end of this help section.
+ 
+/exit -  This command is the same as /quit and should not be used by players unless to escape from a death bind loop.
+ 
+/facepick (Luclin Only) - this command brings up an interface that allows you to choose a new face for your character using 
+ the new models for Shadows of Luclin.  You must have the Luclin character model enabled for the race of the characters 
+ whose face you are trying to change.  Currently this command can be used more than once on the same character.  In the 
+ future it will be a once per character command.
+ 
+/fastdrop [ON/OFF/NEVER] - Disables or enables the ability to drop items on the ground without a confirmation box. The 
+ recommended setting for this option is the same as the default setting, which is /fastdrop off.  If set to never, you will
+ never be able to drop any items on the ground.  If set to on, no confirmation box will come up before dropping the item 
+ on the ground.  Caution is advised as many  NPC's (Non player characters such as merchants) do pick up items dropped on
+ the ground by players.
+ 
+/feedback - takes you to the feedback/comments screen.
+ 
+/filter [ON/OFF]- Toggles the profanity filter on and off.
+ 
+/follow [target] - When this command is used while targeting another player, the user will automatically follow the targeted
+ character.
+ 
+/friend <character name> - adds or removes a 'friend' from your friends list.  /friend <character name> will add the player
+ to your list, and /friend <character name> again, for the same character, will remove him/her.  /friend by itself will 
+ list the players in your friends list.  A /who friend will let you know if anyone on your friends list is in the zone you 
+ are in, and a /who all friend will let you know if anyone on your friends list is on the server you are on.  Your friends
+ list can only contain 30 names per character.  And be aware that in order to remove someone from the list, you must type
+ their name precisely.
+ 
+/gems - This command allows a player to play the game Gems.
+ 
+/gsay <text> or /g <text> - text is seen by all in your group
+ 
+ 
+GUILD COMMANDS:
+ 
+/guildsay <text> or /gu <text> - Sends a text message to all fellow guild members currently on-line.
+ 
+/guildinvite [target] - Guild Leaders and Officers may use this command to invite new guild members.  In order to make an
+ officer, the guild leader must use the following command:  /guildinvite o <playername>.  You can also just have the player
+ targeted and type /guildinvite o.  You must be in the same zone as the player you want to invite into the guild. The letter
+ o must be lower cased.  If the player you want to make an officer is currently in the guild, they will have to /guildremove
+ themselves (with themselves targeted) , in order to be made an officer through this command.
+ 
+/guildremove [target] - Guild Leaders and Officers may use this command to remove guild members.  Keep in mind that if you
+ target yourself when executing this command, you will remove yourself from the guild.
+ 
+/guilddelete - Guild Leaders may use this command to disband a their guild.
+ 
+/guildstatus [target] or <character name> - Will return the guild status of the targeted or named character (their rank 
+ within their guild, if any).  This command will only work on characters within the same zone.
+ 
+/guildleader [target] - Transfers guild leadership status to the targeted guild officer..
+ 
+/guildwar <guild leader name> <number> - Allows the guild leader to challenge or accept another guild in guild war.  Both
+ parameters are necessary, and both guild leaders must execute the command.  The number is the number of days that the 
+ guild war will last, from 1 to 14. All members of a guild at war with another guild are PvP with each other for the 
+ duration of the guild war.
+ 
+/guildpeace <guild leader name>- Allows the guild leader to end a guild war.  Both guild leaders must execute this command
+ to end the war.  Guild war will end in any case after the time limit has passed.
+ 
+/guildmotd <text> - Officers of a guilds can specify the text to show up after the regular server MOTD (Message of the Day)
+ for each of their guild members when they log in.  The guild message of the day will always be preceded by the name of the
+ guild officer that set it up.  There is a maximum of around 200 characters for this guild motd.  Any new guild message of
+ the day overwrites the last guild message of the day.  When a server goes down, all guild messages of the day will be 
+ deleted and will need to be reset.  There is no other way to delete a guild message of the day.
+ 
+ 
+/help [emote/guild/normal] - Shows the player all of the commands available in area specified.
+ 
+/hidecorpses [all/none/allbutgroup] - This command allows the player to choose to not see other player's corpses in-game.
+ This allows for less lag in situations where there are many corpses around.  Keep in mind that the all and the 
+ allbutgroup options will hide NPC corpses.  Your own corpse is never hidden.  The default is none.
+ 
+/ignore <player name> - Will block all text from that character.
+ 
+/inspect [ON/OFF] - Toggles on and off your ability to inspect others with a right-click of the mouse.  Use this toggle 
+ if you use the mouse for movement and find yourself accidentally inspecting others.
+ 
+/invite [target] - Invites targeted player into a group.  This command can only be executed by the group leader.
+ 
+/invwinlabels - For Velious subscribers only.  This command toggles on and off the descriptions for the full screen mode 
+ inventory.
+ 
+/language - Returns the number of the language that you are currently speaking.  /language [help] returns a list of 
+ languages and their identification number.  /language [#] sets the current language.
+ 
+/lfg [ON/OFF] - Indicates that you are "Looking for a Group" in the /who and "/who all" lists.
+ 
+/log [ON/OFF]- Logs all text locally to the user's machine.  The file that is generated can be found in your EverQuest
+ directory.  The format of the filename is eqlog_(server #)_(character name).txt.
+ 
+/location or /loc - Displays the character's current location coordinates within the zone.  The location will show as 
+ x, y, z.
+ 
+/loot - Allows the character to loot a corpse from a short distance. The corpse must be targeted when performing this
+ command.  You can achieve the same result by right clicking on a corpse.
+ 
+/lootnodrop [ALWAYS/SOMETIMES/NEVER] - This command is used to specify how you loot no drop items on corpses.  Always 
+ is default and will cause a prompt box to always be shown when looting no drop items.  Set to sometimes so only items
+ not usable by your character will show a prompt box.  When you have this set to never, you will never get a confirmation
+ box to see if you want to loot or not. 
+ 
+/me - Same as /em
+ 
+/mousespeed [0-3] - Changes the mouse travel speed across the monitor.  3 is the maximum setting (the higher the number
+ the faster the mouse moves).  Don't set this above 3.  Your mouse will move too quickly and you will probably not be 
+ able to play.
+ 
+/msg - This is the same as using /Tell.
+ 
+/note <text> - Allows the player to write notes when in-game to be referenced later out of game.  This creates a notes.txt
+ file of the text.  Each line of text sent using /note is appended to the end of this file.  There is a maximum number of
+ 455 characters when creating a note.
+ 
+/ooc <text> - allows you to say something as yourself, not as your character, heard throughout the zone.  Please only use
+ this channel for out of character speech, and please try to limit your out of character speech to this channel.
+ 
+PET COMMANDS:
+ 
+/pet [command] - gives orders to a charmed or summoned pet.  Sample pet commands:
+ 
+/pet guard here - tells the pet to guard its current location.
+ 
+/pet guard me - tells the pet to attack anyone that attacks it's master, or that it's master attacks.
+ 
+/pet follow me - tells the pet to follow you, but ends when you cross a zone line.
+ 
+/pet attack [target] - tells the pet to attack the designated target.
+ 
+/pet back off - tells the pet to stop its attack.
+ 
+/pet as you were - returns the pet to neutral, belaying all prior orders.
+ 
+/pet get lost - will send the pet back to where it came from.
+ 
+/pet report health - Reports the health of your pet in percentages.
+ 
+/petition <text> - Used to request assistance from a GM.  The more detailed <text> is, the quicker the assistance can be
+ rendered.  To prevent 'spamming' of the petition queue, each character can only send in one petition (for as long as that
+ petition is in the queue).
+ 
+/played - Returns the birth date and hours played for the current character.
+ 
+/quit - Immediately exits the game.  However, when you exit in this manner, your character has not 'camped out' in the 
+ proper fashion, and he or she will remain in the game world for a short period after you have quit.  Your character will
+ be under the control of the server, and may very well die while you are not there to tell it what to do.  So only use this
+ command when you are in a rush to leave the game or are in an in-game situation that you can't get out of with the standard
+ sit and camp method.  The risk you take when using this shortcut to exit the game is all yours.
+ 
+/random [x, x y] - /random x generates a random number between 0 and x.  /random x y will generate a random number between
+ x and y.  This can be used to decide things randomly, for instance, who gets a recently acquired treasure.
+ 
+/reply <text> - If a "/tell" is received, the user may respond by using this command.  /reply will reply to the very last 
+ person to send you a /tell.
+ 
+/report <character name> -  Allows a player to report the text that is currently being displayed in the chat window.  If you
+ are reporting harassment, bad language, threats, or other actions by another player, use their character name for the 
+ <character name> in the report.  If you are reporting falling for 10,000 points damage, or other irregularities that affect
+ your character, then use your character's name.  You should then use /petition and let a GM know that you have used /report
+ so that they will know to look for your reported text.  To prevent 'spamming', you can only send one report at a time.  You
+ can do another /report only after zoning.  Please make sure to have the text you want to report in the chat window when you
+ use this command, /report will only send the bottom ten lines of text that are actually shown in your chat window.  Use 
+ Shift-Page Up and Shift-Page Down to move through your chat text until you see the text you want to report.
+ 
+/resetwindows -  Used to reset to default the locations on-screen for the different Graphical User Interface (GUI) boxes.
+ 
+/reverb [ON/OFF] - Toggles the reverb (echo) sounds on or off.
+ 
+/reversesound -  This command will reverse the left and right channel for your sound.
+ 
+/roleplay [ON/OFF] - Hides your race, class, and location while still displaying your guild tag, and turns your name purple
+ to indicate that you prefer to remain "in-character".
+ 
+/serverfilter [ON/OFF] - Allows player to turn off or on packet messages from other players, allowing for less lag in raid
+ situations.
+ 
+/shout <text> - Shouted text is seen across entire zone.  Shout is an 'in-character' channel, so please keep your speech 
+ in this channel in character.
+ 
+/shownames [ON/OFF] - turns on or off visible names above PC's and NPC's heads.
+ 
+/showspelleffects [ON/OFF] - Toggles spell effects (visuals) on or off.
+ 
+/sit [ON/OFF] - Causes your character to sit or stand.
+ 
+/split # # # # - splits a defined amount of money with your group members in the same zone: platinum, gold, silver, & copper
+ respectively...i.e. /split 4 4 2 0 splits 4 plat, 4 gold, 2 silver, and 0 copper with the rest of the group.  For example,
+ /split 4 will only split 4 platinum with your group members.  /split 0 0 0 200 will split 200 copper pieces with your group.
+ 
+/stopsong -  Bards can use this command in hotkeys to stop singing their songs.
+ 
+/surname <last name> - Players with a character level 20 or over may use this command to assign a last name to their character.
+ Once you have chosen a last name, you will not be able to change it.  So make certain that you choose a name that you like,
+ and make certain that the name meets the requirements for our naming policy (see www.everquest.com for more details).
+ 
+/targetgroupbuff - This command toggles on and off when issued.  When on, all group buff spells you cast will require a target
+ but will affect everyone grouped (and in range) with that target, even if it is not your own group.  When it is off your 
+ group buff spells will act normally.  This will only work with group buffs that have a duration, and will not affect heals, 
+ portals, change form spells or spells cast from items.
+ 
+/tell <character name> - The text is seen by the named character anywhere in the game.
+ 
+/time - gives you the time of day in Norrath and your local time (based on the clock on your computer).
+ 
+/trackfilter (Ranger only) [Red/Yellow/White/Blue/Green]) - Specify here what NPC /con colors you do not want to see in your
+ tracking display.  For example, /trackfilter Red will remove all 'red' (dangerous) NPCs from your tracking display.
+ 
+/trackplayers [ON/OFF] - Allows those with the tracking skill to indicate whether or not they want player characters to show
+ up in their tracking list.
+ 
+/tracksort - (Ranger Only) [Normal/Distance/Consider/Rdistance/Rconsider] - This is used by Rangers to control how their 
+ tracking display sorts targets.  Normal is by how long they have been in the zone (oldest NPCs first), Distance will put 
+ the closest NPC on top of the tracking list, Consider will put the highest level NPCs on top, Rdistance will  have the 
+ closest NPC listed last, Rconsider has the tracking list from low level on top to high level below.  
+ 
+/usercolor [Chat Type] Rvalue Gvalue Bvalue. - For example, For Guild chat to be yellow, you would type /usercolor 4 0 255 255.
+ This is the same as editing the TextColor portion of your Eqclient.ini file, and the list of Chat Type numbers can be found
+ in that section of this manual.
+ 
+/vrdelay [1- 5 ] - This command is used to specify the delay time for responses when using voice recognition software.
+ 
+/who - lists all player characters in your zone.
+ 
+/who corpse - lists all the corpses your character has in the current zone.
+ 
+/who all - lists all player characters in the world.
+ 
+Note: /who and /who all are also usable with masks to look for certain characters, races or classes online.  For example:
+ 
+/who wiz all - generates a list of all Wizards online in all zones.
+ 
+/who 1 5 all - generates a list of all characters online who are between levels 1 and 5.
+ 
+/who fip all - generates a list of all characters whose names begin with Fip.
+ 
+/who gm all - generates a list of all the GM's that are online and not hidden.
+ 
+/who all friend - generates a list of the players in your friends list who are online (see the /friend command).
+ 
+/whotarget - Does a "/who" on the player character targeted.
+ 
+/wincolor - This command allows players with the Velious expansion or later, to change the color and transparency of the
+ background for all of the window boxes for the updated user interface.
+ 
+ Format: /wincolor <window name> <red> <green> <blue> <trans>
+<window name> -> CHAT, SPELL, PLAYER, PARTY, TARGET, BUFF, DATA, MAIN, INV, TRACK, or HOTBOX
+<red> <green> <blue> -> 0 to 255
+<trans> -> 0 = off, 1 = 25, 2 = 50, 3 = 75, 4 = 100 percent
+To reset a window color use /wincolor <window name> reset
+ 
+/yell - will issue a "cry for help" to all players within a 100 foot radius.  Characters hearing the yell will be told 
+ what general direction the yelling is coming from.
+ 
+***  NEW CHAT CHANNEL HELP SECTION  ***
+ 
+EverQuest players can now open or join as many as 10 chat channels above and beyond the pre-created channels.  The commands
+ and discussion below only apply to these player-created channels, not to the game-wide channels such as /ooc or /shout.
+ 
+ 
+These are a few of the terms used to describe the chat channel functions:
+ 
+[] = optional parameters, <> = required parameters
+ 
+<channel> = <channel-name | 1..10>[:<password>]
+<channel-list> = <channel>[,...]
+ 
+This means that any place below where it lists <channel-entry> you can use the <channel-name> with the password after it 
+ (don't forget the colon between the two), or just the channel name where no password is in use.
+ And any place it lists <channel-list> you can use a series of <channel-entry> separated by commas.
+ 
+For example:  /chat set Voxraidleader:seekrit, Voxraidgroupleader:notsoseekrit, Voxraidgeneral
+ That would set three channels (Voxraidleader, Voxraidgroupleader and Voxraidgeneral), two with passwords 
+ (seekrit and notsoseekrit).  Though we would suggest shorter channel names...  :)
+ 
+ 
+Here is a list of the commands available for using chat channels.  After that we'll give a few examples.
+ 
+Note:  Chat channel names are not case sensitive.  You can use all lowercase letters if that makes it easier.  The 
+ exception is creating channels.  When you create a channel it will retain the capitalization you use when that name 
+ is displayed.  But for any other use in the commands below you can use lowercase letter.
+ 
+ 
+CHAT SYSTEM COMMAND LIST:
+ 
+/chat set <channel-list>	Makes you a member of all of the channels listed.  You will be joined to those channels
+ in the order listed (see /join below for details on what 'joining' a channel means).  This will remove you from all
+ previously joined channels.  If you just want to join a new channel, use the /join command
+ 
+/join <channel-list>	Allows you to join the channel or channels listed.  If the channel does not yet exist it will
+ create the channel and you will be added as a moderator for the channel (see below for moderator commands).  
+ Note:  You may use spaces when creating a channel.  But when the channel is created those spaces will be removed. 
+ So if you "/join fluffy bunny" the channel created will be "fluffybunny"
+ 
+/leave <channel>	This will remove you from the channel.  Note:  You must specify a channel, either by name or 
+ by number, or the command will fail
+ 
+/leaveall	Removes you from all channels
+ 
+/list [channel]	Using this command without the [channel] parameter will list all of the channels that you are joined to,
+ the channel number, and will give a numeric value for the number of people in that channel.  The channel number is 
+ specific to individual users, so two people in the same channel may not have the same channel number for that channel.
+ Using the command with a [channel] parameter will list the members of the channel by name.
+ 
+/announce [on | off]	Toggles on and off the announcements heard when people join or leave channels.  This is set OFF
+ by default.
+ 
+/chat #<channel-name> <message>	Sends the message to the channel named.  You must have the # symbol, that is not a hint
+ to use a number.
+ 
+/<1..10> <message>	Sends the message to the chat channel number listed.  You can discover the number of the channels
+ you are joined to by using /list.  If no channel number is specified the message will be sent to you first chat channel 
+ (whichever is your channel number 1).
+ 
+/chat help	Displays a list of chat channel commands
+ 
+CHANNEL MODERATOR COMMAND LIST:
+ 
+/chat invite <character-name> [channel]	Sends an invitation to the specified character to join a the chat channel.  If no
+ channel is specified the character will be invited to join your first channel (whichever channel is your channel number 1).
+ The invitation arrives as a text message.  If the channel is password protected, the invited person can enter the channel
+ only once without a password.
+ 
+/chat grant <character-name> [channel]	Grants moderator privileges in the channel specified to the character named.  If no
+ channel is specified the character will be given moderator privileges to your first channel (whichever channel is your 
+ channel number 1).
+ 
+/chat password <password> [channel]	Sets the password for the channel specified.  If no channel is specified the 
+ password will be applied to your first channel (whichever channel is your channel number 1).  Note:  A password protected
+ channel is the only type of channel that is semi-permanent.  Such a channel will disappear after it has been empty for 
+ 24 hours.  All other channels cease to exist once they are empty.
+ 
+/chat kick <character-name> [channel]	Kicks the character named off of the chat channel listed.  If no channel is 
+ specified the character will be kicked our of your first channel (whichever channel is your channel number 1)
+ 
+/chat moderate [channel]	Sets the specified channel to 'moderated' mode.  This means that only those given 'voice'
+ in the channel will be able to speak in that channel.  If no channel is specified your first channel (whichever channel
+ is your channel number 1) will be set into moderated mode.  This is a toggle command, so if you execute this command 
+ a second time the channel will return to unmoderated status.
+ 
+/chat voice <character-name> [channel]	Give the named character the ability to speak in a moderated channel.  If no 
+ channel is specified the character will be allowed voice in your first channel (whichever channel is your channel number 1).
+ 
+ 
+Note:  A password protected channel is the only type of channel that is semi-permanent.  Such a channel will disappear after
+ it has been empty for 24 hours.  All other channels cease to exist once they are empty.
+ 
+Note for advanced users:  /chat and / can be replaced with a semicolon ( ; ) in most cases.
+ 
+ASSOCIATED COMMANDS:
+ 
+Here are a few commands that you can use to make your chat channels even more friendly.
+ 
+/autojoin <channel-list>	Saves the channels listed and automatically ;sets you to those channels when you log in.
+ This information is saved in your eqclient.ini file in the [Defaults] section as ChannelAutoJoin=<channel-list>.  
+ You can edit that setting in the file while out of game if you wish.
+ 
+/usercolor	See the section in this manual for a description of the use of this command.  The following /usercolor 
+ numbers have been added to allow greater customization of your chat channels:
+ 
+	35 - Chat Channel Messages
+	36 - Chat Channel 1
+	37 - Chat Channel 2
+	38 - Chat Channel 3
+	39 - Chat Channel 4
+	40 - Chat Channel 5
+	41 - Chat Channel 6
+	42 - Chat Channel 7
+	43 - Chat Channel 8
+	44 - Chat Channel 9
+	45 - Chat Channel 10
+ 
+ 
+***  HITS MODE  ***   (Combat Text Display Options)
+ 
+/hitsmode allows you to create separate windows for your combat text.  This is a rather advanced feature, so it might 
+ take a little practice to get the results that you want.
+ 
+Here is the technical jargon:
+ 
+Usage: /hitsmode <my|me|other> <on|off|m2|m3|m4|m5> <X> <Y> <COUNT> <FONTSIZE> <HEADER> <BG> <WIDTH>
+ 
+my = My Attacks, me = Me Getting Hit, other = Others Attacks
+ 
+If you choose M2 through M5, then:
+<X> and <Y> are the screen location.
+<COUNT> is how many lines of text will be displayed.  The acceptable range is 1 to 10
+<FONTSIZE> is a font size of the text.  The acceptable range is 0, 1, or 2.
+<HEADER> is either on or off.  1 to turn on and 0 to turn it off.
+<BG> controls the background.  It is either on or off.  1 to turn it on or 0 to turn it off.
+<WIDTH> is the width of the background.
+ 
+note: m5 is only valid for My Attacks. It's ignored for other types and m4 is used instead.
+ 
+off - nothing displayed (turns off all these hit messages, including those in the standard chat window)
+on - displayed as normal in the chat window (standard/default mode)
+M2 - displayed at a given X,Y position for a given number of lines in a given font size. (displays all information 
+ shown in the chat damage message)
+M3 - displayed in condensed form at a given X,Y position for a given number of lines in a given font size. (damage type,
+ target damages and damage amount)
+M4 - displayed as just the damage # at a given X,Y position for a given number of lines in a given font size. (only 
+ displays damage number).
+M5 - displayed in condensed form at given X, Y position (only for My Attacks - displays type of hit and damage number)
+ 
+/clearhits will clear the current setting for the M2-M5 modes of the /hitsmode command.
+ 
+These setting are saved in the INI file and will be persistent.
+ 
+SPECIAL NOTES:
+ 
+The first time you use this setting, it is best to set all the parameters.  However, you don't have to reset them all
+ every time you want to make a change.
+ 
+Using -1 in place of any given parameter will default back to the setting saved in the INI file.  So you can use -1 
+ for any parameter that you want to remain as it is while you change others.
+ 
+You can also stop short of full parameters.  If you don't include trailing parameters (for example you leave off <WIDTH>,
+ it will use the settings for those parameters from the existing INI.
+ 
+ 
+EMOTE LISTINGS:
+ 
+/command
+emote with target
+emote without target
+ 
+Agree
+<player> agrees with <target>.
+<player> agrees with everyone around him/her.
+ 
+Amaze
+Amazed, <player> gasps at <target>.
+<player> is amazed!
+ 
+Apologize
+<player> apologizes to <target> whole-heartedly.
+<player> apologizes to everyone in the room.
+ 
+Applaud
+<player> applauds <target>'s performance.
+<player> gives a round of applause.
+ 
+Bite
+<player> bites <target> on the leg.
+<player> looks around for someone to bite!
+ 
+Bleed
+<player> bleeds all over <target>.
+<player> bleeds quietly.
+ 
+Blink
+<player> blinks at <target> in disbelief.
+<player> blinks in disbelief.
+ 
+Blush
+<player> blushes at <target>.
+<player>'s cheeks are burning.
+ 
+Boggle
+<player> boggles at <target>, shaking his/her head, looking confused.
+<player> boggles, shaking his/her head, looking confused.
+ 
+Bonk
+<player> bonks <target> on the head. 
+<player> looks around for someone to bonk!
+ 
+Bored
+<player> informs <target> that he/she is bored.
+<player> informs everyone that he/she is bored.
+ 
+Bow
+<player> bows.
+ 
+Brb
+<player> let's <target> know that he/she will be right back.
+<player> announces he/she will be right back.
+ 
+Burp
+<player> burps loudly at <target>.
+<player> burps loudly.
+ 
+Bye
+<player> waves goodbye to <target>.
+<player> waves goodbye to everyone!
+ 
+Cackle
+<player> cackles gleefully at <target>.
+<player> cackles gleefully.
+ 
+Calm
+<player> tries to calm down <target>.
+<player> feels peaceful and calm.
+ 
+Cheer
+<player> cheers.
+ 
+Clap
+<player> claps for <target> happily - hurray!
+<player> claps his/her hands together - hurray!
+ 
+Comfort
+<player> comforts him.
+<player> needs to be comforted.
+ 
+Congratulate
+<player> congratulates <target> on a job well done.
+<player> congratulates those around him/her on a job well done.
+ 
+Cough
+<player> coughs at <target>.
+<player> coughs.
+ 
+Cringe
+<player> cringes away from <target>.
+<player> cringes in terror!
+ 
+Cry
+<player> cries.
+ 
+Curious
+<player> looks at <target> curiously.
+<player> looks around him/her curiously.
+ 
+Dance
+<player> grabs hold of <target> and begins to dance.
+<player> stands on his/her tip-toes and does a dance of joy!
+ 
+Drool
+<player> drools all over <target>.
+<player> drools -- something must have him excited!
+ 
+Duck
+<player> ducks behind <target>.
+<player> ducks.
+ 
+Eye
+<player> raises an eyebrow at <target>.
+<player> raises an eyebrow inquiringly.
+ 
+Fidget
+<player> fidgets.
+ 
+Flex
+<player> flexes at <target>
+<player> flexes his/her muscles proudly.
+ 
+Gasp
+<player> gasps at <target> in astonishment.
+<player> gasps in astonishment.
+ 
+Giggle
+<player> giggles at <target>.
+<player> giggles.
+ 
+Glare
+<player> glares icily at <target>.
+<player> glares at nothing in particular.
+ 
+Grin
+<player> grins evilly at <target>.
+<player> grins evilly.
+ 
+Groan
+<player> groans at the sight of <target>.
+<player> groans loudly.
+ 
+Grovel
+<player> grovels in the dirt before <target>.
+<player> grovels in the dirt.
+ 
+Happy
+<player> is happy with <target>.
+<player> is sooo happy.
+ 
+Hungry
+<player> let's <target> know that he/she needs food, badly.
+<player> needs food, badly.
+ 
+Introduce
+<player> introduces <target> to you.  Welcome!
+<player> introduces himself/herself.  Hi there!
+ 
+Jk
+<player> let's <target> know that he/she was JUST KIDDING!
+<player> was JUST KIDDING!
+ 
+Kneel
+<player> kneels before <target> in humility and reverence.
+<player> feels righteous, and maybe a little foolish.
+ 
+Lost
+<player> let's <target> know that he/she is lost!
+<player> lets everyone know he/she is lost!
+ 
+Massage
+<player> gently massages <target>'s shoulders.
+<player> looks around for someone to message.
+ 
+Moan
+<player> moans at <target>.
+<player> starts to moan.
+ 
+Mourn
+<player> holds his/her head down and mourns the loss of <target>.
+<player> hold his/her head down and mourns the loss of the dead.
+ 
+Nod
+<player> nods.
+ 
+Nudge
+<player> nudges <target>
+ 
+Panic
+<player> screams in panic.
+ 
+Pat
+<player> pats <target> on the back.
+<player> pats him/herself on the back.
+ 
+Peer
+<player> peers at <target>, looking him/her up and down.
+<player> peers around intently.
+ 
+Plead
+<player> pleads with <target> desperately.
+<player> pleads with everyone around him/her.
+ 
+Point
+<player> points at <target>.  Yeah, you!
+<player> points <direction based on sense heading>.
+ 
+Ponder
+<player> ponders <target> -- what's going on with <target>?
+<player> ponders over matters as they appear at this moment.
+ 
+Purr
+<player> purrs at <target>.
+<player> purrs.
+ 
+Puzzle
+<player> looks at <target>, unsure of what he/she meant.
+<player> looks puzzled.
+ 
+Raise
+<player> looks at <target>, raising his/her hand.
+<player> raises his/her hand.
+ 
+Ready
+<player> asks <target> if he/she is ready.
+<player> lets everyone know he/she is ready!.
+ 
+Roar
+A low rumble emits from deep within <player>'s as he roars at <target>.
+A low rumble emits from deep within <player> and he roars like a lion!
+ 
+Rofl
+<player> rolls on the floor laughing.
+ 
+Salute
+<player> snaps to attention, saluting <target> briskly.
+<player> salutes the gods in admiration of the amazing world around him/her!
+ 
+Shiver
+<player> shivers at the thought of messing with <target>.
+Brrrrrrrrr. <player> shivers.
+ 
+Shrug
+<player> shrugs at <target>.
+<player> shrugs unknowingly.
+ 
+Sigh
+<player> sighs at <target>.
+<player> sighs, clearly disappointed.
+ 
+Smack
+<player> smacks <target>.
+<player> smacks him/herself on the forehead.
+ 
+Smirk
+<player> smirks mischievously at <target>.
+<player> smirks mischievously.
+ 
+Snarl
+<player> snarls meanly at <target>.
+<player> bares his/her teeth in a terrible snarl
+ 
+Snicker
+<player> snickers softly at <target>.
+<player> snickers softly.
+ 
+Stare
+<player> stares dreamily at <target>, completely lost in his/her eyes.
+<player> stares at the sky.
+ 
+Tap
+<player> taps his/her feet as he looks at <target> impatiently.
+<player> taps his feet, impatiently.
+ 
+Tease
+<player> teases <target> mercilessly. 
+<player> looks around, trying to find someone to tease.
+ 
+Thank
+<player> thanks <target> heartily.
+<player> thanks everyone!
+ 
+Thirsty
+<player> let's <target> know that he/she needs drink, badly.
+<player> needs drink, badly!
+ 
+Veto
+<player> veto's <target>'s idea!
+<player> veto's that idea. 
+ 
+Wave
+<player> waves at <target>.
+ 
+Welcome
+Welcome <target>!  <player> is glad you could make it!
+<player> is here!
+ 
+Whine
+<player> whines pitifully at <target>.
+<player> whines pitifully.
+ 
+Whistle
+<player> whistles at <target> appreciatively.
+Whistling, <player> shows his appreciation.
+ 
+Yawn
+<player> yawns rudely in <target>'s face.
+<player> open his/her mouth wide and yawns.
+ 

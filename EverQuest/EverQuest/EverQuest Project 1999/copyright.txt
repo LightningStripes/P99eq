@@ -1,0 +1,14 @@
+
+Copyright
+
+
+
+Portions of this software are (c) 2001 Systran Software Inc.  All rights reserved.
+
+
+Uses Miles Sound System. Copyright (c) 1991-2000 by RAD Game Tools, Inc.
+
+
+EverQuest is a registered trademark and The Planes of Power is a trademark of 
+Sony Computer Entertainment America Inc.
+(c) 2002 Sony Computer Entertainment America Inc. All rights reserved.

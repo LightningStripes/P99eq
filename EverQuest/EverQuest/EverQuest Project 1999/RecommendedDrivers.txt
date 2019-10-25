@@ -1,0 +1,55 @@
+; Video card IDs and driver pairs are listed below
+; in one of the following formats:
+;
+; VendorID website
+; {
+;   CardIDRangeStart - CardIDRangeEnd { Driver98ME2KXP }
+;   CardIDRangeStart - CardIDRangeEnd { Driver98ME, Driver2KXP }
+;   CardIDRangeStart - CardIDRangeEnd { Driver98, DriverME, Driver2K, DriverXP }
+;   CardID                            { Driver98ME2KXP }
+;   CardID                            { Driver98ME, Driver2KXP }
+;   CardID                            { Driver98, DriverME, Driver2K, DriverXP }
+; }
+;
+; EverQuest will search through this list to determine if your
+; current drivers are greater than or equal to the recommended
+; ones.
+;
+
+;; ATI Cards
+0x1002 http://www.ati.com/
+{
+  0x3150 - 0x3154 { 9163, 6575 }
+  0x3E50 - 0x3E74 { 9163, 6575 }
+  0x4144 - 0x4172 { 9163, 6575 }
+  0x4242	  { 9163, 6575 }
+  0x4437	  { 9163, 6575 }
+  0x4966 - 0x496F { 9163, 6575 }
+  0x4A48 - 0x4A6E { 9163, 6575 }
+  0x4C57 - 0x4C6F { 9163, 6575 }
+  0x4E44 - 0x4E6A { 9163, 6575 }
+  0x5144 - 0x516D { 9163, 6575 }
+  0x5460 - 0x5464 { 9163, 6575 }
+  0x5548 - 0x5568 { 9163, 6575 }
+  0x5834 - 0x5835 { 9163, 6575 }
+  0x5940 - 0x5964 { 9163, 6575 }
+  0x5B60 - 0x5B74 { 9163, 6575 }
+  0x5C61 - 0x5C63 { 9163, 6575 }
+  0x5D44 - 0x5D49 { 9163, 6575 }
+  0x7834 - 0x7835 { 9163, 6575 }
+}
+
+;; NVidia Cards
+0x10DE http://www.nvidia.com/content/drivers/drivers.asp
+{
+  0x0020 - 0x03FF { 7772, 8185 }
+}
+
+;; Matrox Cards
+0x102B http://www.matrox.com/mga/support/drivers/latest/home.cfm
+{
+  0x0527 - 0x0528 { 1478 }
+  0x2537          { 1478 }
+  0x2527	  { 1478 }
+}
+

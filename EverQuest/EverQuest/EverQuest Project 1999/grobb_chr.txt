@@ -1,0 +1,4 @@
+3
+mos,cazicthule_chr2
+pir,qeynos_chr
+tar,tar

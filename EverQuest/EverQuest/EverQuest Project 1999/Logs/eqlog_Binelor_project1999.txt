@@ -1,0 +1,32 @@
+[Thu Sep 26 15:09:02 2019] Welcome to EverQuest!
+[Thu Sep 26 15:09:02 2019] If you need help, click on the EQ Menu button at the bottom of your screen and select the "Help" option.
+[Thu Sep 26 15:09:02 2019] You have entered Halas.
+[Thu Sep 26 15:09:02 2019] MESSAGE OF THE DAY: Welcome to the Project 1999 Classic EverQuest server!  Please visit our forums for more information, and to report any bugs, at: www.project1999.com
+[Thu Sep 26 15:11:13 2019] You can't reach that, get closer.
+[Thu Sep 26 15:12:43 2019] Kylan O`Danos says, 'Greetin's! We are the mighty Wolves o' the North, protectors o' Halas, and we must work hard t' keep it safe fer our citizens. Here is our tunic, it identifies ye as a proud warrior o' this great city. Let's get started with yer training, then, shall we?'
+[Thu Sep 26 15:12:43 2019] Your faction standing with WolvesoftheNorth got better.
+[Thu Sep 26 15:12:43 2019] Your faction standing with ShadowedMen got better.
+[Thu Sep 26 15:12:43 2019] Your faction standing with MerchantsofHalas got better.
+[Thu Sep 26 15:12:43 2019] Your faction standing with SteelWarriors got better.
+[Thu Sep 26 15:12:43 2019] You gain experience!!
+[Thu Sep 26 15:12:53 2019] Kylan O`Danos says 'Nice to see you working on your skills Binelor.'
+[Thu Sep 26 15:12:53 2019] Kylan O`Danos judges you amiably -- what would you like your tombstone to say?
+[Thu Sep 26 15:12:56 2019] Kylan O`Danos says, 'Interested in training in 1H Slashing ?'
+[Thu Sep 26 15:13:00 2019] You have become better at 1H Slashing! (6)
+[Thu Sep 26 15:13:02 2019] You have become better at 1H Slashing! (7)
+[Thu Sep 26 15:13:02 2019] You have become better at 1H Slashing! (8)
+[Thu Sep 26 15:13:03 2019] You have become better at 1H Slashing! (9)
+[Thu Sep 26 15:13:03 2019] You have become better at 1H Slashing! (10)
+[Thu Sep 26 15:13:05 2019] Kylan O`Danos says 'See you soon Binelor.'
+[Thu Sep 26 15:14:16 2019] Sheeyi says, 'Hail, Waltor Felligan'
+[Thu Sep 26 15:14:16 2019] Waltor Felligan says 'Hello, me friend! I'm the resident healer o' Halas. Please inform me when ye've a need fer me talents to [bind wounds], [cure disease] or [cure poison]. Might I add, if ye're a young shaman o' Halas, ye can also [assist in gathering fungus].'
+[Thu Sep 26 15:14:20 2019] Jinkus Felligan begins to cast a spell.
+[Thu Sep 26 15:14:28 2019] Sheeyi says, 'Hail, Waltor Felligan'
+[Thu Sep 26 15:14:28 2019] Waltor Felligan says 'Hello, me friend! I'm the resident healer o' Halas. Please inform me when ye've a need fer me talents to [bind wounds], [cure disease] or [cure poison]. Might I add, if ye're a young shaman o' Halas, ye can also [assist in gathering fungus].'
+[Thu Sep 26 15:14:33 2019] Waltor Felligan says 'Up for some training Sheeyi?'
+[Thu Sep 26 15:21:20 2019] It will take you about 30 seconds to prepare your camp.
+[Thu Sep 26 15:21:25 2019] It will take about 25 more seconds to prepare your camp.
+[Thu Sep 26 15:21:30 2019] It will take about 20 more seconds to prepare your camp.
+[Thu Sep 26 15:21:35 2019] It will take about 15 more seconds to prepare your camp.
+[Thu Sep 26 15:21:40 2019] It will take about 10 more seconds to prepare your camp.
+[Thu Sep 26 15:21:45 2019] It will take about 5 more seconds to prepare your camp.

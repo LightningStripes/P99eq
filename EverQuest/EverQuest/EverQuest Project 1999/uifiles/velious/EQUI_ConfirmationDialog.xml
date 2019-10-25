@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+  <Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+  <!-- Jibartik: Thisis the start of a static background animation -->
+  <!--Jib: Background texture -->
+  <!--Jib: Background texture load END -->
+  <Ui2DAnimation item="Jib_ConfBGTexture">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds03.png</Texture>
+      <Location>
+        <X>120</X>
+        <!-- changes texture postion -->
+        <Y>0</Y>
+        <!-- changes texture postion -->
+      </Location>
+      <Size>
+        <CX>197</CX>
+        <!-- changes size of image -->
+        <CY>117</CY>
+        <!-- changes size of image -->
+      </Size>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <!-- this is the end of the pressed button -->
+  <!-- Jibartik Start: This positions a static aniamtion on the ui -->
+  <StaticAnimation item="Jib_ConfBackgroud">
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>0</X>
+      <!-- will move the image around -->
+      <Y>0</Y>
+      <!-- will move the image around -->
+    </Location>
+    <Size>
+      <CX>197</CX>
+      <!-- changes size of image -->
+      <CY>117</CY>
+      <!-- changes size of image -->
+    </Size>
+    <Animation>Jib_ConfBGTexture</Animation>
+  </StaticAnimation>
+  <!-- END: place a static anaitmion -->
+  <!-- Jibartik Start: classic Button -->
+  <Ui2DAnimation item="Jib_YesNormal">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds03.png</Texture>
+      <Location>
+        <X>215</X>
+        <Y>117</Y>
+      </Location>
+      <Size>
+        <CX>47</CX>
+        <CY>18</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <Ui2DAnimation item="Jib_YesPressed">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds03.png</Texture>
+      <Location>
+        <X>119</X>
+        <Y>117</Y>
+      </Location>
+      <Size>
+        <CX>47</CX>
+        <CY>18</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <!-- Jibartik End: classic Button -->
+  <Button item="CD_Yes_Button">
+    <ScreenID>Yes_Button</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<LeftAnchorOffset>16</LeftAnchorOffset>
+		<TopAnchorOffset>33</TopAnchorOffset>
+		<RightAnchorOffset>63</RightAnchorOffset>
+		<BottomAnchorOffset>15</BottomAnchorOffset>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+    <ButtonDrawTemplate>
+      <Normal>Jib_YesNormal</Normal>
+      <Pressed>Jib_YesPressed</Pressed>
+      <Flyby>Jib_YesNormal</Flyby>
+      <Disabled>Jib_YesPressed</Disabled>
+      <PressedFlyby>Jib_YesPressed</PressedFlyby>
+    </ButtonDrawTemplate>
+  </Button>
+  <!-- Jibartik Start: classic Button -->
+  <Ui2DAnimation item="Jib_NoNormal">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds03.png</Texture>
+      <Location>
+        <X>263</X>
+        <Y>117</Y>
+      </Location>
+      <Size>
+        <CX>47</CX>
+        <CY>18</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <Ui2DAnimation item="Jib_NoPressed">
+    <Cycle>true</Cycle>
+    <Frames>
+      <Texture>classic_backgrounds03.png</Texture>
+      <Location>
+        <X>167</X>
+        <Y>117</Y>
+      </Location>
+      <Size>
+        <CX>47</CX>
+        <CY>18</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+      <Duration>1000</Duration>
+    </Frames>
+  </Ui2DAnimation>
+  <!-- Jibartik End: classic Button -->
+  <Button item="CD_No_Button">
+    <ScreenID>No_Button</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<LeftAnchorOffset>63</LeftAnchorOffset>
+		<TopAnchorOffset>34</TopAnchorOffset>
+		<RightAnchorOffset>15</RightAnchorOffset>
+		<BottomAnchorOffset>15</BottomAnchorOffset>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+    <ButtonDrawTemplate>
+      <Normal>Jib_NoNormal</Normal>
+      <Pressed>Jib_NoPressed</Pressed>
+      <Flyby>Jib_NoNormal</Flyby>
+      <Disabled>Jib_NoPressed</Disabled>
+      <PressedFlyby>Jib_NoPressed</PressedFlyby>
+    </ButtonDrawTemplate>
+  </Button>
+  <Button item="CD_OK_Button">
+    <ScreenID>OK_Button</ScreenID>
+    <RelativePosition>true</RelativePosition>
+    <AutoStretch>true</AutoStretch>
+    <LeftAnchorOffset>105</LeftAnchorOffset>
+    <TopAnchorOffset>22</TopAnchorOffset>
+    <RightAnchorOffset>169</RightAnchorOffset>
+    <BottomAnchorOffset>2</BottomAnchorOffset>
+    <TopAnchorToTop>false</TopAnchorToTop>
+    <BottomAnchorToTop>false</BottomAnchorToTop>
+    <LeftAnchorToLeft>true</LeftAnchorToLeft>
+    <RightAnchorToLeft>true</RightAnchorToLeft>
+    <Style_Checkbox>false</Style_Checkbox>
+    <Text>Ok</Text>
+    <TextColor>
+      <R>7</R>
+      <G>7</G>
+      <B>7</B>
+    </TextColor>
+    <ButtonDrawTemplate>
+      <Normal>A_SmallBtnNormal</Normal>
+      <Pressed>A_SmallBtnPressed</Pressed>
+      <Flyby>A_SmallBtnFlyby</Flyby>
+      <Disabled>A_SmallBtnDisabled</Disabled>
+      <PressedFlyby>A_SmallBtnPressedFlyby</PressedFlyby>
+    </ButtonDrawTemplate>
+  </Button>
+  <StaticText item="CD_StaticText1">
+    <ScreenID>Text1</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>5</X>
+      <Y>5</Y>
+    </Location>
+    <Size>
+      <CX>96</CX>
+      <CY>100</CY>
+    </Size>
+    <Text>UTF16:00410042AC01AC02AC03AC04AC05</Text>
+    <TextColor>
+      <R>255</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>false</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </StaticText>
+  <STMLbox item="CD_TextOutput">
+    <ScreenID>TextOutput</ScreenID>
+    <DrawTemplate>WDT_Inner</DrawTemplate>
+    <RelativePosition>true</RelativePosition>
+    <AutoStretch>true</AutoStretch>
+    <LeftAnchorOffset>19</LeftAnchorOffset>
+    <TopAnchorOffset>16</TopAnchorOffset>
+    <RightAnchorOffset>14</RightAnchorOffset>
+    <BottomAnchorOffset>40</BottomAnchorOffset>
+    <TopAnchorToTop>true</TopAnchorToTop>
+    <BottomAnchorToTop>false</BottomAnchorToTop>
+    <LeftAnchorToLeft>true</LeftAnchorToLeft>
+    <RightAnchorToLeft>false</RightAnchorToLeft>
+    <Style_Checkbox>false</Style_Checkbox>
+    <Style_VScroll>false</Style_VScroll>
+  </STMLbox>
+  <Screen item="ConfirmationDialogBox">
+    <!--<ScreenID/>-->
+    <!--<Font/>-->
+    <RelativePosition>false</RelativePosition>
+    <Location>
+      <X>550</X>
+      <Y>350</Y>
+    </Location>
+    <Size>
+      <CX>197</CX>
+      <CY>117</CY>
+    </Size>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+    <Style_Titlebar>false</Style_Titlebar>
+    <Style_Closebox>false</Style_Closebox>
+    <Style_Minimizebox>false</Style_Minimizebox>
+    <Style_Border>false</Style_Border>
+    <Style_Sizable>false</Style_Sizable>
+    <Pieces>CD_Yes_Button</Pieces>
+    <!-- Pieces>Jib_ConfBackgroud</Pieces --> <!-- Need to figure out how to get this background working with stretch -->
+    <Pieces>CD_No_Button</Pieces>
+    <Pieces>CD_OK_Button</Pieces>
+    <Pieces>CD_TextOutput</Pieces>
+  </Screen>
+</XML>
